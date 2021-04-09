@@ -5,5 +5,6 @@
 <url> <loc>https://fussball-test.tsv-zorneding.de/mannschaften/junioren/u06</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/mannschaften/junioren/u15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/mannschaften/junioren/u19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball-test.tsv-zorneding.de/kontakt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
