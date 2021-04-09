@@ -11,3 +11,5 @@ menu_entry:
             page: /mannschaften/junioren/u06
           - page: /mannschaften/junioren/u19
             title: U19
+      - title: Herren
+      - title: Senioren
