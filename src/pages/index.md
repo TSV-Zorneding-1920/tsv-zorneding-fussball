@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
-slug: index
+slug: startseite
 showTitle: false
 sections:
   - type: banner_list
