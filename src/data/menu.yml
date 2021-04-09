@@ -1,8 +1,6 @@
 menu_entry:
-  - title: Förderverein
-    page: /forderverein
-  - page: https://www.teamprofi.de/tsv-zorneding/
-    title: Team-Kleidung
+  - title: Stadionzeitung
+    page: /stadionzeitung
   - title: Mannschaften
     menu_entry:
       - title: Herren
@@ -15,3 +13,7 @@ menu_entry:
           - title: U06
             page: /mannschaften/junioren/u06
       - title: Senioren
+  - page: https://www.teamprofi.de/tsv-zorneding/
+    title: Team-Kleidung
+  - title: Förderverein
+    page: /forderverein
