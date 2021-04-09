@@ -9,3 +9,5 @@ menu_entry:
         menu_entry:
           - title: U06
             page: /mannschaften/junioren/u06
+          - page: /mannschaften/junioren/u19
+            title: U19
