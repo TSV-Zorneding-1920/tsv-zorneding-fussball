@@ -5,11 +5,11 @@ menu_entry:
     title: Team-Kleidung
   - title: Mannschaften
     menu_entry:
+      - title: Herren
       - title: Junioren
         menu_entry:
           - title: U06
             page: /mannschaften/junioren/u06
           - page: /mannschaften/junioren/u19
             title: U19
-      - title: Herren
       - title: Senioren
