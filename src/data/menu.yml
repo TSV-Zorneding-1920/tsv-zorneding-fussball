@@ -1,3 +1,5 @@
 menu_entry:
   - title: Förderverein
     page: /forderverein
+  - page: https://www.teamprofi.de/tsv-zorneding/
+    title: Team-Kleidung
