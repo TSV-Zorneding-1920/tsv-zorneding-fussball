@@ -3,3 +3,6 @@ menu_entry:
     page: /forderverein
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Team-Kleidung
+  - title: Mannschaften
+    menu_entry:
+      - title: Junioren
