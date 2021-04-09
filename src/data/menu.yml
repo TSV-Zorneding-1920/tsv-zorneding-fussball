@@ -6,3 +6,6 @@ menu_entry:
   - title: Mannschaften
     menu_entry:
       - title: Junioren
+        menu_entry:
+          - title: U06
+            page: mannschaften/junioren/u06
