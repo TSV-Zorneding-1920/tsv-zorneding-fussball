@@ -7,6 +7,7 @@
 <url> <loc>https://fussball-test.tsv-zorneding.de/mannschaften/junioren/u15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/mannschaften/junioren/u19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/kontakt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball-test.tsv-zorneding.de/stadionzeitung</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/blog/2021-04-09-landkreispokalsieger/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball-test.tsv-zorneding.de/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
