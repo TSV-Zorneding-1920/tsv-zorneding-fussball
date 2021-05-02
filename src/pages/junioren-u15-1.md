@@ -12,7 +12,7 @@ sections:
       - image_small: /img/default_person-1.png
         title: Jakob Bouacha
         body: |-
-          Trainer
+          **Trainer**
 
           0176 /21834455
 
