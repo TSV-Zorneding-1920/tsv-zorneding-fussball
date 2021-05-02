@@ -23,12 +23,16 @@ sections:
           Trainer
 
           0176/22262681
+
+          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
           Trainer
 
           0160/97644727
+
+          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
