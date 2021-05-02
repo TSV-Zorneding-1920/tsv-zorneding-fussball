@@ -6,10 +6,10 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
-  - type: image_text
+  - type: image_text_small
     title: Trainer
-    nodes:
-      - image: /img/default_person-1.png
+    info:
+      - image_small: /img/default_person.png
         title: Jakob Bouacha
         body: |-
           Trainer
@@ -17,7 +17,7 @@ sections:
           0176 /21834455
 
           [U19@tsv-zorneding.de](U19@tsv-zorneding.de)
-      - image: /img/default_person-1.png
+      - image_small: /img/default_person.png
         title: Florian Höger
         body: |-
           Trainer
