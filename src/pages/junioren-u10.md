@@ -1,11 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U10
+title: Junioren - U10 (E-Jugend)
 slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
+    title: Jahrgang 2012
   - type: image_text_small
     title: Trainer
     info:
