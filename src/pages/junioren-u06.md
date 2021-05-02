@@ -1,11 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U06
+title: Junioren - U06 (G-Jugend)
 slug: mannschaften/junioren/u06
 showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
+    title: Jahrgang 2016
   - type: image_text_small
     title: Trainer
     info:
