@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Neuer Vorstand des Förderverein
 author: MG
-date: 2021-05-02T10:28:38.643Z
+date: 2020-07-14T10:28:38.643Z
 sticky: false
 featured: false
 featuredimage: /img/forderverein_neuer-vorstand_13.07.2020.jpg
