@@ -19,7 +19,7 @@ sections:
       - image_small: /img/default_person.png
         title: Andre Ulrich
         body: |-
-          Trainer
+          **Co-Trainer**
 
           0123/234467
 
