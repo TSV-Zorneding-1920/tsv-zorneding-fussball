@@ -23,6 +23,8 @@ sections:
           Trainer
 
           0152/36211244
+
+          [U19@tsv-zorneding.de](U19@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
