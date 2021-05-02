@@ -8,8 +8,8 @@ menu_entry:
         menu_entry:
           - page: /mannschaften/junioren/u19
             title: U19
-          - page: /mannschaften/junioren/u15
-            title: U15
+          - page: /mannschaften/junioren/u17
+            title: U17
           - title: U06
             page: /mannschaften/junioren/u06
       - title: Senioren
