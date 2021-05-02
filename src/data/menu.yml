@@ -20,6 +20,11 @@ menu_entry:
           - title: U06
             page: /mannschaften/junioren/u06
       - title: Senioren
+        menu_entry:
+          - page: mannschaften/senioren/SeniorenA
+            title: Senioren A
+          - page: mannschaften/senioren/SeniorenE
+            title: Senioren E
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Team-Kleidung
   - title: Förderverein
