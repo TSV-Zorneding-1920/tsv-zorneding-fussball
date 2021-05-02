@@ -1,6 +1,6 @@
 ---
 templateKey: static-page
-title: Herrren - 2. Mannschaft
+title: Herren - 2. Mannschaft
 slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
