@@ -5,6 +5,10 @@ menu_entry:
     menu_entry:
       - title: Herren
         menu_entry:
+          - title: 1. Mannschaft
+            page: /mannschaften/herren/1.Mannschaft
+          - page: /mannschaften/herren/2.Mannschaft
+            title: 2. Mannschaft
           - title: 3. Mannschaft
             page: /mannschaften/herren/3.Mannschaft
       - title: Junioren
