@@ -1,11 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U19
+title: Junioren - U19 (A-Jugend)
 slug: mannschaften/junioren/u19
 showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
+    title: Jahrgänge 2003 / 2004
   - type: image_text_small
     title: Trainer
     info:
