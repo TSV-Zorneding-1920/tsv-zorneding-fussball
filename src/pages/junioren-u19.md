@@ -28,7 +28,11 @@ sections:
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
+
+      19:00 bis 20:30 Uhr
+
+      **Donnerstag**
 
       19:00 bis 20:30 Uhr
 ---
