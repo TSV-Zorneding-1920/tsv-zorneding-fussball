@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Förderverein
-slug: /foerderverein
+slug: foerderverein
 showTitle: true
 sections:
   - type: body
