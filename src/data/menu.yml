@@ -43,3 +43,5 @@ menu_entry:
     title: Team-Kleidung
   - title: Förderverein
     page: /foerderverein
+  - title: Sponsoren
+    page: /Sponsoren
