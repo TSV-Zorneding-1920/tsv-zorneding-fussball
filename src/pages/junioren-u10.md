@@ -17,4 +17,14 @@ sections:
           0152/36211244
 
           [U10@tsv-zorneding.de](U10@tsv-zorneding.de)
+  - type: body
+    title: Trainingszeiten
+    body: |-
+      **Dienstag**
+
+      16:30-18:00 Uhr
+
+      **Freitag**
+
+      16:00-17:30 Uhr
 ---
