@@ -86,5 +86,5 @@ sections:
 
           [john.dite@mailbox.org](john.dite@mailbox.org)
         title: John Dite
-    title: Ansprechpartner
+    title: Ansprechpartner Fußballabteilung
 ---
