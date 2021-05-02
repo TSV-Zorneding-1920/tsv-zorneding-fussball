@@ -65,10 +65,26 @@ sections:
       - image_small: /img/default_person.png
         title: Werner Eichner
         body: |-
-          Zeugwart
+          **Zeugwart**
 
           0176/30133393
 
           [werner.eichner@gmx.net](werner.eichner@gmx.net)
+      - image_small: /img/default_person.png
+        title: Thomas Hennig
+        body: |-
+          **1. Kassier**
+
+          0170/4548539
+
+          [hennig-zorneding@t-online.de](hennig-zorneding@t-online.de)
+      - image_small: /img/default_person.png
+        body: |-
+          **2. Kassier**
+
+          0170/7984856
+
+          [john.dite@mailbox.org](john.dite@mailbox.org)
+        title: John Dite
     title: Ansprechpartner
 ---
