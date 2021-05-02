@@ -1,6 +1,6 @@
 ---
 templateKey: static-page
-title: Herrren - 1. Mannschaft
+title: Herren - 1. Mannschaft
 slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
