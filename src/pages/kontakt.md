@@ -4,6 +4,12 @@ title: Kontakt
 slug: kontakt
 showTitle: true
 sections:
+  - type: body
+    body: |-
+      **Am Sportpark 4, 85604 Zorneding**
+
+      **[fussball@tsv-zorneding.de](fussball@tsv-zorneding.de)**
+    title: ""
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
