@@ -1,6 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
+slug: /Startseite
 showTitle: false
 sections:
   - type: banner_list
@@ -9,10 +10,7 @@ sections:
   - type: teaser_list
     offset: 1
     count: 3
-  - type: image_text
-    title: Vielen Dank an unsere Sponsoren
-    nodes:
-      - image: /img/inovis_claim_2018.bmp
-        link: http://www.inovis-online.de
-        title: INOVIS
+  - type: iframe
+    title: Aktueller Spielplan und Ergebnisse
+    html: https://www.bfv.de/vereine/tsv-zorneding/00ES8GNHFK000011VV0AG08LVUPGND5I
 ---
