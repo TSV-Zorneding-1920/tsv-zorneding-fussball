@@ -4,6 +4,9 @@ menu_entry:
   - title: Mannschaften
     menu_entry:
       - title: Herren
+        menu_entry:
+          - title: 3. Mannschaft
+            page: /mannschaften/herren/3.Mannschaft
       - title: Junioren
         menu_entry:
           - page: /mannschaften/junioren/u19
