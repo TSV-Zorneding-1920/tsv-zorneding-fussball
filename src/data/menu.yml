@@ -14,24 +14,24 @@ menu_entry:
       - title: Junioren
         menu_entry:
           - page: /mannschaften/junioren/u19
-            title: U19
+            title: U19 (A-Jugend)
           - page: /mannschaften/junioren/u17
-            title: U17
+            title: U17 (B-Jugend)
           - page: /mannschaften/junioren/u15
-            title: U15
+            title: U15 (C-Jugend)
           - page: /mannschaften/junioren/u13
-            title: U13
+            title: U13 (D-Jugend)
           - page: /mannschaften/junioren/u11
-            title: U11
+            title: U11 (E-Jugend)
           - page: /mannschaften/junioren/u10
             title: U10 (E-Jugend)
           - page: /mannschaften/junioren/u09
-            title: U09
+            title: U09 (F-Jugend)
           - page: /mannschaften/junioren/u08
-            title: U08
+            title: U08 (F-Jugend)
           - page: /mannschaften/junioren/u07
-            title: U07
-          - title: U06
+            title: U07 (G-Jugend)
+          - title: U06 (G-Jugend)
             page: /mannschaften/junioren/u06
       - title: Senioren
         menu_entry:
