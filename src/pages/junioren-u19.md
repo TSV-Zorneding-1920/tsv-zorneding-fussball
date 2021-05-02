@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U19
-slug: mannschaften/junioren/u19
+title: Herrren - 3. Mannschaft
+slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
   - type: image
