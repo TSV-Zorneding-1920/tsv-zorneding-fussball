@@ -11,7 +11,7 @@ sections:
       - image_small: /img/default_person-1.png
         title: Lukas Höger
         body: |-
-          Trainer
+          **Trainer**
 
           0176/57832728
 
