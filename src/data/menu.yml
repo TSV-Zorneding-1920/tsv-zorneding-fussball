@@ -17,6 +17,20 @@ menu_entry:
             title: U19
           - page: /mannschaften/junioren/u17
             title: U17
+          - page: /mannschaften/junioren/u15
+            title: U15
+          - page: /mannschaften/junioren/u13
+            title: U13
+          - page: /mannschaften/junioren/u11
+            title: U11
+          - page: /mannschaften/junioren/u10
+            title: U10 (E-Jugend)
+          - page: /mannschaften/junioren/u09
+            title: U09
+          - page: /mannschaften/junioren/u08
+            title: U08
+          - page: /mannschaften/junioren/u07
+            title: U07
           - title: U06
             page: /mannschaften/junioren/u06
       - title: Senioren
