@@ -1,11 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U09
+title: Junioren - U09 (F-Jugend)
 slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
+    title: Jahrgang 2013
   - type: image_text_small
     title: Trainer
     info:
