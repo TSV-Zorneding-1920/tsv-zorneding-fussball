@@ -1,6 +1,6 @@
 ---
 templateKey: static-page
-title: Herrren - 3. Mannschaft
+title: Herren - 3. Mannschaft
 slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
