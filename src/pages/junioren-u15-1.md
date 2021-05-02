@@ -1,11 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U15
+title: Junioren - U15 (C-Jugend)
 slug: mannschaften/junioren/u15
 showTitle: true
 sections:
   - type: image
     image_large: /img/190913_tsv_100jahre_5x3m_logo-2.png
+    title: Jahrgänge 2007/2008 u. jünger
   - type: image_text_small
     title: Trainer
     info:
