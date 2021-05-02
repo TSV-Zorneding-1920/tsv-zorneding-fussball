@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U15
-slug: mannschaften/junioren/u15
+title: Junioren - U17
+slug: mannschaften/junioren/u17
 showTitle: true
 sections:
   - type: image
@@ -16,13 +16,19 @@ sections:
 
           0172/7225799
 
-          [mark@grusz.de](mailto:mark@grusz.de)
+          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Mustafa Bayrak
-        body: CO-Trainer
+        body: |-
+          Trainer
+
+          0176/22262681
       - image_small: /img/default_person.png
         title: Andreas Koppitz
-        body: CO-Trainer
+        body: |-
+          Trainer
+
+          0160/97644727
   - type: body
     title: Trainingszeiten
     body: |-
