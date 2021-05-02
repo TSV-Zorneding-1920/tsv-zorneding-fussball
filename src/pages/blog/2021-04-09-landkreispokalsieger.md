@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Landkreispokalsieger
 author: MG
-date: 2021-04-09T16:10:40.245Z
+date: 2019-06-30T16:10:40.245Z
 sticky: false
 featured: false
 featuredimage: /img/img_8130.jpg
