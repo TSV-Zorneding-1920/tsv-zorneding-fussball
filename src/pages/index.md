@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
-slug: https://fussball-test.tsv-zorneding.de/startseite
+slug: startseite
 showTitle: false
 sections:
   - type: banner_list
