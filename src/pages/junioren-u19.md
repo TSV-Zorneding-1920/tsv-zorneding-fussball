@@ -9,21 +9,21 @@ sections:
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
-        title: Rudi Riedl
+        title: Rudolf Riedl
         body: |-
           **Trainer**
 
-          0123/23456789
+          0151/23060710
 
-          mail
+          [e1log@t-online.de](e1log@t-online.de)
       - image_small: /img/default_person.png
         title: Andre Ulrich
         body: |-
           **Co-Trainer**
 
-          0123/234467
+          0157/72536460
 
-          mail
+          [mail](and.ullrich@yahoo.de)
     title: Trainer
   - type: body
     title: Trainingszeiten
