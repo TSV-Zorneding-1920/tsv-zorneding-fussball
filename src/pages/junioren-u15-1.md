@@ -11,11 +11,11 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Jakob Bouacha
+        title: N.N.
         body: |-
           **Trainer**
 
-          0176 /21834455
+          Telefon
 
           [U15@tsv-zorneding.de](U15@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
