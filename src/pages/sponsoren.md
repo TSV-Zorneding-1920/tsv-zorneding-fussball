@@ -11,6 +11,8 @@ sections:
   - type: image_text
     title: Wir danken allen Sponsoren sehr herzlich für ihre Unterstützung !
     nodes:
+      - image: /img/gartnerei-schutz.jpg
+        title: Gärtnerei Schütz
       - image: /img/inovis_logo.jpg
         title: INOVIS GmbH
         link: ""
