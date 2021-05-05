@@ -13,7 +13,9 @@ sections:
       - image_small: /img/default_person.png
         title: Jakob Bouacha
         body: |-
-          Trainer
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
 
           0176 /21834455
 
@@ -21,7 +23,9 @@ sections:
       - image_small: /img/default_person.png
         title: Florian Höger
         body: |-
-          Trainer
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
 
           0152/36211244
 
