@@ -24,12 +24,10 @@ sections:
       Wir wollen uns weiterhin um die Kleinsten, die G-Junioren – U7, ebenso intensiv kümmern, wie um die Ältesten, die A-Junioren – U19, die dann als fertige Sportler an die Erwachsenenmannschaften abgegeben werden können.
 
 
-      Wir würden uns sehr freuen, wenn Sie unser Anliegen zur Förderung des Fußballs in Zorneding unterstützen, sei es in Form einer Mitgliedschaft, einer Spende oder durch eine Bandenwerbung.\
-
-      [Entsprechende Formulare finden Sie hier auf der Internetseite zum Download.](http://www.fussball-herren.tsv-zorneding.de/userfiles/downloads/Fussball_Foerderverein/Beitrittsformular%20Foederverein_TSV%20Zorneding%201920%20eV_20161209.pdf)
+      Wir würden uns sehr freuen, wenn Sie unser Anliegen zur Förderung des Fußballs in Zorneding unterstützen, sei es in Form einer Mitgliedschaft, einer Spende oder durch eine Bandenwerbung.
 
 
-      Vielen Dank für Ihre Unterstützung.
+      [](http://www.fussball-herren.tsv-zorneding.de/userfiles/downloads/Fussball_Foerderverein/Beitrittsformular%20Foederverein_TSV%20Zorneding%201920%20eV_20161209.pdf)Vielen Dank für Ihre Unterstützung.
     title: Fussballförderverein TSV Zorneding 1920 e.V.
   - type: image_text_small
     title: Ihre Ansprechpartner
