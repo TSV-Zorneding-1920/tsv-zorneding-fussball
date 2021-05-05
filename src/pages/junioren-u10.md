@@ -15,6 +15,8 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz Kinder u. Jugend
+
           0152/36211244
 
           [U10@tsv-zorneding.de](U10@tsv-zorneding.de)
