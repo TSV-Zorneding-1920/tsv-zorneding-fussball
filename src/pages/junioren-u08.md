@@ -15,6 +15,8 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz Kinder u. Jugend
+
           0173 / 8486069
 
           [U08@tsv-zorneding.de](U08@tsv-zorneding.de)
