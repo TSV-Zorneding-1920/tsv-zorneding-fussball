@@ -15,12 +15,21 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz Kinder u. Jugend
+
           0160/90114453
 
           [U13@tsv-zorneding.de](U13@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Martin Meyer
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
+
+          0152/03422724
+
+          [U13@tsv-zorneding.de](U13@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Stephan Hölschermann
         body: "**Co-Trainer**"
