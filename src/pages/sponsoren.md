@@ -15,6 +15,6 @@ sections:
         title: INOVIS GmbH
         link: ""
       - image: /img/saurer-wolf_bandenwerbung.jpg
-        link: www.saurer-wolf.de
+        link: ""
         title: Saurer & Wolf GmbH
 ---
