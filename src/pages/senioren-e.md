@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Senioren E
-slug: mannschaften/senioren/Senioren
+slug: mannschaften/senioren/SeniorenE
 showTitle: true
 sections:
   - type: image
