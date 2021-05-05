@@ -13,7 +13,7 @@ sections:
     nodes:
       - image: /img/inovis_logo.jpg
         title: INOVIS GmbH
-        link: www.inovis-online.de
+        link: ""
       - image: /img/saurer-wolf_bandenwerbung.jpg
         link: www.saurer-wolf.de
         title: Saurer & Wolf GmbH
