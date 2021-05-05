@@ -13,6 +13,8 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz
+
           0176/57832728
 
           [lukashoeger@gmail.com](lukashoeger@gmail.com)
