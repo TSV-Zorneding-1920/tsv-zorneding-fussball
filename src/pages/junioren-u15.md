@@ -15,13 +15,17 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz Kinder u. Jugend
+
           0172/7225799
 
           [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Mustafa Bayrak
         body: |-
-          Trainer
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
 
           0176/22262681
 
@@ -29,7 +33,9 @@ sections:
       - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
-          Trainer
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
 
           0160/97644727
 
