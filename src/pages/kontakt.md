@@ -53,13 +53,13 @@ sections:
           [chris.dite@gmx.net](chris.dite@gmx.net)
         title: Christopher Dite
       - image_small: /img/default_person.png
-        title: Patrick Baueregger
+        title: Mario Hüneburg
         body: |-
-          **Schiedsrichterobmann**
+          **Technischer Leiter**
 
-          Telefon
+          0172/5885798
 
-          mail
+          [mario.hueneburg@tsv-zorneding.de](mario.hueneburg@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
@@ -92,5 +92,13 @@ sections:
 
           [john.dite@mailbox.org](john.dite@mailbox.org)
         title: John Dite
+      - image_small: /img/default_person.png
+        title: Patrick Baueregger
+        body: |-
+          **Schiedsrichterobmann**
+
+          Telefon
+
+          mail
     title: Ansprechpartner Fußballabteilung
 ---
