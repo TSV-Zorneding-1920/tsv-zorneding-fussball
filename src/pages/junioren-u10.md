@@ -11,23 +11,27 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Florian Höger
+        title: Janek Kaiser
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0152/36211244
+          01573/9024158
 
           [U10@tsv-zorneding.de](U10@tsv-zorneding.de)
+      - image_small: /img/default_person.png
+        title: Manuel Kaiser
+        body: |-
+          **Trainer**
+
+          0157/80789544
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
-      16:30-18:00 Uhr
+      17:00- 18:30 Uhr
 
-      **Freitag**
+      **Mittwoch**
 
-      16:00-17:30 Uhr
+      17:00- 18:30 Uhr
 ---
