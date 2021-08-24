@@ -44,3 +44,6 @@ menu_entry:
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Team-Kleidung
   - title: Sportstätten
+    menu_entry:
+      - title: Sportstätten
+        page: /Sportstätten
