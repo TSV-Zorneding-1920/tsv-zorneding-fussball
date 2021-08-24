@@ -41,7 +41,7 @@ sections:
         body: |-
           **Seniorenleiter**
 
-          0160/
+          0160/2893892
 
           [hans.geissler2@freenet.de](hans.geissler2@freenet.de)
       - image_small: /img/default_person.png
