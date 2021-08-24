@@ -23,7 +23,7 @@ sections:
     body: |-
       **Montag**
 
-      17:15 - 18:30 Uhr
+      17:00 - 18:30 Uhr
 
       **Donnerstag**
 
