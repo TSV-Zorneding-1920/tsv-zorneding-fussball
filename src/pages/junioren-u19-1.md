@@ -35,9 +35,9 @@ sections:
     body: |-
       **Montag**
 
-      19:00 - 20:45 Uhr
+      19:00 - 20:30 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
-      18:00  - 19:30 Uhr
+      19:00  - 20:30 Uhr
 ---
