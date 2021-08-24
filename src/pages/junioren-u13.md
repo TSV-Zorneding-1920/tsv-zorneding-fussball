@@ -11,6 +11,14 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
+        title: Marinus Savary
+        body: |-
+          **Trainer**
+
+          01575/4105385
+
+          [U13@TSV-Zorneding.de](U13@tsv-zorneding.de)
+      - image_small: /img/default_person-1.png
         title: Patrick Dreikandt
         body: |-
           **Trainer**
@@ -30,17 +38,14 @@ sections:
           0152/03422724
 
           [U13@tsv-zorneding.de](U13@tsv-zorneding.de)
-      - image_small: /img/default_person-1.png
-        title: Stephan Hölschermann
-        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
       **Montag**
 
-      18:00 - 19.30 Uhr
+      17:15 - 18:45 Uhr
 
       **Mittwoch**
 
-      18:00 - 19.30 Uhr
+      17:15 - 18:45 Uhr
 ---
