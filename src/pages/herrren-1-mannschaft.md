@@ -14,6 +14,8 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-B-Lizenz
+
           0176/32881471
 
           [bergmannsascha@gmx.de](bergmannsascha@gmx.de)
