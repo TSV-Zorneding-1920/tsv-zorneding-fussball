@@ -5,34 +5,34 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/1-mannschaft_2019_2.jpg
+    image_large: /img/img_0008.jpg
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: N.N.
+        title: Sascha Bergmann
         body: |-
           **Trainer**
 
-          Telefon
+          0176/32881471
 
-          mail
+          [bergmannsascha@gmx.de](bergmannsascha@gmx.de)
       - image_small: /img/default_person-1.png
-        title: N.N.
+        title: Florian Heppert
         body: |-
           **Co-Trainer**
 
-          Telefon
+          0160/94801019
 
-          mail
+          [florian.heppert@web.de](florian.heppert@web.de)
   - type: body
     title: Trainingszeiten
     body: |-
       **Dienstag**
 
-      19:00 bis 20:30 Uhr
+      19:15 bis 21:00 Uhr
 
       **Donnerstag**
 
-      19:00 bis 20:30 Uhr
+      19:15 bis 21:00 Uhr
 ---
