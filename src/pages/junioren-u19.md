@@ -9,30 +9,17 @@ sections:
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
-        title: Rudolf Riedl
-        body: |-
-          **Trainer**
-
-          0151/23060710
-
-          [e1log@t-online.de](e1log@t-online.de)
-      - image_small: /img/default_person.png
-        title: Andre Ulrich
-        body: |-
-          **Co-Trainer**
-
-          0157/72536460
-
-          [mail](and.ullrich@yahoo.de)
+        title: N.N
+        body: "**Trainer**"
     title: Trainer
   - type: body
     title: Trainingszeiten
     body: |-
       **Dienstag**
 
-      19:00 bis 20:30 Uhr
+      19:15 bis 21:00 Uhr
 
       **Donnerstag**
 
-      19:00 bis 20:30 Uhr
+      19:15 bis 21:00 Uhr
 ---
