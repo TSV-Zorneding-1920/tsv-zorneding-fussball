@@ -11,17 +11,21 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: N.N.
+        title: Christine Gaedtke
         body: |-
           **Trainer**
 
-          Telefon
+          0176/52116163
 
           [U07@tsv-zorneding.de](U07@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
-      **Freitag**
+      **Montag**
 
-      16:00-17:00 Uhr
+      17:00-18:00 Uhr
+
+      **Donnerstag**
+
+      17:00-18:00 Uhr
 ---
