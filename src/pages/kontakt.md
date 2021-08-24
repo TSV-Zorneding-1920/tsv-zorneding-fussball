@@ -81,7 +81,7 @@ sections:
         body: |-
           **1. Kassier**
 
-          0170/4548539
+          0179/4158611
 
           [hennig-zorneding@t-online.de](hennig-zorneding@t-online.de)
       - image_small: /img/default_person.png
