@@ -18,7 +18,7 @@ sections:
           0176/57832728
 
           [Mail](lukashoeger@gmail.com)
-      - image_small: /img/default_person.png
+      - image_small: /img/rudolf-riedl.jpg
         title: Rudolf Riedl
         body: |-
           **Trainer**
