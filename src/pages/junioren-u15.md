@@ -45,9 +45,9 @@ sections:
     body: |-
       **Dienstag**
 
-      17:45 - 19:15 Uhr
+      18:00 - 19:30 Uhr
 
       **Donnerstag**
 
-      17:45 - 19:15 Uhr
+      18:00 - 19:30 Uhr
 ---
