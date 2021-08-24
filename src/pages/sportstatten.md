@@ -22,9 +22,7 @@ sections:
     caption: SoccerFive
   - type: image
     image_large: /img/sporthalle-aussen.jpg
+    title: Sporthalle - Am Sportpark 7, 85604 Zorneding
   - type: image
     image_large: /img/sporthalle-innen.jpg
-  - type: banner_list
-    offset: 0
-    count: 3
 ---
