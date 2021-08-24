@@ -7,16 +7,16 @@ sections:
   - type: image
     image_large: /img/banner_vielen-dank.jpg
   - type: image
-    image_large: /img/gartnerei-schutz.jpg
+    image_large: /img/gartnerei-schutz_klein.jpg
   - type: image_text
-    title: ""
     nodes:
       - image: /img/inovis_logo.jpg
         title: INOVIS GmbH
-        link: ""
       - image: /img/saurer-wolf_bandenwerbung.jpg
-        link: ""
         title: Saurer & Wolf GmbH
+  - type: image_text
+    title: ""
+    nodes:
       - image: /img/logo_raiba_slogan_4c.jpg
         title: Raiffeisenbank Zorneding eG
       - image: /img/spk-logo-desktop.png
