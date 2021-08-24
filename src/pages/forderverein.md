@@ -48,16 +48,12 @@ sections:
           Kassier
 
           0160/97644727
-
-          mail
       - image_small: /img/default_person.png
         title: Thomas Hennig
-        body: >-
+        body: |-
           Schriftführer
 
+          0179/4158611
 
-          0170/4548539
-
-
-          [](tel:+491704548539)[hennig-zorneding@t-online.de](hennig-zorneding@t-online.de)
+          [](tel:+491704548539)[](hennig-zorneding@t-online.de)
 ---
