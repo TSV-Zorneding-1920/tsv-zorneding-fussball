@@ -13,7 +13,7 @@ sections:
       - image_small: /img/default_person-1.png
         title: Christine Gaedtke
         body: |-
-          **Trainer**
+          **Trainerin**
 
           0176/52116163
 
