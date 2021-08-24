@@ -1,6 +1,4 @@
 menu_entry:
-  - title: Stadionzeitung
-    page: /stadionzeitung
   - title: Mannschaften
     menu_entry:
       - title: Herren
@@ -45,3 +43,4 @@ menu_entry:
     page: /Sponsoren
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Team-Kleidung
+  - title: Sportstätten
