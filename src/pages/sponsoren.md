@@ -4,13 +4,10 @@ title: Sponsoren
 slug: Sponsoren
 showTitle: true
 sections:
-  - type: banner
-    image: /img/banner_vielen-dank.jpg
-  - type: banner
-    image: /img/gartnerei-schutz.jpg
-    headline: ""
-    title: ""
-    body: ""
+  - type: image
+    image_large: /img/banner_vielen-dank.jpg
+  - type: image
+    image_large: /img/gartnerei-schutz.jpg
   - type: image_text
     title: ""
     nodes:
@@ -20,12 +17,22 @@ sections:
       - image: /img/saurer-wolf_bandenwerbung.jpg
         link: ""
         title: Saurer & Wolf GmbH
-  - type: image_text_small
-    info:
-      - image_small: /img/logo_raiba_slogan_4c.jpg
+      - image: /img/logo_raiba_slogan_4c.jpg
         title: Raiffeisenbank Zorneding eG
-      - image_small: /img/logo_neuwirt_ahr.jpg
-        title: Hotel Neuwirt
-      - image_small: /img/spk-logo-desktop.png
+      - image: /img/spk-logo-desktop.png
         title: Kreissparkasse München Starnberg Ebersberg
+      - image: /img/logo_neuwirt_ahr.jpg
+        title: Gasthof Hotel Neuwirt
+      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh.jpg
+        title: Continentale Ernst Stegmeier
+      - image: /img/noble-optic_logo.jpg
+        title: Noble Optic
+      - image: /img/soccergolf-logo.jpg
+        title: Soccergolf München
+      - image: /img/alpenhain_logo_web_rgb.png
+        title: Alpenhain
+      - image: /img/logo_web.jpg
+        title: food artists
+      - image: /img/hoermann-logo-gruppe_rgb.png
+        title: Hörmann Gruppe
 ---
