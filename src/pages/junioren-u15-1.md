@@ -11,16 +11,23 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: N.N.
+        title: Alexander Ostner
         body: |-
           **Trainer**
 
-          Telefon
+          Trainer-C-Lizenz Kinder u. Jugend
+
+          0176/43907075
 
           [U15@tsv-zorneding.de](U15@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Marcus Nagle
-        body: "**Co-Trainer**"
+        body: |-
+          **Co-Trainer**
+
+          0172/7483253
+
+          [U15@tsv-zorneding.de](U15@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
