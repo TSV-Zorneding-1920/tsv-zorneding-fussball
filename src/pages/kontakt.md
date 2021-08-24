@@ -45,22 +45,6 @@ sections:
 
           [hans.geissler2@freenet.de](hans.geissler2@freenet.de)
       - image_small: /img/default_person.png
-        body: |-
-          **Pressewart/Schriftführer**
-
-          0176/21834455
-
-          [chris.dite@gmx.net](chris.dite@gmx.net)
-        title: Christopher Dite
-      - image_small: /img/default_person.png
-        title: Mario Hüneburg
-        body: |-
-          **Technischer Leiter**
-
-          0172/5885798
-
-          [mario.hueneburg@tsv-zorneding.de](mario.hueneburg@tsv-zorneding.de)
-      - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
           **Platzwart**
@@ -76,6 +60,22 @@ sections:
           0176/30133393
 
           [werner.eichner@gmx.net](werner.eichner@gmx.net)
+      - image_small: /img/default_person.png
+        body: |-
+          **Pressewart/Schriftführer**
+
+          0176/21834455
+
+          [chris.dite@gmx.net](chris.dite@gmx.net)
+        title: Christopher Dite
+      - image_small: /img/default_person.png
+        title: Patrick Baueregger
+        body: |-
+          **Schiedsrichterobmann**
+
+          0151/15351520
+
+          Mail
       - image_small: /img/default_person.png
         title: Thomas Hennig
         body: |-
@@ -93,12 +93,12 @@ sections:
           [john.dite@mailbox.org](john.dite@mailbox.org)
         title: John Dite
       - image_small: /img/default_person.png
-        title: Patrick Baueregger
+        title: Mario Hüneburg
         body: |-
-          **Schiedsrichterobmann**
+          **Technischer Leiter**
 
-          Telefon
+          0172/5885798
 
-          mail
+          [mario.hueneburg@tsv-zorneding.de](mario.hueneburg@tsv-zorneding.de)
     title: Ansprechpartner Fußballabteilung
 ---
