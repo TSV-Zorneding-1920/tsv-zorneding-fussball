@@ -38,9 +38,8 @@ menu_entry:
           - page: /mannschaften/senioren/SeniorenE
             title: Senioren E
   - title: Sportstätten
-    menu_entry:
-      - title: Sportstätten
-        page: /Sportstätten
+    menu_entry: []
+    page: /Sportstätten
   - title: Sponsoren
     page: /Sponsoren
   - title: Förderverein
