@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Sportstätten
-slug: Sportstätten
+slug: Sportstaetten
 showTitle: true
 sections:
   - type: image
