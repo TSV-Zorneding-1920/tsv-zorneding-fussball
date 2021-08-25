@@ -7,7 +7,7 @@ sections:
   - type: image
     image_large: /img/banner_vielen-dank.jpg
   - type: image
-    image_large: /img/gartnerei-schutz_klein.jpg
+    image_large: /img/gartnerei-schutz_logo.jpg
   - type: image_text
     nodes:
       - image: /img/inovis_logo.jpg
