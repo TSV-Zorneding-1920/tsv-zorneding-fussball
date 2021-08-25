@@ -39,7 +39,7 @@ menu_entry:
             title: Senioren E
   - title: Sportstätten
     menu_entry: []
-    page: /Sportstätten
+    page: /Sportstaetten
   - title: Sponsoren
     page: /Sponsoren
   - title: Förderverein
