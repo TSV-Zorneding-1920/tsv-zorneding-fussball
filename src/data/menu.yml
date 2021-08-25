@@ -37,12 +37,11 @@ menu_entry:
             title: Senioren A
           - page: /mannschaften/senioren/SeniorenE
             title: Senioren E
-  - title: Sportstätten
-    menu_entry: []
-    page: /Sportstaetten
   - title: Sponsoren
     page: /Sponsoren
   - title: Förderverein
     page: /foerderverein
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Team-Kleidung
+  - title: Sportstätten
+    page: Sportstaetten
