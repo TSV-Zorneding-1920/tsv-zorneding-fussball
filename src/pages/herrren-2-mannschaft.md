@@ -5,7 +5,7 @@ slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/2.mannschaft.jpg
+    image_large: /img/2.mannschaft_2_web.jpg
   - type: image_text_small
     info:
       - image_small: /img/default_person-1.png
