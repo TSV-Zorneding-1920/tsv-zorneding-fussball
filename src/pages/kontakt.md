@@ -20,7 +20,7 @@ sections:
           0176/21834455
 
           [jakobb@email.de](mailto:jakobb@email.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: |-
           **2. Abteilungsleiter**
