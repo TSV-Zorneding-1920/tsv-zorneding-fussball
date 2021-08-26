@@ -37,6 +37,7 @@ menu_entry:
             title: Senioren A
           - page: /mannschaften/senioren/SeniorenE
             title: Senioren E
+    page: /Mannschaften
   - title: Sportstätten
     page: /Sportstaetten
   - title: Sponsoren
