@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u06
 showTitle: true
 sections:
   - type: image
-    image_large: /img/platzhalter-1024x768.jpg
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
     title: Jahrgang 2016
   - type: image_text_small
     title: Trainer
