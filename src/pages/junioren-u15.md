@@ -5,12 +5,12 @@ slug: mannschaften/junioren/u17
 showTitle: true
 sections:
   - type: image
-    image_large: /img/img_8130.jpg
+    image_large: /img/team_placeholder.png
     title: Jahrgänge 2005/2006
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: |-
           **Trainer**
