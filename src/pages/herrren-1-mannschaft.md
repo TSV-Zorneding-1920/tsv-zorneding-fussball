@@ -37,4 +37,7 @@ sections:
       **Donnerstag**
 
       19:15 bis 21:00 Uhr
+  - type: iframe
+    title: Aktueller Spielplan, Ergebnisse und Tabelle
+    html: https://www.bfv.de/mannschaften/tsv-zorneding/016PC82MDG000000VV0AG80NVV8OQVTB
 ---
