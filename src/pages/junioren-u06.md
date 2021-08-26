@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/default_person-1.png
         title: Christine Gaedtke
         body: |-
           **Trainerin**
