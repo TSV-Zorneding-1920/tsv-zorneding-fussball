@@ -6,6 +6,26 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/banner_vielen-dank.jpg
+  - type: carousel
+    images:
+      - image: /img/gartnerei-schutz_logo.jpg
+        caption: Gärtnerei Schütz Pöring
+      - image: /img/inovis_logo.bmp
+        caption: www.inovis-online.de
+      - image: /img/saurer-wolf_bandenwerbung.jpg
+        caption: www.saurer-wolf.de
+      - image: /img/hoermann-logo-gruppe_rgb.png
+        caption: www.hoermann-gruppe.com
+      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh.jpg
+        caption: Continentale Geschäftsstelle Ernst Stegmeier GmbH
+      - image: /img/logo_raiba_slogan_4c.jpg
+        caption: www.rb-zorneding.de
+      - image: /img/spk-logo-desktop.png
+        caption: www.kskmse.de
+      - image: /img/logo_neuwirt_ahr.jpg
+        caption: www.hotelneuwirt.de
+      - image: /img/alpenhain_logo_web_rgb.png
+        caption: www.alpenhain.de
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image_text
