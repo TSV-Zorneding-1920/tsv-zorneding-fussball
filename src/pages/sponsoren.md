@@ -29,7 +29,7 @@ sections:
         title: Noble Optic
       - image: /img/soccergolf-logo.jpg
         title: Soccergolf München
-      - image: /img/alpenhain_logo_web_rgb.png
+      - image: /img/alpenhain_logo_web_1.png
         title: Alpenhain
       - image: /img/logo_web.jpg
         title: food artists
