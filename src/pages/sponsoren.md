@@ -10,7 +10,7 @@ sections:
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image_text
     nodes:
-      - image: /img/inovis_logo.jpg
+      - image: /img/logo_inovis.svg
         title: INOVIS GmbH
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
@@ -33,6 +33,6 @@ sections:
         title: Alpenhain
       - image: /img/logo_web.jpg
         title: food artists
-      - image: /img/hoermann-logo-gruppe_rgb.png
+      - image: /img/hoermann-logo-gruppe_rgb.svg
         title: Hörmann Gruppe
 ---
