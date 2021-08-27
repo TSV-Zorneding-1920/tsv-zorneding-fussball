@@ -17,14 +17,16 @@ sections:
   - type: image_text
     title: ""
     nodes:
+      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh.jpg
+        title: Continentale Ernst Stegmeier
+      - image: /img/hoermann-logo-gruppe_rgb.png
+        title: Hörmann Gruppe
       - image: /img/logo-rbz.webp
         title: Raiffeisenbank Zorneding eG
       - image: /img/logo-ksk.webp
         title: Kreissparkasse München Starnberg Ebersberg
       - image: /img/logo_neuwirt_ahr.jpg
         title: Gasthof Hotel Neuwirt
-      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh.jpg
-        title: Continentale Ernst Stegmeier
       - image: /img/noble-optic_logo.jpg
         title: Noble Optic
       - image: /img/soccergolf-logo.jpg
@@ -33,6 +35,4 @@ sections:
         title: Alpenhain
       - image: /img/logo_web.jpg
         title: food artists
-      - image: /img/hoermann-logo-gruppe_rgb.svg
-        title: Hörmann Gruppe
 ---
