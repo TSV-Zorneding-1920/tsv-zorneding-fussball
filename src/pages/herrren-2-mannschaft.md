@@ -37,4 +37,17 @@ sections:
 
       19:15 bis 21:00 Uhr
     title: Trainingszeiten
+  - type: iframe
+    title: Aktueller Spielplan, Ergebnisse und Tabelle
+    html: >-
+      <script type='text/javascript'
+      src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
+
+      <div id="bfv1630936751768">Laden...</div>
+
+      <script>
+
+      BFVWidget.HTML5.zeigeMannschaftKomplett("016PMA3RB0000000VV0AG80NVUT1FLRU", "bfv1630936751768", { height: "800", width: "600", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+
+      </script>
 ---
