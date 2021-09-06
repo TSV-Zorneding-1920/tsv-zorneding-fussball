@@ -14,11 +14,14 @@ sections:
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
-      <div id="bfv1630935102101">Laden...</div>
+      <script type='text/javascript'
+      src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
+
+      <div id="bfv1630936088056">Laden...</div>
 
       <script>
 
-      BFVWidget.HTML5.zeigeVereinSpiele("00ES8GNHFK000011VV0AG08LVUPGND5I", "bfv1630935102101", { height: "600", width: "600", selectedTab: BFVWidget.HTML5.vereinTabs.spiele, colorResults: "" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+      BFVWidget.HTML5.zeigeVereinSpiele("00ES8GNHFK000011VV0AG08LVUPGND5I", "bfv1630936088056", { height: "600", width: "600", selectedTab: BFVWidget.HTML5.vereinTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
 
       </script>
 ---
