@@ -24,4 +24,17 @@ sections:
       **Mittwoch**
 
       19:30 - 21:00 Uhr
+  - type: iframe
+    title: Aktueller Spielplan, Ergebnisse und Tabelle
+    html: >-
+      <script type='text/javascript'
+      src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
+
+      <div id="bfv1630950545325">Laden...</div>
+
+      <script>
+
+      BFVWidget.HTML5.zeigeMannschaftKomplett("025RT3N6AO000000VS548985VS233PFC", "bfv1630950545325", { height: "600", width: "350", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+
+      </script>
 ---
