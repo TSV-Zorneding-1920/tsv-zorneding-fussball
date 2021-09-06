@@ -39,5 +39,12 @@ sections:
       19:15 bis 21:00 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
-    html: https://www.bfv.de/mannschaften/tsv-zorneding/016PC82MDG000000VV0AG80NVV8OQVTB
+    html: >-
+      <div id="bfv1630935862665">Laden...</div>
+
+      <script>
+
+      BFVWidget.HTML5.zeigeMannschaftKomplett("016PC82MDG000000VV0AG80NVV8OQVTB", "bfv1630935862665", { height: "600", width: "350", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+
+      </script>
 ---
