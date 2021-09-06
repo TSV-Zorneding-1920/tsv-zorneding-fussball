@@ -40,6 +40,9 @@ sections:
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
+      <script type='text/javascript'
+      src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
+
       <div id="bfv1630935862665">Laden...</div>
 
       <script>
