@@ -13,5 +13,6 @@ sections:
     count: 3
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
-    html: https://www.bfv.de/vereine/tsv-zorneding/00ES8GNHFK000011VV0AG08LVUPGND5I
+    html: <script type='text/javascript'
+      src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
 ---
