@@ -43,11 +43,11 @@ sections:
       <script type='text/javascript'
       src="https://widget-prod.bfv.de/widget/widgetresource/widgetjs"></script>
 
-      <div id="bfv1630936751768">Laden...</div>
+      <div id="bfv1630937059684">Laden...</div>
 
       <script>
 
-      BFVWidget.HTML5.zeigeMannschaftKomplett("016PMA3RB0000000VV0AG80NVUT1FLRU", "bfv1630936751768", { height: "800", width: "600", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
+      BFVWidget.HTML5.zeigeMannschaftKomplett("016PMA3RB0000000VV0AG80NVUT1FLRU", "bfv1630937059684", { height: "800", width: "350", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
 
       </script>
 ---
