@@ -27,7 +27,7 @@ sections:
 
           0172/7483253
 
-          [U15@tsv-zorneding.de](U15@tsv-zorneding.de)
+          [](U15@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
