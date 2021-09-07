@@ -19,7 +19,7 @@ sections:
 
           0176 /21834455
 
-          [U19@tsv-zorneding.de](mailto:U19@tsv-zorneding.de)
+          [U19-FBJ@tsv-zorneding.de](mailto:U19-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Florian Höger
         body: |-
@@ -29,7 +29,7 @@ sections:
 
           0152/36211244
 
-          [U19@tsv-zorneding.de](mailto:U19@tsv-zorneding.de)
+          [U19-FBJ@tsv-zorneding.de](mailto:U19-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
