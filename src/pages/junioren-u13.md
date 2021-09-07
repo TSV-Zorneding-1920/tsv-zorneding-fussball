@@ -17,7 +17,7 @@ sections:
 
           01575/4105385
 
-          [U13@TSV-Zorneding.de](mailto:U13@tsv-zorneding.de)
+          [U13-FBJ@TSV-Zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Patrick Dreikandt
         body: |-
@@ -27,7 +27,7 @@ sections:
 
           0160/90114453
 
-          [U13@tsv-zorneding.de](mailto:U13@tsv-zorneding.de)
+          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Martin Meyer
         body: |-
@@ -37,7 +37,7 @@ sections:
 
           0152/03422724
 
-          [U13@tsv-zorneding.de](mailto:U13@tsv-zorneding.de)
+          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
