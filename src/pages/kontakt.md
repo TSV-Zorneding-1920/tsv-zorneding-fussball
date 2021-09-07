@@ -8,7 +8,7 @@ sections:
     body: |-
       **Am Sportpark 4, 85604 Zorneding**
 
-      **[fussball@tsv-zorneding.de](fussball@tsv-zorneding.de)**
+      **[fussball@tsv-zorneding.de](mailto:fussball@tsv-zorneding.de)**
     title: ""
   - type: image_text_small
     info:
