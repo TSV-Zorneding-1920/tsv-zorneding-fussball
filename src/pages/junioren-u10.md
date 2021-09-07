@@ -17,7 +17,7 @@ sections:
 
           01573/9024158
 
-          [U10@tsv-zorneding.de](mailto:U10@tsv-zorneding.de)
+          [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Manuel Kaiser
         body: |-
