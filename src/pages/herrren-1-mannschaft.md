@@ -18,7 +18,7 @@ sections:
 
           0176/32881471
 
-          [bergmannsascha@gmx.de](bergmannsascha@gmx.de)
+          [bergmannsascha@gmx.de](mailto:bergmannsascha@gmx.de)
       - image_small: /img/default_person-1.png
         title: Florian Heppert
         body: |-
@@ -26,7 +26,7 @@ sections:
 
           0160/94801019
 
-          [florian.heppert@web.de](florian.heppert@web.de)
+          [florian.heppert@web.de](mailto:florian.heppert@web.de)
   - type: body
     title: Trainingszeiten
     body: |-
