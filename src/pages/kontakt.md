@@ -19,7 +19,7 @@ sections:
 
           0176/21834455
 
-          [jakobb@email.de](mailto:jakobb@email.de)
+          jakobb@email.de
       - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: >-
@@ -29,15 +29,17 @@ sections:
           0172/7225799
 
 
-          [](fussball@tsv-zorneding.de)[fussball@tsv-zorneding.de](fussball@tsv-zorneding.de)
+          [](fussball@tsv-zorneding.de)[fussball@tsv-zorneding.de](mailto:fussball@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Marcus Nagle
-        body: |-
+        body: >-
           **Jugendleiter**
+
 
           0172/7483253
 
-          [fb-jugendleitung@tsv-zorneding.de](fb-jugendleitung@tsv-zorneding.de)
+
+          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Johannes Geißler
         body: |-
