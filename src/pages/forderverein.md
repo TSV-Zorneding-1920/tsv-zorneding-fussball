@@ -41,7 +41,7 @@ sections:
           0172/7225799
 
 
-          [fussballfoerderverein-zorneding@gmx.de](fussballfoerderverein-zorneding@gmx.de)
+          [fussballfoerderverein-zorneding@gmx.de](mailto:fussballfoerderverein-zorneding@gmx.de)
       - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
