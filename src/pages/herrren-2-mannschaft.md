@@ -17,7 +17,7 @@ sections:
 
           0176/57832728
 
-          [Mail](lukashoeger@gmail.com)
+          [lukashoeger@gmail.com](mailto:lukashoeger@gmail.com)
       - image_small: /img/rudolf-riedl.jpg
         title: Rudolf Riedl
         body: |-
@@ -25,7 +25,7 @@ sections:
 
           0151/23060710
 
-          [Mail](e1log@t-online.de)
+          [e1log@t-online.de](mailto:e1log@t-online.de)
     title: Trainer
   - type: body
     body: |-
