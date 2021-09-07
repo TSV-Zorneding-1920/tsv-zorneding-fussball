@@ -19,7 +19,7 @@ sections:
 
           0172/7225799
 
-          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
+          [U17@tsv-zorneding.de](mailto:U17@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Mustafa Bayrak
         body: |-
@@ -29,7 +29,7 @@ sections:
 
           0176/22262681
 
-          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
+          [U17@tsv-zorneding.de](mailto:U17@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
@@ -39,7 +39,7 @@ sections:
 
           0160/97644727
 
-          [U17@tsv-zorneding.de](U17@tsv-zorneding.de)
+          [U17@tsv-zorneding.de](mailto:U17@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
