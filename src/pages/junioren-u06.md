@@ -17,7 +17,7 @@ sections:
 
           0176/52116163
 
-          [U06@tsv-zorneding.de](mailto:U06@tsv-zorneding.de)
+          [Bambini6-FBJ@tsv-zorneding.de](mailto:Bambini6-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
