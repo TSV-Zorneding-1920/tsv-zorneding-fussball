@@ -17,7 +17,7 @@ sections:
 
           01575/4105385
 
-          [U13-FBJ@TSV-Zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
+          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Patrick Dreikandt
         body: |-
