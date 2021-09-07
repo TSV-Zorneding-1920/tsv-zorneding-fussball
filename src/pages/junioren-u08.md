@@ -22,6 +22,7 @@ sections:
           [U08-FBJ@tsv-zorneding.de](mailto:U08-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Moritz Rottmeier
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
