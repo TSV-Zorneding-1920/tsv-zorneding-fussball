@@ -18,7 +18,7 @@ sections:
 
           0176/21883917
 
-          [U11@tsv-zorneding.de](U11@tsv-zorneding.de)
+          [U11@tsv-zorneding.de](mailto:U11@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Niklas Eberhardt
         body: |-
@@ -28,7 +28,7 @@ sections:
 
           0176/64778230
 
-          [U11@tsv-zorneding.de](U11@tsv-zorneding.de)
+          [U11@tsv-zorneding.de](mailto:U11@tsv-zorneding.de)
     title: Trainer
   - type: body
     title: Trainingszeiten
