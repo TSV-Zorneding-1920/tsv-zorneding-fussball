@@ -8,7 +8,7 @@ sections:
     body: |-
       **Am Sportpark 4, 85604 Zorneding**
 
-      **[fussball@tsv-zorneding.de](mailto:fussball@tsv-zorneding.de)**
+      **fussball@tsv-zorneding.de**
     title: ""
   - type: image_text_small
     info:
@@ -19,7 +19,7 @@ sections:
 
           0176/21834455
 
-          jakobb@email.de
+          [jakobb@email.de](mailto:jakobb@email.de)
       - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: >-
@@ -47,7 +47,7 @@ sections:
 
           0160/2893892
 
-          [hans.geissler2@freenet.de](hans.geissler2@freenet.de)
+          [hans.geissler2@freenet.de](mailto:hans.geissler2@freenet.de)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
@@ -55,7 +55,7 @@ sections:
 
           0157/85978993
 
-          [man.hauser@t-online.de](man.hauser@t-online.de)
+          [man.hauser@t-online.de](mailto:man.hauser@t-online.de)
       - image_small: /img/default_person.png
         title: Werner Eichner
         body: |-
@@ -63,14 +63,14 @@ sections:
 
           0176/30133393
 
-          [werner.eichner@gmx.net](werner.eichner@gmx.net)
+          [werner.eichner@gmx.net](mailto:werner.eichner@gmx.net)
       - image_small: /img/default_person.png
         body: |-
           **Pressewart/Schriftführer**
 
           0176/21834455
 
-          [chris.dite@gmx.net](chris.dite@gmx.net)
+          [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
         title: Christopher Dite
       - image_small: /img/default_person.png
         title: Patrick Baueregger
@@ -87,22 +87,24 @@ sections:
 
           0179/4158611
 
-          [hennig-zorneding@t-online.de](hennig-zorneding@t-online.de)
+          [hennig-zorneding@t-online.de](mailto:hennig-zorneding@t-online.de)
       - image_small: /img/default_person.png
         body: |-
           **2. Kassier**
 
           0170/7984856
 
-          [john.dite@mailbox.org](john.dite@mailbox.org)
+          [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
       - image_small: /img/default_person.png
         title: Mario Hüneburg
-        body: |-
+        body: >-
           **Technischer Leiter**
+
 
           0172/5885798
 
-          [mario.hueneburg@tsv-zorneding.de](mario.hueneburg@tsv-zorneding.de)
+
+          [mario.hueneburg@tsv-zorneding.de](mailto:mario.hueneburg@tsv-zorneding.de)
     title: Ansprechpartner Fußballabteilung
 ---
