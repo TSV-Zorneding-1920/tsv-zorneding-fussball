@@ -19,7 +19,7 @@ sections:
 
           0176/43907075
 
-          [U15@tsv-zorneding.de](U15@tsv-zorneding.de)
+          [U15@tsv-zorneding.de](mailto:U15@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Marcus Nagle
         body: |-
