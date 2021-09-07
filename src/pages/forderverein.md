@@ -32,7 +32,7 @@ sections:
   - type: image_text_small
     title: Ihre Ansprechpartner
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: >-
           1. Vorsitzender
