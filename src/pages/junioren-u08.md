@@ -19,7 +19,7 @@ sections:
 
           0173 / 8486069
 
-          [U08@tsv-zorneding.de](mailto:U08@tsv-zorneding.de)
+          [U08-FBJ@tsv-zorneding.de](mailto:U08-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Moritz Rottmeier
   - type: body
