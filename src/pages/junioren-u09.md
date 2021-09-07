@@ -17,7 +17,7 @@ sections:
 
           0151/12567075
 
-          [U09@tsv-zorneding.de](mailto:U09@tsv-zorneding.de)
+          [U09-FBJ@tsv-zorneding.de](mailto:U09-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
