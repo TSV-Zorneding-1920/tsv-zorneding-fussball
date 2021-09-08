@@ -22,14 +22,12 @@ sections:
           [jakobb@email.de](mailto:jakobb@email.de)
       - image_small: /img/img_0023.jpg
         title: Mark Grusz
-        body: >-
+        body: |-
           **2. Abteilungsleiter**
-
 
           0172/7225799
 
-
-          [](fussball@tsv-zorneding.de)[fussball@tsv-zorneding.de](mailto:fussball@tsv-zorneding.de)
+          [mark@grusz.de](mailto:mark@grusz.de)
       - image_small: /img/default_person.png
         title: Marcus Nagle
         body: >-
