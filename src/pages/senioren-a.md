@@ -12,12 +12,14 @@ sections:
     info:
       - image_small: /img/default_person-1.png
         title: Alexander Bezold
-        body: |-
+        body: >-
           **Betreuer**
+
 
           0177/7825989
 
-          [bezold.alexander@googlemail.com](bezold.alexander@googlemail.com)
+
+          [bezold.alexander@googlemail.com](mailto:bezold.alexander@googlemail.com)
   - type: body
     title: Trainingszeiten
     body: |-
