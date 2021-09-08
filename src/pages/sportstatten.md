@@ -4,25 +4,20 @@ title: Sportstätten
 slug: Sportstaetten
 showTitle: true
 sections:
-  - type: image
-    image_large: /img/sportpark-station.jpg
+  - type: carousel
+    images:
+      - image: /img/sportpark-station.jpg
+        caption: Station (Platz 1)
+      - image: /img/sportpark-nebenplatz.jpg
+        caption: Nebenplatz (Platz 2)
+      - image: /img/sportpark-aussenplatz.jpg
+        caption: Trainingsplatz
+      - image: /img/sportpark-soccerfive.jpg
+        caption: Soccerfive Platz
     title: Sportpark Zorneding - Am Sportpark 4, 85604 Zorneding
-    caption: Stadion (Platz 1)
-  - type: image
-    image_large: /img/sportpark-nebenplatz.jpg
-    title: ""
-    caption: Nebenplatz (Platz 2)
-  - type: image
-    image_large: /img/sportpark-aussenplatz.jpg
-    title: ""
-    caption: Trainingsplatz
-  - type: image
-    image_large: /img/sportpark-soccerfive.jpg
-    title: ""
-    caption: SoccerFive
-  - type: image
-    image_large: /img/sporthalle-aussen.jpg
+  - type: carousel
     title: Sporthalle - Am Sportpark 7, 85604 Zorneding
-  - type: image
-    image_large: /img/sporthalle-innen.jpg
+    images:
+      - image: /img/sporthalle-aussen.jpg
+      - image: /img/sporthalle-innen.jpg
 ---
