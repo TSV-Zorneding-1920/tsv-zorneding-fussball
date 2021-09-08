@@ -35,7 +35,7 @@ sections:
       - image_small: /img/img_0023.jpg
         title: Mark Grusz
         body: >-
-          1. Vorsitzender
+          **1.Vorsitzender**
 
 
           0172/7225799
@@ -45,13 +45,13 @@ sections:
       - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
-          Kassier
+          **Kassier**
 
           0160/97644727
       - image_small: /img/default_person.png
         title: Thomas Hennig
         body: |-
-          Schriftführer
+          **Schriftführer**
 
           0179/4158611
 
