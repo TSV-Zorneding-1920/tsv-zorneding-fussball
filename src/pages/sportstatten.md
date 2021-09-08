@@ -7,11 +7,11 @@ sections:
   - type: image
     image_large: /img/sportpark-station.jpg
     title: Sportpark Zorneding - Am Sportpark 4, 85604 Zorneding
-    caption: Stadion
+    caption: Stadion (Platz 1)
   - type: image
     image_large: /img/sportpark-nebenplatz.jpg
     title: ""
-    caption: Nebenplatz
+    caption: Nebenplatz (Platz 2)
   - type: image
     image_large: /img/sportpark-aussenplatz.jpg
     title: ""
