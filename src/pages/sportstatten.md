@@ -1,6 +1,6 @@
 ---
 templateKey: static-page
-title: Sportstätten
+title: Sportstätten / Anfahrt
 slug: Sportstaetten
 showTitle: true
 sections:
