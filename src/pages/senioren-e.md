@@ -17,7 +17,7 @@ sections:
 
           0160/2893892
 
-          [hans.geissler2@freenet.de](hans.geissler2@freenet.de)
+          [hans.geissler2@freenet.de](mailto:hans.geissler2@freenet.de)
   - type: body
     title: Trainingszeiten
     body: |-
