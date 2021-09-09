@@ -10,7 +10,7 @@ sections:
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image_text
     nodes:
-      - image: /img/inovis_claim_2018_rgb.jpg
+      - image: /img/inovis_2018_50-.bmp
         title: INOVIS GmbH
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
