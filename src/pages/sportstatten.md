@@ -24,8 +24,8 @@ sections:
   - type: carousel
     title: Sporthalle - Am Sportpark 7, 85604 Zorneding
     images:
-      - image: /img/sporthalle-aussen1.jpg
-      - image: /img/sporthalle-aussen2.jpg
+      - image: /img/sporthalle-aussen1aa.jpg.jpeg
+      - image: /img/sporthalle-aussen1a.jpg.jpeg
       - image: /img/sporthalle-aussen3.jpg
       - image: /img/sporthalle-innen1.jpg
       - image: /img/sporthalle-innen.jpg
