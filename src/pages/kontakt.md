@@ -104,5 +104,9 @@ sections:
 
 
           [mario.hueneburg@tsv-zorneding.de](mailto:mario.hueneburg@tsv-zorneding.de)
+      - image_small: /img/default_person-1.png
+        title: Yvonne Linnemann
+      - image_small: /img/default_person-1.png
+        title: Thomas Sitte
     title: Ansprechpartner Fußballabteilung
 ---
