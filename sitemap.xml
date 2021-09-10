@@ -4,8 +4,8 @@
 <url> <loc>https://fussball.tsv-zorneding.de/foerderverein</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/herren/1.Mannschaft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/herren/2.Mannschaft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fussball.tsv-zorneding.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u06</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball.tsv-zorneding.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u08</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u09</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -22,9 +22,9 @@
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/senioren/SeniorenE</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/Sponsoren</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/Sportstaetten</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fussball.tsv-zorneding.de/blog/2021-05-02-neuer-vorstand-des-forderverein/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/blog/2021-05-02-neuwahlen-der-fussballabteilung-des-tsv-zorneding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/blog/2021-08-24-zum-saisonbeginn-in-neuen-gewand/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball.tsv-zorneding.de/blog/2021-05-02-neuer-vorstand-des-forderverein/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/blog/2021-08-26-jahreskarte-fur-die-saison-2021-22/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/blog/2021-08-26-trainerwechsel-bei-der-1-mannschaft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
