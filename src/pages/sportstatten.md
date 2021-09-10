@@ -6,14 +6,20 @@ showTitle: true
 sections:
   - type: carousel
     images:
-      - image: /img/sportpark-station.jpg
+      - image: /img/sportpark_staditon1.jpeg
         caption: Station (Platz 1)
-      - image: /img/sportpark-nebenplatz.jpg
+      - caption: Station (Platz 1)
+        image: /img/sportpark_staditon2.jpeg
+      - image: /img/sportpark_station_tribune.jpg
+        caption: Station Tribüne
+      - image: /img/sportpark_nebenplatz.jpeg
         caption: Nebenplatz (Platz 2)
-      - image: /img/sportpark-aussenplatz.jpg
+      - image: /img/sportpark_trainingsplatz.jpeg
         caption: Trainingsplatz
-      - image: /img/sportpark-soccerfive.jpg
+      - image: /img/sportpark_soccerfive.jpeg
         caption: Soccerfive Platz
+      - caption: Hartplatz
+        image: /img/sportpark_hartplatz.jpeg
     title: Sportpark Zorneding - Am Sportpark 4, 85604 Zorneding
   - type: iframe
     html: <iframe
