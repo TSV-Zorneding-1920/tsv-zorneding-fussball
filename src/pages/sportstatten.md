@@ -8,7 +8,7 @@ sections:
     images:
       - image: /img/sportpark_staditon1.jpeg
         caption: Station (Platz 1)
-      - caption: Station (Platz 1)
+      - caption: Station
         image: /img/sportpark_staditon2.jpeg
       - image: /img/sportpark_station_tribune.jpg
         caption: Station Tribüne
