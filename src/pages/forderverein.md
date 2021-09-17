@@ -42,7 +42,7 @@ sections:
 
 
           [fussballfoerderverein-zorneding@gmx.de](mailto:fussballfoerderverein-zorneding@gmx.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/koppitz-andreas_2.jpg
         title: Andreas Koppitz
         body: |-
           **Kassier**
