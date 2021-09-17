@@ -20,7 +20,7 @@ sections:
           0172/7225799
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/bayrak-mustafa_1.jpg
         title: Mustafa Bayrak
         body: |-
           **Trainer**
@@ -30,7 +30,7 @@ sections:
           0176/22262681
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/koppitz-andreas_2.jpg
         title: Andreas Koppitz
         body: |-
           **Trainer**
