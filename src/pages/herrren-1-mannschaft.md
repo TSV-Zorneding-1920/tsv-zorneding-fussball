@@ -5,7 +5,7 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/1.-mannschaft_web.jpg
+    image_large: /img/1.-mannschaft_web_bearbeitet.jpg
   - type: image_text_small
     title: Trainer
     info:
