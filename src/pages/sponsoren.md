@@ -65,4 +65,12 @@ sections:
         title: Gasthaus Schlammerl
       - image: /img/tassilo.jpg
         title: TASSILO Apotheke
+      - image: /img/skeide-coaching.png
+        title: Skeide Coaching
+      - image: /img/buch-wein.png
+        title: "Buch & Wein "
+      - image: /img/taxi-zorneding.jpg
+        title: TAXI Zorneding
+      - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
+        title: VHS Vaterstetten
 ---
