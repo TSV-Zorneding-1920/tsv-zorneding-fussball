@@ -23,6 +23,8 @@ sections:
         title: Continentale Ernst Stegmeier
       - image: /img/hoermann-logo-gruppe_rgb.png
         title: Hörmann Gruppe
+      - image: /img/kreditbegleiter-koppitz.jpg
+        title: Kreditbegleiter Koppitz
       - image: /img/logo-rbz.webp
         title: Raiffeisenbank Zorneding eG
       - image: /img/logo-ksk.webp
@@ -37,8 +39,6 @@ sections:
         title: Soccergolf München
       - image: /img/alpenhain_logo_web_1.png
         title: Alpenhain
-      - image: /img/logo_web.jpg
-        title: food artists
       - image: /img/zib-logo280.png
         title: Zahnheilkunde Birkenhof
       - image: /img/decosgin.png
@@ -46,5 +46,11 @@ sections:
       - image: /img/default_person.png
         title: Gartendesgin Wittmann
       - image: /img/auto-hiller-kg-opel.jpg
-        title: OPEL Hiller
+        title: OPEL Hiller Zorneding
+      - image: /img/fiat.png
+        title: Autohaus Niebler Eglharting
+      - image: /img/erdinger.png
+        title: Erdinger Weissbräu
+      - image: /img/logo_web.jpg
+        title: food artists
 ---
