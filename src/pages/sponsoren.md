@@ -51,6 +51,18 @@ sections:
         title: Autohaus Niebler Eglharting
       - image: /img/erdinger.png
         title: Erdinger Weissbräu
+      - image: /img/auto_berger1.jpg
+        title: Auto Berger
+      - image: /img/fitnessstudio-fitness-studio-zorneding-3251.png
+        title: Fitnessstudio Zorneding
       - image: /img/logo_web.jpg
         title: food artists
+      - image: /img/ludwig_marc.png
+        title: Kfz Sachverständigenbüro Ludwig-Marc
+      - image: /img/schreinerei_markl.png
+        title: Schreinerei Markl
+      - image: /img/logo_schlammerl.jpg
+        title: Gasthaus Schlammerl
+      - image: /img/tassilo.jpg
+        title: TASSILO Apotheke
 ---
