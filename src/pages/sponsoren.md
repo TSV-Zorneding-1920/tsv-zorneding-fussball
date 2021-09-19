@@ -14,10 +14,12 @@ sections:
         title: INOVIS GmbH
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
+      - image: /img/logo_wohry_2017.jpg
+        title: Michael Wöhry Immobilien
   - type: image_text
     title: ""
     nodes:
-      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh.jpg
+      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh_klein.png
         title: Continentale Ernst Stegmeier
       - image: /img/hoermann-logo-gruppe_rgb.png
         title: Hörmann Gruppe
@@ -27,6 +29,8 @@ sections:
         title: Kreissparkasse München Starnberg Ebersberg
       - image: /img/logo_neuwirt_ahr.jpg
         title: Gasthof Hotel Neuwirt
+      - image: /img/sonnenschutz-lehmann.png
+        title: "Lehmann Sonnenschutz "
       - image: /img/noble-optic_logo.jpg
         title: Noble Optic
       - image: /img/soccergolf-logo.jpg
@@ -35,4 +39,12 @@ sections:
         title: Alpenhain
       - image: /img/logo_web.jpg
         title: food artists
+      - image: /img/zib-logo280.png
+        title: Zahnheilkunde Birkenhof
+      - image: /img/decosgin.png
+        title: DECOSIGN
+      - image: /img/default_person.png
+        title: Gartendesgin Wittmann
+      - image: /img/auto-hiller-kg-opel.jpg
+        title: OPEL Hiller
 ---
