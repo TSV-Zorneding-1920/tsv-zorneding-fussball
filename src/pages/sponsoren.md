@@ -43,7 +43,7 @@ sections:
         title: Zahnheilkunde Birkenhof
       - image: /img/decosgin.png
         title: DECOSIGN
-      - image: /img/default_person.png
+      - image: /img/gartendesign-wittmann.png
         title: Gartendesgin Wittmann
       - image: /img/auto-hiller-kg-opel.jpg
         title: OPEL Hiller Zorneding
