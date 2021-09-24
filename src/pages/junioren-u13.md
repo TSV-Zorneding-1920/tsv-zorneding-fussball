@@ -15,6 +15,8 @@ sections:
         body: |-
           **Trainer**
 
+          Trainer-C-Lizenz Kinder u. Jugend
+
           01575/4105385
 
           [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
