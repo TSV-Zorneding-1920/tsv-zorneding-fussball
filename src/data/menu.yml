@@ -46,3 +46,5 @@ menu_entry:
     page: /foerderverein
   - page: https://www.teamprofi.de/tsv-zorneding/
     title: Teambekleidung
+  - title: Downloads
+    page: /downloads
