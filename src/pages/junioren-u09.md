@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/robert-von-stein.jpg
+      - image_small: /img/robert-von-stein_2.jpg
         title: Robert von Stein
         body: |-
           **Trainer**
