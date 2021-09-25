@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u13
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/u13_saison_2021_2022_small.jpg
     title: Jahrgänge 2009/2010
   - type: image_text_small
     title: Trainer
