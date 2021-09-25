@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: F1-Jugend neu eingekleidet
-author: MG
+author: RvS
 date: 2021-09-25T15:20:37.107Z
 sticky: false
 featured: false
