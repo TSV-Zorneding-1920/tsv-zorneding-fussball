@@ -5,17 +5,25 @@ slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/mannschaftsfoto-u9.jpg
     title: Jahrgang 2013
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/robert-von-stein.jpg
         title: Robert von Stein
         body: |-
           **Trainer**
 
           0151/12567075
+
+          [U09-FBJ@tsv-zorneding.de](mailto:U09-FBJ@tsv-zorneding.de)
+      - image_small: /img/andre-ullrich.jpg
+        title: Andre Ullrich
+        body: |-
+          **Trainer**
+
+          0157/72536460
 
           [U09-FBJ@tsv-zorneding.de](mailto:U09-FBJ@tsv-zorneding.de)
   - type: body
