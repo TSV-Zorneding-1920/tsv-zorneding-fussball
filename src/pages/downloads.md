@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Downloads
-slug: /downloads
+slug: downloads
 showTitle: true
 sections:
   - type: file_list
