@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u19
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/u19-junioren.jpg
     title: Jahrgänge 2003 / 2004
   - type: image_text_small
     title: Trainer
