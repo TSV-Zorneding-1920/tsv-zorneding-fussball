@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u08
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/f2-u8_teamfoto.jpg
     title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
