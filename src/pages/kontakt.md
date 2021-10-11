@@ -28,7 +28,7 @@ sections:
           0172/7225799
 
           [mark@grusz.de](mailto:mark@grusz.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/nagle-marcus_original.jpg
         title: Marcus Nagle
         body: >-
           **Jugendleiter**
