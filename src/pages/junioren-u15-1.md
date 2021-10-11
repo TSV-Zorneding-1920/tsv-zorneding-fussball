@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/ostner-alex_original.jpg
         title: Alexander Ostner
         body: |-
           **Trainer**
@@ -20,7 +20,7 @@ sections:
           0176/43907075
 
           [U15-FBJ@tsv-zorneding.de](mailto:U15-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person-1.png
+      - image_small: /img/nagle-marcus_original.jpg
         title: Marcus Nagle
         body: >-
           **Co-Trainer**
