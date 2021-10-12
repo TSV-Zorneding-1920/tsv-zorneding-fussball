@@ -17,7 +17,7 @@ sections:
 
           0151/12567075
 
-          [U09-FBJ@tsv-zorneding.de](mailto:U09-FBJ@tsv-zorneding.de)
+          [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
       - image_small: /img/andre-ullrich.jpg
         title: Andre Ullrich
         body: |-
@@ -25,7 +25,7 @@ sections:
 
           0157/72536460
 
-          [U09-FBJ@tsv-zorneding.de](mailto:U09-FBJ@tsv-zorneding.de)
+          [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
