@@ -11,7 +11,7 @@ Der TSV sucht zur dauerhaften Unterstützung des Platzwartes und zur Pflege der 
 \
 Das gibt´s zu tun:
 
-* Pflege der Spielfläche in Abstimmung mit Abteilungen und deren Pflichtspielen und Veranstaltungen\
+* Pflege der Spielfläche in Abstimmung mit Abteilungen und deren Pflichtspielen und Veranstaltungen
 * Enge Zusammenarbeit mit der Gemeinde/Bauamt/Bauhof
 * Pflege der TSV-Geräte
 
