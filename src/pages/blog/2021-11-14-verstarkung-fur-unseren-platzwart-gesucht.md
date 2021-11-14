@@ -5,7 +5,7 @@ author: MG
 date: 2021-11-14T10:42:00.384Z
 sticky: false
 featured: false
-featuredimage: /img/screenshot-2021-11-14-at-11-41-25-instagram.png
+featuredimage: /img/sportpark_staditon2.jpeg
 ---
 Der TSV sucht zur dauerhaften Unterstützung des Platzwartes und zur Pflege der Vereinsanlage einen weiteren Platzwart in Teilzeit.\
 \
