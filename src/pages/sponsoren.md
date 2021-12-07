@@ -7,7 +7,7 @@ sections:
   - type: image
     image_large: /img/banner_vielen-dank.jpg
   - type: image
-    image_large: /img/75er_ebe_logo_fin.jpg
+    image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image_text
