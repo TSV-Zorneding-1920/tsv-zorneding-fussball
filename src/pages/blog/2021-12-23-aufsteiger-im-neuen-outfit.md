@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Aufsteiger im neuen Outfit
 author: MG
-date: 2021-12-23T15:33:11.609Z
+date: 2021-12-01T16:02:02.266Z
 sticky: false
 featured: false
 featuredimage: /img/u17-junioren_tsv-zorneding_aufsteiger-und-neue-trikots.jpeg
