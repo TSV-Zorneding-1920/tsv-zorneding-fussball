@@ -7,4 +7,4 @@ sticky: false
 featured: false
 featuredimage: /img/u10-junioren_tsv-zorneding_neue-trikots.jpg
 ---
-Unsere E2-Jugend (U10-Junioren) hat vom Sponsor Kreissparkasse München Starnberg Ebersberg einen sehr schönen neuen Trikotsatz erhalten. Vielen Dank an den Sponsor!
+Unsere E2-Jugend (U10-Junioren) wurde vom Sponsor Kreissparkasse München Starnberg Ebersberg mit einem sehr schönen neuen Trikotsatz ausgestattet. Vielen Dank an den Sponsor!
