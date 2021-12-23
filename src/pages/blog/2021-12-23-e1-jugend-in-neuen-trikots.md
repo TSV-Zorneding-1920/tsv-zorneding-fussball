@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: E1-Jugend in neuen Trikots
+title: E2-Jugend in neuen Trikots
 author: MG
 date: 2021-12-23T15:25:38.973Z
 sticky: false
