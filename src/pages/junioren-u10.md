@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
-    image_large: /img/u10_saison-2021-22_2.jpg
+    image_large: /img/u10_saison-2021-22_gepixelt.jpg
     title: Jahrgang 2012
   - type: image_text_small
     title: Trainer
