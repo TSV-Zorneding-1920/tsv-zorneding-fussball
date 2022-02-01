@@ -14,17 +14,17 @@ sections:
         body: |-
           **Trainer**
 
-          Trainer-B-Lizenz
+          Trainer B-Lizenz
 
           0176/21883917
 
           [U11-FBJ@tsv-zorneding.de](mailto:U11-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/niklas-eberhardt.jpg
         title: Niklas Eberhardt
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
+          Trainer B-Lizenz
 
           0176/64778230
 
