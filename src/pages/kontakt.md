@@ -39,13 +39,8 @@ sections:
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/default_person.png
-        title: Johannes Geißler
-        body: |-
-          **Seniorenleiter**
-
-          0160/2893892
-
-          [hans.geissler2@freenet.de](mailto:hans.geissler2@freenet.de)
+        title: N.N.
+        body: "**Seniorenleiter**"
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
