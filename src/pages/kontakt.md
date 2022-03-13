@@ -30,17 +30,20 @@ sections:
           [mark@grusz.de](mailto:mark@grusz.de)
       - image_small: /img/nagle-marcus_original.jpg
         title: Marcus Nagle
-        body: >-
+        body: |-
           **Jugendleiter**
-
 
           0172/7483253
 
-
-          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
+          fb-jugendleitung@tsv-zorneding.de
       - image_small: /img/default_person.png
-        title: N.N.
-        body: "**Seniorenleiter**"
+        title: Sebastian Schön
+        body: |-
+          **Seniorenleiter**
+
+          0176/32330169
+
+          [erazo.basti@web.de](mailto:erazo.basti@web.de)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
@@ -101,7 +104,19 @@ sections:
           [mario.hueneburg@tsv-zorneding.de](mailto:mario.hueneburg@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
         title: Yvonne Linnemann
+        body: |-
+          **Ordner / Live-Ticker**
+
+          0162/9290354
+
+          [yvonne.linnemann@web.de](mailto:yvonne.linnemann@web.de)
       - image_small: /img/default_person-1.png
         title: Thomas Sitte
+        body: |-
+          **Ordner / Live-Ticker**
+
+          0177/6010335
+
+          [fam.sitte@t-online.de](mailto:fam.sitte@t-online.de)
     title: Ansprechpartner Fußballabteilung
 ---
