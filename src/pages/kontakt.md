@@ -68,7 +68,7 @@ sections:
 
           0176/21834455
 
-          chris.dite@gmx.net
+          [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
         title: Christopher Dite
       - image_small: /img/default_person.png
         title: Patrick Baueregger
