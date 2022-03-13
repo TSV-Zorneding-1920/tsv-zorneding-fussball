@@ -9,9 +9,9 @@ sections:
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
-        title: N.N
-        body: "**Trainer**"
-    title: Trainer
+        title: Markus Bayer
+        body: 0174/9475789
+    title: Trainer/Betreuer
   - type: body
     title: Trainingszeiten
     body: |-
