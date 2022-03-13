@@ -30,12 +30,14 @@ sections:
           [mark@grusz.de](mailto:mark@grusz.de)
       - image_small: /img/nagle-marcus_original.jpg
         title: Marcus Nagle
-        body: |-
+        body: >-
           **Jugendleiter**
+
 
           0172/7483253
 
-          fb-jugendleitung@tsv-zorneding.de
+
+          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Sebastian Schön
         body: |-
@@ -66,7 +68,7 @@ sections:
 
           0176/21834455
 
-          [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
+          chris.dite@gmx.net
         title: Christopher Dite
       - image_small: /img/default_person.png
         title: Patrick Baueregger
