@@ -5,7 +5,7 @@ author: MG
 date: 2022-04-01T07:55:57.079Z
 sticky: false
 featured: false
-featuredimage: /img/einladung-sommerturnier-2022_tsv-zorneding.jpg
+featuredimage: /img/logo-farbig-_vektor_0-5mb.png
 ---
 *Dder TSV Zorneding veranstaltet vom **22. - 24 Juli 2022 sein 9. Fußball-Jugend-Sommerturnier.***
 
