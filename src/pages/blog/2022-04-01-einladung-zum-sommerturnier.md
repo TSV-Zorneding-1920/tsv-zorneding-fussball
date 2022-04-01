@@ -7,13 +7,13 @@ sticky: false
 featured: false
 featuredimage: /img/logo-farbig-_vektor_0-5mb.png
 ---
-*Dder TSV Zorneding veranstaltet vom **22. - 24 Juli 2022 sein 9. Fußball-Jugend-Sommerturnier.***
+Der TSV Zorneding veranstaltet vom **22. - 24 Juli 2022 sein 9. Fußball-Jugend-Sommerturnier.**
 
 ***Wir laden Euch hiermit herzlich ein und hoffen Euch nach einer zweijährigen Unterbrechung wieder bei uns begrüßen zu dürfen.***
 
 *Die Startgebühr pro Mannschaft beträgt 35, - Euro. Diese ist bitte nach erfolgter Zusage unsererseits zu überweisen. Konto wird bei der Zusage mitgeteilt.*
 
-*Bitte Anmeldung per Mail an: **[fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)*** *mit Angabe des Turniers, Jahrgang, Verein und Anpsrechpartner.*
+\*Bitte Anmeldung per Mail an: **[fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)*** *mit Angabe des Turniers, Jahrgang, Verein und Anpsrechpartner.*
 
 *Der Startplatz ist erst nach erfolgter Zusage und Eingang der Startgebühr gesichert.*
 
