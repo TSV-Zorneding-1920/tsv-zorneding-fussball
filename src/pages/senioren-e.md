@@ -11,13 +11,13 @@ sections:
     title: Betreuer
     info:
       - image_small: /img/default_person-1.png
-        title: Johannes Geißler
+        title: Sebastian Schön
         body: |-
-          **Betreuer**
+          **Seniorenleiter**
 
-          0160/2893892
+          0176/32330169
 
-          [hans.geissler2@freenet.de](mailto:hans.geissler2@freenet.de)
+          [erazo.basti@web.de](<mailto: erazo.basti@web.de>)
   - type: body
     title: Trainingszeiten
     body: |-
