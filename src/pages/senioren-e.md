@@ -17,7 +17,7 @@ sections:
 
           0176/32330169
 
-          [erazo.basti@web.de](<mailto: erazo.basti@web.de>)
+          [erazo.basti@web.de](mailto:erazo.basti@web.de)
   - type: body
     title: Trainingszeiten
     body: |-
