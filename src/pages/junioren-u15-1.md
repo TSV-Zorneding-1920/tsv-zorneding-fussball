@@ -37,7 +37,7 @@ sections:
 
       17:45 - 19:15 Uhr
 
-      **Freitag**
+      **Donnerstag**
 
       17:45 - 19:15 Uhr
   - type: iframe
