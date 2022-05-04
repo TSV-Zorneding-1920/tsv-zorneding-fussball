@@ -31,10 +31,6 @@ Der TSV Zorneding veranstaltet vom **22. - 24 Juli 2022 sein 9. Fußball-Jugend-
 
 **Sonntag,    24.7.2022 – U9 (2013),                    9.00 – 12.30**
 
-**Sonntag,    24.7.2022 – U7 (2015),                  10.00 – 12.00**
-
-**Sonntag,    24.7.2022 – U6 (2016),                  10.00 – 12.00**
-
 **Sonntag,    24.7.2022 – U15 (2007/08),           13.30 – 17.00**
 
 *Für das leibliche Wohl wird natürlich ausgiebig und umfassend gesorgt sein.*
