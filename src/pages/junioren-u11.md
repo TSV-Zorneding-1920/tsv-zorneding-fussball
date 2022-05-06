@@ -9,7 +9,7 @@ sections:
     title: Jahrgang 2011
   - type: image_text_small
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/bouacha-johannes.jpg
         title: Johannes Bouacha
         body: |-
           **Trainer**
