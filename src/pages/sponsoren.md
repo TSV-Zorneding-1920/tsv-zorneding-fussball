@@ -51,6 +51,8 @@ sections:
         title: Gartendesgin Wittmann
       - image: /img/gebaudemanagement-czekalla.jpg
         title: Gebäudemanagement Czekalla
+      - image: /img/malermeisterbetrieb-calcagnile_1.png
+        title: Malermeisterbetrieb Calcagnile
       - image: /img/auto-hiller-kg-opel.jpg
         title: OPEL Hiller Zorneding
       - image: /img/fiat.png
@@ -79,6 +81,4 @@ sections:
         title: TAXI Zorneding
       - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
         title: VHS Vaterstetten
-      - image: /img/malermeisterbetrieb-calcagnile_1.png
-        title: Malermeisterbetrieb Calcagnile
 ---
