@@ -79,4 +79,6 @@ sections:
         title: TAXI Zorneding
       - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
         title: VHS Vaterstetten
+      - image: /img/malermeisterbetrieb-calcagnile_1.jpg
+        title: Malermeisterbetrieb Calcagnile
 ---
