@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u11
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/u11-junioren_2021-22.jpg
     title: Jahrgang 2011
   - type: image_text_small
     info:
