@@ -18,6 +18,8 @@ sections:
         title: Saurer & Wolf GmbH
       - image: /img/logo_wohry_2017.jpg
         title: Michael Wöhry Immobilien
+      - image: /img/dnp-fermentation_blau.png
+        title: Dr. Niedermaier Pharma
   - type: image_text
     title: ""
     nodes:
