@@ -11,11 +11,11 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Christine Gaedtke
+        title: Wojciech Kuropatwinski-Kaiser
         body: |-
-          **Trainerin**
+          **Trainer**
 
-          0176/52116163
+          0157/74237481
 
           [Bambini7@tsv-zorneding.de](mailto:Bambini7@tsv-zorneding.de)
   - type: body
@@ -23,9 +23,9 @@ sections:
     body: |-
       **Montag**
 
-      17:00-18:00 Uhr
+      17:30-18:30 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
-      17:00-18:00 Uhr
+      17:30-18:30 Uhr
 ---
