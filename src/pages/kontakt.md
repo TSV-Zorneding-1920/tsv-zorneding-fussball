@@ -70,7 +70,7 @@ sections:
 
           [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
         title: Christopher Dite
-      - image_small: /img/default_person.png
+      - image_small: /img/patrick-baueregger.jpeg
         title: Patrick Baueregger
         body: |-
           **Schiedsrichterobmann**
