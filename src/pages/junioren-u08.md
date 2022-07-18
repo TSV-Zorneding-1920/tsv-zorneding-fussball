@@ -21,7 +21,7 @@ sections:
 
           [U8-FBJ@tsv-zorneding.de](mailto:U8-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
-        title: Moritz Rottmeier
+        title: Christian Gollwitzer
         body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
