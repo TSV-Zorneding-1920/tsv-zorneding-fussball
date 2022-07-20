@@ -8,16 +8,6 @@ sections:
     image_large: /img/2.mannschaft_web_bearbeitet.jpg
   - type: image_text_small
     info:
-      - image_small: /img/default_person-1.png
-        title: Lukas Höger
-        body: |-
-          **Trainer**
-
-          Trainer-C-Lizenz
-
-          0176/57832728
-
-          [lukashoeger@gmail.com](mailto:lukashoeger@gmail.com)
       - image_small: /img/rudolf-riedl.jpg
         title: Rudolf Riedl
         body: |-
@@ -26,6 +16,9 @@ sections:
           0151/23060710
 
           [e1log@t-online.de](mailto:e1log@t-online.de)
+      - image_small: /img/default_person-1.png
+        title: Christian Kraus
+        body: "**Co-Trainer**"
     title: Trainer
   - type: body
     body: |-
