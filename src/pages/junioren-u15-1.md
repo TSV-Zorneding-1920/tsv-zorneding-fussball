@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-u15.jpg
-    title: Jahrgänge 2007/2008
+    title: Jahrgänge 2008/2009
   - type: image_text_small
     title: Trainer
     info:
