@@ -5,35 +5,37 @@ slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
-    image_large: /img/u10_saison-2021-22_gepixelt.jpg
-    title: Jahrgang 2012
+    image_large: /img/sponsorenfoto-u9.jpg
+    title: Jahrgang 2013
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
-        title: Janek Kaiser
+      - image_small: /img/robert-von-stein_2.jpg
+        title: Robert von Stein
         body: |-
           **Trainer**
 
-          01573/9024158
+          0151/12567075
 
           [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
-        title: Manuel Kaiser
+      - image_small: /img/andre-ullrich.jpg
+        title: Andre Ullrich
         body: |-
           **Trainer**
 
-          0157/80789544
+          0157/72536460
+
+          [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
       **Montag**
 
-      17:00- 18:30 Uhr
+      17:15- 18:30 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
-      17:00- 18:30 Uhr
+      17:15- 18:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
