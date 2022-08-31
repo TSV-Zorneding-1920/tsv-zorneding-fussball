@@ -101,7 +101,7 @@ sections:
 
           0157/72536460
 
-          [mario.hueneburg@tsv-zorneding.de](mailto:and.ullrich@yahoo.de)
+          [and.ullrich@yahoo.de](mailto:and.ullrich@yahoo.de)
       - image_small: /img/default_person-1.png
         title: Yvonne Linnemann
         body: |-
