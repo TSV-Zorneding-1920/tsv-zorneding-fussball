@@ -5,35 +5,32 @@ slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-u9.jpg
-    title: Jahrgang 2013
+    image_large: /img/f2-u8_teamfoto_neu.jpg
+    title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/robert-von-stein_2.jpg
-        title: Robert von Stein
+      - image_small: /img/christoph-hartinger.jpg
+        title: Christoph Hartinger
         body: |-
           **Trainer**
 
-          0151/12567075
+          Trainer-C-Lizenz Kinder u. Jugend
+
+          0173 / 8486069
 
           [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
-      - image_small: /img/andre-ullrich.jpg
-        title: Andre Ullrich
-        body: |-
-          **Trainer**
-
-          0157/72536460
-
-          [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
+      - image_small: /img/default_person.png
+        title: Christian Gollwitzer
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
       17:00 - 18:30 Uhr
 
-      **Donnerstag**
+      **Freitag**
 
       17:00 - 18:30 Uhr
   - type: iframe
