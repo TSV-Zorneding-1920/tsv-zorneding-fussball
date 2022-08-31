@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/u17-junioren_bild2.jpeg
-    title: Jahrgänge 2005/2006
+    title: Jahrgänge 2006/2007
   - type: image_text_small
     title: Trainer
     info:
