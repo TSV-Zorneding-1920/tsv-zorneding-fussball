@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Junioren - U13/2 (D-Jugend)
-slug: mannschaften/junioren/u13-2
+slug: mannschaften/junioren/u132
 showTitle: true
 sections:
   - type: image
