@@ -8,10 +8,6 @@ sections:
     image_large: /img/sportpark_haupttribune.jpeg
     caption: ""
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
-  - type: teaser_list
-    offset: 0
-    count: 3
-    title: Aktuelle Neuigkeiten
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
