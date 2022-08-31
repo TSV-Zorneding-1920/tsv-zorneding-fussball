@@ -5,39 +5,35 @@ slug: mannschaften/junioren/u11
 showTitle: true
 sections:
   - type: image
-    image_large: /img/u11-junioren_2021-22.jpg
-    title: Jahrgang 2011
+    image_large: /img/u10_saison-2021-22_gepixelt.jpg
+    title: Jahrgang 2012
   - type: image_text_small
     info:
-      - image_small: /img/bouacha-johannes.jpg
-        title: Johannes Bouacha
+      - image_small: /img/default_person-1.png
+        title: Michael Glonner
         body: |-
           **Trainer**
 
-          Trainer B-Lizenz
-
-          0176/21883917
+          0174/6006973
 
           [U11-FBJ@tsv-zorneding.de](mailto:U11-FBJ@tsv-zorneding.de)
-      - image_small: /img/niklas-eberhardt.jpg
-        title: Niklas Eberhardt
+      - image_small: /img/default_person.png
+        title: Oussama Sentoussi
         body: |-
           **Trainer**
 
-          Trainer B-Lizenz
-
-          0176/64778230
+          0176/23106969
 
           [U11-FBJ@tsv-zorneding.de](mailto:U11-FBJ@tsv-zorneding.de)
     title: Trainer
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
       17:00 - 18:30 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
       17:00 - 18:30 Uhr
   - type: iframe
