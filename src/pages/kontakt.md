@@ -95,15 +95,13 @@ sections:
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
       - image_small: /img/default_person.png
-        title: Mario Hüneburg
-        body: >-
+        title: André Ullrich
+        body: |-
           **Technischer Leiter**
 
+          0157/72536460
 
-          0172/5885798
-
-
-          [mario.hueneburg@tsv-zorneding.de](mailto:mario.hueneburg@tsv-zorneding.de)
+          [mario.hueneburg@tsv-zorneding.de](mailto:and.ullrich@yahoo.de)
       - image_small: /img/default_person-1.png
         title: Yvonne Linnemann
         body: |-
