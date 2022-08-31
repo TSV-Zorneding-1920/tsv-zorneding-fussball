@@ -6,16 +6,16 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2015
+    title: Jahrgang 2016
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Wojciech Kuropatwinski-Kaiser
+        title: Christian Lindenthal
         body: |-
           **Trainer**
 
-          0157/74237481
+          0170/4780646
 
           [Bambini7@tsv-zorneding.de](mailto:Bambini7@tsv-zorneding.de)
   - type: body
