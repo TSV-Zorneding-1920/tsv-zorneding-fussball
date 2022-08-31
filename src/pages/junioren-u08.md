@@ -5,32 +5,35 @@ slug: mannschaften/junioren/u08
 showTitle: true
 sections:
   - type: image
-    image_large: /img/f2-u8_teamfoto_neu.jpg
-    title: Jahrgang 2014
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    title: Jahrgang 2015
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/christoph-hartinger.jpg
-        title: Christoph Hartinger
+      - image_small: /img/default_person.png
+        title: Wojciech Kuropatwinski-Kaiser
         body: |-
           **Trainer**
 
           Trainer-C-Lizenz Kinder u. Jugend
 
-          0173 / 8486069
+          0157/74237481
 
           [U8-FBJ@tsv-zorneding.de](mailto:U8-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
-        title: Christian Gollwitzer
-        body: "**Co-Trainer**"
+        title: Janek Kaiser
+        body: |-
+          **Co-Trainer**
+
+          01573/9024158
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
       17:00 - 18:30 Uhr
 
-      **Freitag**
+      **Mittwoch**
 
       17:00 - 18:30 Uhr
   - type: iframe
