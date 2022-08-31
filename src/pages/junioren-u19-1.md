@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/u19-junioren.jpg
-    title: Jahrgänge 2004 / 2005
+    title: Jahrgänge 2004/2005
   - type: image_text_small
     title: Trainer
     info:
