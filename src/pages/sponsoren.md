@@ -44,8 +44,6 @@ sections:
         title: Noble Optic
       - image: /img/soccergolf-logo.jpg
         title: Soccergolf München
-      - image: /img/alpenhain_logo_web_1.png
-        title: Alpenhain
       - image: /img/zib-logo280.png
         title: Zahnheilkunde Birkenhof
       - image: /img/decosgin.png
@@ -74,8 +72,6 @@ sections:
         title: Schreinerei Markl
       - image: /img/logo_schlammerl.jpg
         title: Gasthaus Schlammerl
-      - image: /img/tassilo.jpg
-        title: TASSILO Apotheke
       - image: /img/buch-wein.png
         title: "Buch & Wein "
       - image: /img/skeide-coaching.png
