@@ -10,6 +10,9 @@ sections:
     image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
+  - type: image
+    image_large: /img/tsv-banner_.jpg
+    title: Rebound Electronics
   - type: image_text
     nodes:
       - image: /img/inovis_logo.jpg
