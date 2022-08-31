@@ -1,43 +1,29 @@
 ---
 templateKey: static-page
-title: Junioren - U13 (D-Jugend)
+title: Junioren - U13/1 (D-Jugend)
 slug: mannschaften/junioren/u13
 showTitle: true
 sections:
   - type: image
-    image_large: /img/u13_saison_2021_2022_small.jpg
-    title: Jahrgänge 2009/2010
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    title: Jahrgänge 2010/2011
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Marinus Savary
+        title: Christian Grusz
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          01575/4105385
+          0172/8965019
 
           [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person-1.png
-        title: Patrick Dreikandt
+        title: Udo Weingart
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0160/90114453
-
-          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person-1.png
-        title: Martin Meyer
-        body: |-
-          **Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0152/03422724
+          0151/19478849
 
           [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
   - type: body
