@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/u19-junioren.jpg
-    title: Jahrgänge 2003 / 2004
+    title: Jahrgänge 2004 / 2005
   - type: image_text_small
     title: Trainer
     info:
@@ -18,16 +18,6 @@ sections:
           Trainer-C-Lizenz Kinder u. Jugend
 
           0176 /21834455
-
-          [U19-FBJ@tsv-zorneding.de](mailto:U19-FBJ@tsv-zorneding.de)
-      - image_small: /img/hoger-flo.jpg
-        title: Florian Höger
-        body: |-
-          **Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0152/36211244
 
           [U19-FBJ@tsv-zorneding.de](mailto:U19-FBJ@tsv-zorneding.de)
   - type: body
