@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Junioren - U13/1 (D-Jugend)
-slug: mannschaften/junioren/u13
+slug: mannschaften/junioren/u13/1
 showTitle: true
 sections:
   - type: image
