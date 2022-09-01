@@ -17,7 +17,7 @@ menu_entry:
             title: U17 (B-Jugend)
           - page: /mannschaften/junioren/u15
             title: U15 (C-Jugend)
-          - page: mannschaften/junioren/u13
+          - page: mannschaften/junioren/u13/1
             title: U13/1 (D-Jugend)
           - title: U13/2 (D-Jugend)
             page: mannschaften/junioren/u132
