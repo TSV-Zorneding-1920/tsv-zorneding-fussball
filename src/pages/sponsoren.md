@@ -11,8 +11,8 @@ sections:
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image
-    image_large: /img/tsv-banner_.jpg
-    title: Rebound Electronics
+    image_large: /img/rebound-logo-on-white.png
+    title: ""
   - type: image_text
     nodes:
       - image: /img/inovis_logo.jpg
