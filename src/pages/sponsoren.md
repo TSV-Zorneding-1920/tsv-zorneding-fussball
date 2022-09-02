@@ -54,6 +54,8 @@ sections:
         title: Gebäudemanagement Czekalla
       - image: /img/malermeisterbetrieb-calcagnile_1.png
         title: Malermeisterbetrieb Calcagnile
+      - image: /img/logo_lsm-fleet-service-gmbh.jpg
+        title: LSM Fleet Service GmbH
       - image: /img/auto-hiller-kg-opel.jpg
         title: OPEL Hiller Zorneding
       - image: /img/fiat.png
@@ -62,8 +64,6 @@ sections:
         title: Erdinger Weissbräu
       - image: /img/auto_berger1.jpg
         title: Auto Berger
-      - image: /img/fitnessstudio-fitness-studio-zorneding-3251.png
-        title: Fitnessstudio Zorneding
       - image: /img/logo_web.jpg
         title: food artists
       - image: /img/ludwig_marc.png
