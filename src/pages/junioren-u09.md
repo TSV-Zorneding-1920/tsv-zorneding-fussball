@@ -22,7 +22,10 @@ sections:
           [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Christian Gollwitzer
-        body: "**Co-Trainer**"
+        body: |-
+          **Co-Trainer**
+
+          0179/4991509
   - type: body
     title: Trainingszeiten
     body: |-
