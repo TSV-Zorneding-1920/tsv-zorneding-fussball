@@ -20,7 +20,7 @@ sections:
           0176/21834455
 
           [jakobb@email.de](mailto:jakobb@email.de)
-      - image_small: /img/img_0023.jpg
+      - image_small: /img/img_7255.jpeg
         title: Mark Grusz
         body: |-
           **2. Abteilungsleiter**
@@ -94,7 +94,7 @@ sections:
 
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
-      - image_small: /img/default_person.png
+      - image_small: /img/andre-ullrich.jpg
         title: André Ullrich
         body: |-
           **Technischer Leiter**
