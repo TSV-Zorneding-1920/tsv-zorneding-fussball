@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_0023.jpg
+      - image_small: /img/img_7255.jpeg
         title: Mark Grusz
         body: |-
           **Trainer**
@@ -20,7 +20,7 @@ sections:
           0172/7225799
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/bayrak-mustafa_1.jpg
+      - image_small: /img/img_7247.jpeg
         title: Mustafa Bayrak
         body: |-
           **Trainer**
