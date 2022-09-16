@@ -20,5 +20,12 @@ sections:
           [hartmanhilter@outlook.de](mailto:hartmanhilter@outlook.de)
   - type: body
     title: Trainingszeiten
-    body: noch nicht bekannt
+    body: |-
+      **Montag**
+
+      16:30 - 18:00 Uhr
+
+      **Mittwoch**
+
+      17:30 - 19:00 Uhr
 ---
