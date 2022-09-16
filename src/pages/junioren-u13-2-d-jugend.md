@@ -11,11 +11,13 @@ sections:
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Erwin Hartmann-Hilter
+        title: Erwin Hartman-Hilter
         body: |-
           **Trainer**
 
           0171/8543212
+
+          [hartmanhilter@outlook.de](mailto:hartmanhilter@outlook.de)
   - type: body
     title: Trainingszeiten
     body: noch nicht bekannt
