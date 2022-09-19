@@ -8,7 +8,7 @@ sections:
     image_large: /img/tsv-zorneding-iii-herren_zugeschnitten.jpg
   - type: image_text_small
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/bayer-markus.jpeg
         title: Markus Bayer
         body: 0174/9475789
     title: Trainer/Betreuer
