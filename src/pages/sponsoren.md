@@ -13,10 +13,10 @@ sections:
   - type: image
     image_large: /img/rebound-logo-on-white.png
     title: ""
+  - type: image
+    image_large: /img/inovis.jpg
   - type: image_text
     nodes:
-      - image: /img/inovis_logo.jpg
-        title: INOVIS GmbH
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
       - image: /img/logo_wohry_2017.jpg
@@ -80,4 +80,7 @@ sections:
         title: TAXI Zorneding
       - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
         title: VHS Vaterstetten
+  - type: banner_list
+    offset: 0
+    count: 3
 ---
