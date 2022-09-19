@@ -8,7 +8,7 @@ sections:
     image_large: /img/tsv-zorneding-ii-herren_geschnitten.jpg
   - type: image_text_small
     info:
-      - image_small: /img/rudolf-riedl.jpg
+      - image_small: /img/riedl-rudi.jpeg
         title: Rudolf Riedl
         body: |-
           **Trainer**
@@ -16,7 +16,7 @@ sections:
           0151/23060710
 
           [e1log@t-online.de](mailto:e1log@t-online.de)
-      - image_small: /img/default_person-1.png
+      - image_small: /img/kraus-christian.jpeg
         title: Christian Kraus
         body: "**Co-Trainer**"
     title: Trainer
