@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/ostner-alex_original.jpg
+      - image_small: /img/ostner-alex.jpeg
         title: Alexander Ostner
         body: |-
           **Trainer**
