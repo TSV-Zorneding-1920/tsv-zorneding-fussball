@@ -9,13 +9,13 @@ sections:
       Liebe Freunde der Fußballabteilung,
 
 
-      stark zurückgegangene Zuschüsse des Staates, Kostenexplosionen in allen Bereichen wie z.B. Energie (Flutlicht, Wasser, Heizung usw.) Pflege der Sportanlagen, lizenzierte Trainer*innen oder Kauf von Sport- und Trainingsgeräten erfordern gewaltige Anstrengungen des Vereins.
+      stark zurückgegangene Zuschüsse des Staates, Kostenexplosionen in allen Bereichen wie z.B. Energie (Flutlicht, Wasser, Heizung usw.), Pflege der Sportanlagen, lizenzierte Trainer*innen oder Kauf von Sport- und Trainingsgeräten erfordern gewaltige Anstrengungen des Vereins.
 
 
-      Mehr denn je sind wir auf private Unterstützungen angewiesen. Aus diesen Überlegungen heraus haben wir uns entschlossen den **Fussballförderverein TSV Zorneding 1920 e.V.** zu gründen.
+      Mehr denn je sind wir auf private Unterstützungen angewiesen. Aus diesen Überlegungen heraus haben wir 2011 den **Fussballförderverein TSV Zorneding 1920 e.V.** gegründet.
 
 
-      Ziel des Fördervereins ist es finanzielle Mittel zu erwerben durch Bandenwerbung, Beiträge oder Spenden. Diese Mittel sollen ausschließlich der Fußballabteilung zur Verfügung gestellt werden, um die Attraktivität des Fußballangebots beim TSV Zorneding, sowohl im Jugend-, als auch im Herrenbereich zu steigern.
+      Ziel des Fördervereins ist es finanzielle Mittel zu erwerben durch Mitgliedsbeiträge, Spenden oder Vermarktung von Werbeflächen (Bandenwerbung). Diese Mittel sollen ausschließlich der Fußballabteilung zur Verfügung gestellt werden, um die Attraktivität des Fußballangebots beim TSV Zorneding, sowohl im Jugend-, als auch im Herrenbereich zu steigern.
 
 
       **Bitte unterstützen Sie uns und werden Sie Sponsor oder Mitglied in unserem Förderkreis.**
