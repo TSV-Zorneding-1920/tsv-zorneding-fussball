@@ -80,7 +80,4 @@ sections:
         title: TAXI Zorneding
       - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
         title: VHS Vaterstetten
-  - type: banner_list
-    offset: 0
-    count: 3
 ---
