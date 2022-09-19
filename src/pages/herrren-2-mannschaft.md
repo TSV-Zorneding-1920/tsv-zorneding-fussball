@@ -19,6 +19,9 @@ sections:
       - image_small: /img/kraus-christian.jpeg
         title: Christian Kraus
         body: "**Co-Trainer**"
+      - image_small: /img/kapfelsperger-maximilian.jpeg
+        title: Maximilian Kapfelsperger
+        body: "**Co-Trainer**"
     title: Trainer
   - type: body
     body: |-
