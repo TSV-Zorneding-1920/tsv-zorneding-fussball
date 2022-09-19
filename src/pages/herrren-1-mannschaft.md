@@ -5,7 +5,7 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/1.-mannschaft_web_bearbeitet.jpg
+    image_large: /img/tsv-zorneding-i-herren.jpg
   - type: image_text_small
     title: Trainer
     info:
