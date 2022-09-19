@@ -5,7 +5,7 @@ slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-iii-herren.jpg
+    image_large: /img/tsv-zorneding-iii-herren_geschnitten.jpg
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
