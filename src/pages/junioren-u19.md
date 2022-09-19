@@ -5,7 +5,7 @@ slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/tsv-zorneding-iii-herren.jpg
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
