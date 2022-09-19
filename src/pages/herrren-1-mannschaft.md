@@ -9,7 +9,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/bergmann-sascha.jpeg
         title: Sascha Bergmann
         body: |-
           **Trainer**
@@ -19,7 +19,7 @@ sections:
           0176/32881471
 
           [bergmannsascha@gmx.de](mailto:bergmannsascha@gmx.de)
-      - image_small: /img/default_person-1.png
+      - image_small: /img/heppert-florian.jpeg
         title: Florian Heppert
         body: |-
           **Co-Trainer**
@@ -27,6 +27,12 @@ sections:
           0160/94801019
 
           [florian.heppert@web.de](mailto:florian.heppert@web.de)
+      - image_small: /img/blau-jens.jpeg
+        title: Jens Blau
+        body: "**Fitnesstrainer**"
+      - image_small: /img/sibila-boris.jpg
+        title: Boris Šibila
+        body: "**Torwarttrainer**"
   - type: body
     title: Trainingszeiten
     body: |-
