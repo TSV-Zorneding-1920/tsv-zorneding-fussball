@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
-    image_large: /img/sponsorenfoto-u9.jpg
+    image_large: /img/tsv-zorneding-u10-web-.jpg
     title: Jahrgang 2013
   - type: image_text_small
     title: Trainer
