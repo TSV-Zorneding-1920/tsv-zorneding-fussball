@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u13-1
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-u13.jpg
+    image_large: /img/tsv-zorneding-u13-web-.jpg
     title: Jahrgänge 2010/2011
   - type: image_text_small
     title: Trainer
