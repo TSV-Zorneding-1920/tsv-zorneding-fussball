@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/bouacha-jakob.jpeg
         title: Jakob Bouacha
         body: |-
           **1. Abteilungsleiter**
