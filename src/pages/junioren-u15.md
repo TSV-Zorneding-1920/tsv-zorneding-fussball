@@ -30,7 +30,7 @@ sections:
           0176/22262681
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/koppitz-andreas_2.jpg
+      - image_small: /img/img_7294.jpg
         title: Andreas Koppitz
         body: |-
           **Trainer**
