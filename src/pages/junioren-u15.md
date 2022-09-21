@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u17
 showTitle: true
 sections:
   - type: image
-    image_large: /img/u17-junioren_bild2.jpeg
+    image_large: /img/tsv-zorneding-u17-web-.jpg
     title: Jahrgänge 2006/2007
   - type: image_text_small
     title: Trainer
