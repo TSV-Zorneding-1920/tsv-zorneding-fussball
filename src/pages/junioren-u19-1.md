@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/bouacha-jakob.jpeg
         title: Jakob Bouacha
         body: |-
           **Trainer**
