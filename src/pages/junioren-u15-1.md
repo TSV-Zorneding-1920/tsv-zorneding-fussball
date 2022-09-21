@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u15
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-u15.jpg
+    image_large: /img/tsv-zorneding-u15-web-.jpg
     title: Jahrgänge 2008/2009
   - type: image_text_small
     title: Trainer
