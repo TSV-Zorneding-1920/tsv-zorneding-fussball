@@ -4,6 +4,9 @@ title: Junioren - U19 (A-Jugend)
 slug: mannschaften/junioren/u19
 showTitle: true
 sections:
+  - type: image
+    image_large: /img/tsv-zorneding-u19-web-.jpg
+    title: Jahrgänge 2004/2005
   - type: image_text_small
     title: Trainer
     info:
