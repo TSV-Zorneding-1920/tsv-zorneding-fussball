@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u17
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/tsv-zorneding-u17-web-.jpg
     title: Jahrgänge 2006/2007
   - type: image_text_small
     title: Trainer
@@ -30,7 +30,7 @@ sections:
           0176/22262681
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/koppitz-andreas.jpg
         title: Andreas Koppitz
         body: |-
           **Trainer**
