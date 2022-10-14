@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Betreuer
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/img_3996-2.jpeg
         title: Sebastian Schön
         body: |-
           **Seniorenleiter**
