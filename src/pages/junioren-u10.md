@@ -18,7 +18,7 @@ sections:
           0151/12567075
 
           [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
-      - image_small: /img/andre-ullrich.jpg
+      - image_small: /img/img_4123-2.jpeg
         title: Andre Ullrich
         body: |-
           **Trainer**
