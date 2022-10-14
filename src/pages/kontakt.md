@@ -38,7 +38,7 @@ sections:
 
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/img_3996-2.jpeg
         title: Sebastian Schön
         body: |-
           **Seniorenleiter**
