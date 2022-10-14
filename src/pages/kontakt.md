@@ -102,6 +102,9 @@ sections:
           0157/72536460
 
           [and.ullrich@yahoo.de](mailto:and.ullrich@yahoo.de)
+      - image_small: /img/img_4148-2.jpeg
+        title: René Zenthöfer
+        body: Stadionsprecher
       - image_small: /img/default_person-1.png
         title: Yvonne Linnemann
         body: |-
