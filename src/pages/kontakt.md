@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/bouacha-jakob.jpeg
+      - image_small: /img/img_3189-2.jpeg
         title: Jakob Bouacha
         body: |-
           **1. Abteilungsleiter**
@@ -20,7 +20,7 @@ sections:
           0176/21834455
 
           [jakobb@email.de](mailto:jakobb@email.de)
-      - image_small: /img/img_7255.jpeg
+      - image_small: /img/img_3657-2.jpeg
         title: Mark Grusz
         body: |-
           **2. Abteilungsleiter**
@@ -28,7 +28,7 @@ sections:
           0172/7225799
 
           [mark@grusz.de](mailto:mark@grusz.de)
-      - image_small: /img/nagle-marcus_original.jpg
+      - image_small: /img/img_3751-2.jpeg
         title: Marcus Nagle
         body: >-
           **Jugendleiter**
@@ -94,7 +94,7 @@ sections:
 
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
-      - image_small: /img/andre-ullrich.jpg
+      - image_small: /img/img_4123-2.jpeg
         title: André Ullrich
         body: |-
           **Technischer Leiter**
