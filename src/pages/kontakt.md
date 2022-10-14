@@ -54,7 +54,7 @@ sections:
           0157/85978993
 
           [man.hauser@t-online.de](mailto:man.hauser@t-online.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/img_3680-2.jpeg
         title: Werner Eichner
         body: |-
           **Zeugwart**
@@ -110,7 +110,7 @@ sections:
           0162/9290354
 
           [yvonne.linnemann@web.de](mailto:yvonne.linnemann@web.de)
-      - image_small: /img/default_person-1.png
+      - image_small: /img/img_4172-2.jpeg
         title: Thomas Sitte
         body: |-
           **Ordner / Live-Ticker**
