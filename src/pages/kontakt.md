@@ -54,7 +54,7 @@ sections:
           0157/85978993
 
           [man.hauser@t-online.de](mailto:man.hauser@t-online.de)
-      - image_small: /img/img_3680-2.jpeg
+      - image_small: /img/eichner-werner.jpeg
         title: Werner Eichner
         body: |-
           **Zeugwart**
