@@ -105,7 +105,7 @@ sections:
       - image_small: /img/img_4148-2.jpeg
         title: René Zenthöfer
         body: Stadionsprecher
-      - image_small: /img/default_person-1.png
+      - image_small: /img/linnemann-yvonne.jpeg
         title: Yvonne Linnemann
         body: |-
           **Ordner / Live-Ticker**
@@ -113,7 +113,7 @@ sections:
           0162/9290354
 
           [yvonne.linnemann@web.de](mailto:yvonne.linnemann@web.de)
-      - image_small: /img/img_4172-2.jpeg
+      - image_small: /img/sitte-tom.jpeg
         title: Thomas Sitte
         body: |-
           **Ordner / Live-Ticker**
