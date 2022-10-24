@@ -94,7 +94,7 @@ sections:
 
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
-      - image_small: /img/img_4123-2.jpeg
+      - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
           **Technischer Leiter**
@@ -102,7 +102,7 @@ sections:
           0157/72536460
 
           [and.ullrich@yahoo.de](mailto:and.ullrich@yahoo.de)
-      - image_small: /img/img_4148-2.jpeg
+      - image_small: /img/zenthofer-rene.jpeg
         title: René Zenthöfer
         body: Stadionsprecher
       - image_small: /img/linnemann-yvonne.jpeg
