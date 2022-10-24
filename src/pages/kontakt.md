@@ -20,7 +20,7 @@ sections:
           0176/21834455
 
           [jakobb@email.de](mailto:jakobb@email.de)
-      - image_small: /img/img_3657-2.jpeg
+      - image_small: /img/grusz-mark_seitlich.jpeg
         title: Mark Grusz
         body: |-
           **2. Abteilungsleiter**
@@ -28,7 +28,7 @@ sections:
           0172/7225799
 
           [mark@grusz.de](mailto:mark@grusz.de)
-      - image_small: /img/img_3751-2.jpeg
+      - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
           **Jugendleiter**
