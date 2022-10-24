@@ -20,7 +20,7 @@ sections:
           0176/43907075
 
           [U15-FBJ@tsv-zorneding.de](mailto:U15-FBJ@tsv-zorneding.de)
-      - image_small: /img/img_3751-2.jpeg
+      - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
           **Co-Trainer**
