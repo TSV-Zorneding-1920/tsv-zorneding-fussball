@@ -13,7 +13,7 @@ sections:
       - image_small: /img/default_person-1.png
         title: Christian Lindenthal
         body: |-
-          **Trainerin**
+          **Trainer**
 
           0170/4780646
 
