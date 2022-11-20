@@ -8,6 +8,13 @@ sections:
     image_large: /img/sportpark_haupttribune.jpeg
     caption: ""
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
+  - type: file_list
+    title: Stadionheft TSV Echo
+    element:
+      - title: Ausgabe 2022/05 - 20.11.2022
+        file: /img/ausgabe_2022_05_20-11-22.pdf
+      - title: Ausgabe 2022/04  - 13.11.2022
+        file: /img/ausgabe_2022_04_13-11-22.pdf
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
