@@ -72,14 +72,14 @@ sections:
 
           [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
         title: Christopher Dite
-      - image_small: /img/patrick-baueregger.jpeg
-        title: Patrick Baueregger
+      - image_small: /img/default_person.png
+        title: Alexander Ospelkaus
         body: |-
           **Schiedsrichterobmann**
 
-          0151/15351520
+          0175/2057128
 
-          Mail
+          [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
       - image_small: /img/default_person.png
         title: Thomas Hennig
         body: |-
