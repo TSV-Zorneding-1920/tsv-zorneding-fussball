@@ -102,6 +102,8 @@ sections:
           **Technischer Leiter**
 
           0176/60904912
+
+          [christian.kraus@galeria.de](<mailto: christian.kraus@galeria.de>)
       - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
