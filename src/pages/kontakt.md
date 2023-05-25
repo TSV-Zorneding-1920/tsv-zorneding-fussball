@@ -99,7 +99,7 @@ sections:
       - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
-          **Technischer Leiter**
+          **Spieltagsbetreuung**
 
           0157/72536460
 
