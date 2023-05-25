@@ -50,7 +50,7 @@ sections:
         title: DECOSIGN
       - image: /img/gartendesign-wittmann.png
         title: Gartendesgin Wittmann
-      - image: /img/gebaudemanagement-czekalla.jpg
+      - image: /img/logo-gmbh-gm-jpg.jpg
         title: Gebäudemanagement Czekalla
       - image: /img/malermeisterbetrieb-calcagnile_1.png
         title: Malermeisterbetrieb Calcagnile
