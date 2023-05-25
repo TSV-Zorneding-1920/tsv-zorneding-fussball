@@ -11,16 +11,16 @@ sections:
   - type: file_list
     title: Stadionheft TSV Echo
     element:
-      - title: Ausgabe 2022/05 - 20.11.2022
-        file: /img/ausgabe_2022_05_20-11-22.pdf
-      - title: Ausgabe 2022/04  - 13.11.2022
-        file: /img/ausgabe_2022_04_13-11-22.pdf
-      - title: Ausgabe 2022/03 - 23.10.2022
-        file: /img/ausgabe_2022_03_23-10-22.pdf
-      - title: Ausgabe 2022/02 - 09.10.2022
-        file: /img/ausgabe_2022_02_09-10-22.pdf
-      - title: Ausgabe 2022/01 - 25.09.2022
-        file: /img/ausgabe_2022_01_25-09-22.pdf
+      - title: Ausgabe 2022/23-11-21.05.2023
+        file: /img/stadionheft_2022-2023_11_21.05.2023.pdf
+      - title: Ausgabe 2022/23-10-14.05.2023
+        file: /img/stadionheft_2022-2023_10_14.05.2023.pdf
+      - title: Ausgabe 2022/23-09-30.04.2023
+        file: /img/stadionheft_2022-2023_09_30.04.2023.pdf
+      - title: Ausgabe 2022/23-08-16.04.2023
+        file: /img/stadionheft_2022-2023_08_16.04.2023.pdf
+      - title: Ausgabe 2022/23-07-02.04.2023
+        file: /img/stadionheft_2022-2023_07_02.04.2023.pdf
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
