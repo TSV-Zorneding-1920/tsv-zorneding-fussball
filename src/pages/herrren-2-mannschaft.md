@@ -16,12 +16,12 @@ sections:
           0151/23060710
 
           [e1log@t-online.de](mailto:e1log@t-online.de)
-      - image_small: /img/kraus-christian.jpeg
-        title: Christian Kraus
-        body: "**Co-Trainer**"
       - image_small: /img/kapfelsperger-maximilian.jpeg
         title: Maximilian Kapfelsperger
         body: "**Co-Trainer**"
+      - image_small: /img/kraus-christian.jpeg
+        title: Christian Kraus
+        body: "**Technischer Leiter**"
     title: Trainer
   - type: body
     body: |-
