@@ -123,5 +123,11 @@ sections:
           0177/6010335
 
           [fam.sitte@t-online.de](mailto:fam.sitte@t-online.de)
+      - image_small: /img/kraus-christian.jpeg
+        title: Christian Kraus
+        body: |-
+          **Technischer Leiter**
+
+          0176/60904912
     title: Ansprechpartner Fußballabteilung
 ---
