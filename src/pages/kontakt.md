@@ -12,22 +12,22 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/bouacha-jakob.jpeg
-        title: Jakob Bouacha
-        body: |-
-          **1. Abteilungsleiter**
-
-          0176/21834455
-
-          [jakobb@email.de](mailto:jakobb@email.de)
       - image_small: /img/grusz-mark_seitlich.jpeg
         title: Mark Grusz
         body: |-
-          **2. Abteilungsleiter**
+          **1. Abteilungsleiter**
 
           0172/7225799
 
           [mark@grusz.de](mailto:mark@grusz.de)
+      - image_small: /img/img_3900-2.jpeg
+        title: Clemens Holzmann
+        body: |-
+          **2. Abteilungsleiter**
+
+          0177/4230998
+
+          [](mailto:jakobb@email.de)
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
