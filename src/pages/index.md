@@ -21,6 +21,8 @@ sections:
         file: /img/stadionheft_2022-2023_08_16.04.2023.pdf
       - title: Ausgabe 2022/23-07-02.04.2023
         file: /img/stadionheft_2022-2023_07_02.04.2023.pdf
+      - title: Ausgabe 2022/23-06-19.03.2023
+        file: /img/stadionheft_2022-2023_06_19.03.2023.pdf
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
