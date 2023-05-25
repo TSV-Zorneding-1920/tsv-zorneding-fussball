@@ -38,14 +38,16 @@ sections:
 
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
-      - image_small: /img/schon-sebastian.jpeg
-        title: Sebastian Schön
-        body: |-
+      - image_small: /img/default_person.png
+        title: Robert Höger
+        body: >-
           **Seniorenleiter**
 
-          0176/32330169
 
-          [erazo.basti@web.de](mailto:erazo.basti@web.de)
+          0175/4043749
+
+
+          [hoeger-ingelsberg@t-online.de](<mailto: hoeger-ingelsberg@t-online.de>)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
