@@ -96,6 +96,12 @@ sections:
 
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
+      - image_small: /img/kraus-christian.jpeg
+        title: Christian Kraus
+        body: |-
+          **Technischer Leiter**
+
+          0176/60904912
       - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
@@ -104,9 +110,6 @@ sections:
           0157/72536460
 
           [and.ullrich@yahoo.de](mailto:and.ullrich@yahoo.de)
-      - image_small: /img/zenthofer-rene.jpeg
-        title: René Zenthöfer
-        body: Stadionsprecher
       - image_small: /img/linnemann-yvonne.jpeg
         title: Yvonne Linnemann
         body: |-
@@ -123,11 +126,8 @@ sections:
           0177/6010335
 
           [fam.sitte@t-online.de](mailto:fam.sitte@t-online.de)
-      - image_small: /img/kraus-christian.jpeg
-        title: Christian Kraus
-        body: |-
-          **Technischer Leiter**
-
-          0176/60904912
+      - image_small: /img/zenthofer-rene.jpeg
+        title: René Zenthöfer
+        body: Stadionsprecher
     title: Ansprechpartner Fußballabteilung
 ---
