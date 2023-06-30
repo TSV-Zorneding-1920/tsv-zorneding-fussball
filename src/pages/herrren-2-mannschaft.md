@@ -22,12 +22,6 @@ sections:
           **Co-Trainer**
 
           0175/9747254
-      - image_small: /img/kraus-christian.jpeg
-        title: Christian Kraus
-        body: |-
-          **Technischer Leiter**
-
-          0176/60904912
     title: Trainer
   - type: body
     body: |-
