@@ -30,9 +30,6 @@ sections:
       - image_small: /img/blau-jens.jpeg
         title: Jens Blau
         body: "**Fitnesstrainer**"
-      - image_small: /img/seitlich.jpg
-        title: Boris Šibila
-        body: "**Torwarttrainer**"
   - type: body
     title: Trainingszeiten
     body: |-
