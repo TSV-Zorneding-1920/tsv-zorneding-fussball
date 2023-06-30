@@ -10,14 +10,14 @@ sections:
   - type: image_text_small
     title: Betreuer
     info:
-      - image_small: /img/schon-sebastian.jpeg
-        title: Sebastian Schön
+      - image_small: /img/default_person.png
+        title: Robert Höger
         body: |-
           **Seniorenleiter**
 
-          0176/32330169
+          0175/4043749
 
-          [erazo.basti@web.de](mailto:erazo.basti@web.de)
+          [hoegerrobert@gmail.com](<mailto: hoegerrobert@gmail.com>)
   - type: body
     title: Trainingszeiten
     body: |-
