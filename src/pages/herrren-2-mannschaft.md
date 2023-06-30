@@ -18,10 +18,16 @@ sections:
           [e1log@t-online.de](mailto:e1log@t-online.de)
       - image_small: /img/kapfelsperger-maximilian.jpeg
         title: Maximilian Kapfelsperger
-        body: "**Co-Trainer**"
+        body: |-
+          **Co-Trainer**
+
+          0175/9747254
       - image_small: /img/kraus-christian.jpeg
         title: Christian Kraus
-        body: "**Technischer Leiter**"
+        body: |-
+          **Technischer Leiter**
+
+          0176/60904912
     title: Trainer
   - type: body
     body: |-
