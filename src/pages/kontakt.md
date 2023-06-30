@@ -38,6 +38,14 @@ sections:
 
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
+      - image_small: /img/kraus-christian.jpeg
+        title: Christian Kraus
+        body: |-
+          **Technischer Leiter**
+
+          0176/60904912
+
+          [christian.kraus@galeria.de](<mailto: christian.kraus@galeria.de>)
       - image_small: /img/default_person.png
         title: Robert Höger
         body: |-
@@ -46,6 +54,14 @@ sections:
           0175/4043749
 
           [hoegerrobert@gmail.com](<mailto: hoegerrobert@gmail.com>)
+      - image_small: /img/default_person.png
+        body: |-
+          **Pressewart/Schriftführer**
+
+          0176/21834455
+
+          [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
+        title: Christopher Dite
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
@@ -63,22 +79,6 @@ sections:
 
           [werner.eichner@gmx.net](mailto:werner.eichner@gmx.net)
       - image_small: /img/default_person.png
-        body: |-
-          **Pressewart/Schriftführer**
-
-          0176/21834455
-
-          [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
-        title: Christopher Dite
-      - image_small: /img/default_person.png
-        title: Alexander Ospelkaus
-        body: |-
-          **Schiedsrichterobmann**
-
-          0175/2057128
-
-          [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
-      - image_small: /img/default_person.png
         title: Thomas Hennig
         body: |-
           **1. Kassier**
@@ -94,14 +94,14 @@ sections:
 
           [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
         title: John Dite
-      - image_small: /img/kraus-christian.jpeg
-        title: Christian Kraus
+      - image_small: /img/default_person.png
+        title: Alexander Ospelkaus
         body: |-
-          **Technischer Leiter**
+          **Schiedsrichterobmann**
 
-          0176/60904912
+          0175/2057128
 
-          [christian.kraus@galeria.de](<mailto: christian.kraus@galeria.de>)
+          [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
       - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
