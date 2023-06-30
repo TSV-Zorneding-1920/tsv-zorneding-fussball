@@ -40,14 +40,12 @@ sections:
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/default_person.png
         title: Robert Höger
-        body: >-
+        body: |-
           **Seniorenleiter**
-
 
           0175/4043749
 
-
-          [hoeger-ingelsberg@t-online.de](<mailto: hoeger-ingelsberg@t-online.de>)
+          [hoegerrobert@gmail.com](<mailto: hoegerrobert@gmail.com>)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
