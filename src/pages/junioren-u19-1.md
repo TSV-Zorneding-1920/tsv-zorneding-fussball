@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u19
 showTitle: true
 sections:
   - type: image
-    image_large: /img/platzhalter-mannschaftsbild.png
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
     title: Jahrgänge 2005/2006 u. jünger
   - type: image_text_small
     title: Trainer
