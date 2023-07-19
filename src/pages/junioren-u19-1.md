@@ -10,16 +10,16 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_3189-2.jpeg
-        title: Jakob Bouacha
+      - image_small: /img/img_7255.jpeg
+        title: Mark Grusz
         body: |-
           **Trainer**
 
           Trainer-C-Lizenz Kinder u. Jugend
 
-          0176 /21834455
+          0172 / 7225799
 
-          [U19-FBJ@tsv-zorneding.de](mailto:U19-FBJ@tsv-zorneding.de)
+          [mark@grusz.de](<mailto: mark@grusz.de>)
   - type: body
     title: Trainingszeiten
     body: |-
