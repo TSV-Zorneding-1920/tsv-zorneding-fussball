@@ -19,7 +19,7 @@ sections:
 
           0172/7225799
 
-          [mark@grusz.de](mailto:mark@grusz.de)
+          fussball@tsv[\-](<mailto: fussball@tsv-zorneding.de>)zorneding.de
       - image_small: /img/img_3900-2.jpeg
         title: Clemens Holzmann
         body: |-
