@@ -19,7 +19,7 @@ sections:
 
           0172/7225799
 
-          fussball@tsv[\-](<mailto: fussball@tsv-zorneding.de>)zorneding.de
+          [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/img_3900-2.jpeg
         title: Clemens Holzmann
         body: |-
@@ -27,7 +27,7 @@ sections:
 
           0177/4230998
 
-          fussball@tsv[\-](<mailto: fussball@tsv-zorneding.de>)zorneding.de
+          [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
