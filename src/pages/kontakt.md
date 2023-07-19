@@ -27,7 +27,7 @@ sections:
 
           0177/4230998
 
-          [](mailto:jakobb@email.de)
+          fussball@tsv[\-](<mailto: fussball@tsv-zorneding.de>)zorneding.de
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
