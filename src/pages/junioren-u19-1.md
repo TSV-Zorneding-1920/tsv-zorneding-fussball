@@ -20,6 +20,28 @@ sections:
           0172 / 7225799
 
           [mark@grusz.de](<mailto: mark@grusz.de>)
+      - image_small: /img/default_person-1.png
+        title: Paul Schweighardt
+        body: |-
+          **Trainer**
+
+          0152/05618629
+      - image_small: /img/img_7247.jpeg
+        title: Mustafa Bayrak
+        body: |-
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
+
+          0176/22262681
+      - image_small: /img/img_7294.jpg
+        title: Andreas Koppitz
+        body: |-
+          **Trainer**
+
+          Trainer-C-Lizenz Kinder u. Jugend
+
+          0160/97644727
   - type: body
     title: Trainingszeiten
     body: |-
