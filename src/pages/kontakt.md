@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/grusz-mark_seitlich.jpeg
+      - image_small: /img/img_7255.jpeg
         title: Mark Grusz
         body: |-
           **1. Abteilungsleiter**
