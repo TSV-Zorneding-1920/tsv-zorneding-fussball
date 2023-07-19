@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/tsv-zorneding-u17-web-.jpg
-    title: Jahrgänge 2006/2007
+    title: Jahrgänge 2007/2008 u. jünger
   - type: image_text_small
     title: Trainer
     info:
