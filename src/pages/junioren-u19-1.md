@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u19
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-u19-web-.jpg
+    image_large: /img/platzhalter-mannschaftsbild.png
     title: Jahrgänge 2004/2005
   - type: image_text_small
     title: Trainer
