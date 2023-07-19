@@ -10,36 +10,32 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_7255.jpeg
-        title: Mark Grusz
+      - image_small: /img/ostner-alex.jpeg
+        title: Alexander Ostner
         body: |-
           **Trainer**
 
           Trainer-C-Lizenz Kinder u. Jugend
 
-          0172/7225799
+          0176/43907075
 
           [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/img_7247.jpeg
-        title: Mustafa Bayrak
-        body: |-
+      - image_small: /img/img_3751-2.jpeg
+        title: Marcus Nagle
+        body: >-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
 
-          0176/22262681
+          Jugendleiter
 
-          [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
-      - image_small: /img/koppitz-andreas.jpg
-        title: Andreas Koppitz
-        body: |-
-          **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
+          0172/7483253
 
-          0160/97644727
 
-          [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
+          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
+
+
+          [](<mailto: fb-jugendleitung@tsv-zorneding.de>)
   - type: body
     title: Trainingszeiten
     body: |-
