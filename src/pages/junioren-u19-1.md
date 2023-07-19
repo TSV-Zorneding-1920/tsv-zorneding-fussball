@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/platzhalter-mannschaftsbild.png
-    title: Jahrgänge 2004/2005
+    title: Jahrgänge 2005/2006 u. jünger
   - type: image_text_small
     title: Trainer
     info:
