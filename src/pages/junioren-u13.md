@@ -6,36 +6,28 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgänge 2010/2011
+    title: Jahrgänge 2011/2012
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
-        title: Christian Grusz
+      - image_small: /img/img_1684.jpg
+        title: Julian Ullrich
         body: |-
           **Trainer**
 
-          0172/8965019
+          0157/72536636
 
-          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person-1.png
-        title: Udo Weingart
-        body: |-
-          **Trainer**
-
-          0151/19478849
-
-          [U13-FBJ@tsv-zorneding.de](mailto:U13-FBJ@tsv-zorneding.de)
+          [](mailto:U13-FBJ@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
-      18:30 - 20:00 Uhr
+      17:30 - 19:00 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
-      18:30 - 20:00 Uhr
+      17:30 - 19:00 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
