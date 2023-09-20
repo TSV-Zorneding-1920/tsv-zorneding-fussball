@@ -5,7 +5,7 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-i-herren_geschnitten.jpg
+    image_large: /img/23_24_erste.jpeg
   - type: image_text_small
     title: Trainer
     info:
