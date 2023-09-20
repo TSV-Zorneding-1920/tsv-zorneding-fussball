@@ -6,26 +6,26 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgänge 2010/2011
+    title: Jahrgänge 2011/2012
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Erwin Hartman-Hilter
+        title: Mirko Pietrzak
         body: |-
           **Trainer**
 
-          0171/8543212
+          0157/39338511
 
-          [hartmanhilter@outlook.de](mailto:hartmanhilter@outlook.de)
+          [](mailto:hartmanhilter@outlook.de)
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
-      16:30 - 18:00 Uhr
+      17:30 - 19:00 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
       17:30 - 19:00 Uhr
 ---
