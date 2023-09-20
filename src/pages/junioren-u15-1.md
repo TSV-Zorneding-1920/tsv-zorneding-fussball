@@ -12,12 +12,14 @@ sections:
     info:
       - image_small: /img/default_person.png
         title: Erwin Hartman-Hilter
-        body: |-
+        body: >-
           **Trainer**
+
 
           0171/8543212
 
-          [](mailto:U15-FBJ@tsv-zorneding.de)<mailto: hartmanhilter@outlook.de>
+
+          [](mailto:U15-FBJ@tsv-zorneding.de)[mailto: hartmanhilter@outlook.de](mailto:hartmanhilter@outlook.de)
       - image_small: /img/default_person.png
         title: Klaus Gärtner
         body: "**Co-Trainer**"
