@@ -12,7 +12,10 @@ sections:
     info:
       - image_small: /img/default_person.png
         title: Christine Gaedtke
-        body: "**Trainerin**"
+        body: |-
+          **Trainerin**
+
+          0176/52116163
   - type: body
     title: Trainingszeiten
     body: |-
