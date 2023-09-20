@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2017
+    title: Jahrgang 2018
   - type: image_text_small
     title: Trainer
     info:
