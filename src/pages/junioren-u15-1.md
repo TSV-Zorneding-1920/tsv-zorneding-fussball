@@ -24,11 +24,11 @@ sections:
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
       17:45 - 19:15 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
       17:45 - 19:15 Uhr
   - type: iframe
