@@ -6,26 +6,13 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2015
+    title: Jahrgang 2016
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Wojciech Kuropatwinski-Kaiser
-        body: |-
-          **Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0157/74237481
-
-          [U8-FBJ@tsv-zorneding.de](mailto:U8-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
-        title: Janek Kaiser
-        body: |-
-          **Co-Trainer**
-
-          01573/9024158
+        title: Christine Gaedtke
+        body: "**Trainerin**"
   - type: body
     title: Trainingszeiten
     body: |-
