@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/hartinger-christoph.jpeg
+      - image_small: /img/img_1678.jpg
         title: Christoph Hartinger
         body: |-
           **Trainer**
