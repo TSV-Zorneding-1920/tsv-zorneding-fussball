@@ -5,27 +5,25 @@ slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-u10-web-.jpg
-    title: Jahrgang 2013
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/robert-von-stein_2.jpg
-        title: Robert von Stein
+      - image_small: /img/hartinger-christoph.jpeg
+        title: Christoph Hartinger
         body: |-
           **Trainer**
 
-          0151/12567075
+          0173 / 8486069
 
-          [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
-      - image_small: /img/ulrich-andre.jpeg
-        title: Andre Ullrich
+          [M](<mailto: chartinger713@gmail.com>)ail
+      - image_small: /img/default_person.png
+        title: Christian Gollwitzer
         body: |-
           **Trainer**
 
-          0157/72536460
-
-          [U10-FBJ@tsv-zorneding.de](mailto:U10-FBJ@tsv-zorneding.de)
+          0179/4991509
   - type: body
     title: Trainingszeiten
     body: |-
