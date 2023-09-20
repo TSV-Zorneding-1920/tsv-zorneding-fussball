@@ -5,35 +5,30 @@ slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
-    image_large: /img/f2-u8_teamfoto_neu.jpg
-    title: Jahrgang 2014
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    title: Jahrgang 2015
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/hartinger-christoph.jpeg
-        title: Christoph Hartinger
+      - image_small: /img/default_person.png
+        title: Wojciech Kuropatwinski-Kaiser
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
 
-          0173 / 8486069
 
-          [U9-FBJ@tsv-zorneding.de](mailto:U9-FBJ@tsv-zorneding.de)
-      - image_small: /img/default_person.png
-        title: Christian Gollwitzer
-        body: |-
-          **Co-Trainer**
-
-          0179/4991509
+          [](mailto:U9-FBJ@tsv-zorneding.de)
+      - image_small: /img/img_1289.jpg
+        title: Janek Kaiser
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
       17:00 - 18:30 Uhr
 
-      **Freitag**
+      **Mittwoch**
 
       17:00 - 18:30 Uhr
   - type: iframe
