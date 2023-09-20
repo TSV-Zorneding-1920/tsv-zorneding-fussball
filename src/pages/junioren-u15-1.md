@@ -20,7 +20,10 @@ sections:
           [hartmanhilter@outlook.de](<mailto: hartmanhilter@outlook.de>)
       - image_small: /img/default_person.png
         title: Klaus Gärtner
-        body: "**Co-Trainer**"
+        body: |-
+          **Co-Trainer**
+
+          0176/83384095
   - type: body
     title: Trainingszeiten
     body: |-
