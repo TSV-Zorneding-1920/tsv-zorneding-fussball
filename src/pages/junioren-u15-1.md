@@ -6,30 +6,21 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/tsv-zorneding-u15-web-.jpg
-    title: Jahrgänge 2008/2009
+    title: Jahrgänge 2009/2010
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/ostner-alex.jpeg
-        title: Alexander Ostner
+      - image_small: /img/default_person.png
+        title: Erwin Hartman-Hilter
         body: |-
           **Trainer**
 
-          Trainer-C-Lizenz Kinder u. Jugend
+          0171/8543212
 
-          0176/43907075
-
-          [U15-FBJ@tsv-zorneding.de](mailto:U15-FBJ@tsv-zorneding.de)
-      - image_small: /img/nagle-marcus.jpeg
-        title: Marcus Nagle
-        body: >-
-          **Co-Trainer**
-
-
-          0172/7483253
-
-
-          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
+          [](mailto:U15-FBJ@tsv-zorneding.de)<mailto: hartmanhilter@outlook.de>
+      - image_small: /img/default_person.png
+        title: Klaus Gärtner
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
