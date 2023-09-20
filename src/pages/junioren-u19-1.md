@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_7255.jpeg
+      - image_small: /img/img_1589.jpg
         title: Mark Grusz
         body: |-
           **Trainer**
@@ -20,7 +20,7 @@ sections:
           0172 / 7225799
 
           [mark@grusz.de](<mailto: mark@grusz.de>)
-      - image_small: /img/default_person-1.png
+      - image_small: /img/img_1682.jpg
         title: Paul Schweighardt
         body: |-
           **Trainer**
