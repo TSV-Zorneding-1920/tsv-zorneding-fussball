@@ -5,12 +5,15 @@ slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-iii-herren_zugeschnitten.jpg
+    image_large: /img/23_24_dritte.jpg
   - type: image_text_small
     info:
       - image_small: /img/bayer-markus.jpeg
         title: Markus Bayer
         body: 0174/9475789
+      - image_small: /img/default_person-1.png
+        title: René Fischer
+        body: 0151/42341998
     title: Trainer/Betreuer
   - type: body
     title: Trainingszeiten
