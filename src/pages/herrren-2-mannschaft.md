@@ -5,7 +5,7 @@ slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-ii-herren_geschnitten.jpg
+    image_large: /img/23_24_zweite.jpeg
   - type: image_text_small
     info:
       - image_small: /img/riedl-rudi.jpeg
