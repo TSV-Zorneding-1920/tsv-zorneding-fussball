@@ -21,11 +21,11 @@ sections:
     body: |-
       **Montag**
 
-      17:00 - 18:30 Uhr
+      16:30 - 18:00 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
-      17:00 - 18:30 Uhr
+      16:30 - 18:00 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
