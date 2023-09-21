@@ -8,10 +8,10 @@ sections:
     image_large: /img/23_24_dritte.jpg
   - type: image_text_small
     info:
-      - image_small: /img/img_1683.jpg
+      - image_small: /img/img_1710.jpg
         title: Markus Bayer
         body: 0174/9475789
-      - image_small: /img/img_1353.jpg
+      - image_small: /img/img_1740.jpg
         title: René Fischer
         body: 0151/42341998
     title: Trainer/Betreuer
