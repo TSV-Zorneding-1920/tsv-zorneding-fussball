@@ -32,7 +32,7 @@ sections:
   - type: image_text_small
     title: Ihre Ansprechpartner
     info:
-      - image_small: /img/img_7255.jpeg
+      - image_small: /img/img_1752.jpg
         title: Mark Grusz
         body: >-
           **1.Vorsitzender**
@@ -42,18 +42,18 @@ sections:
 
 
           [fussballfoerderverein-zorneding@gmx.de](mailto:fussballfoerderverein-zorneding@gmx.de)
+      - image_small: /img/img_4148-2.jpeg
+        title: René Zenthöfer
+        body: |-
+          **Schatzmeister/Kassier**
+
+          0177/2316361
+
+          [](tel:+491704548539)[](hennig-zorneding@t-online.de)
       - image_small: /img/koppitz-andreas.jpg
         title: Andreas Koppitz
         body: |-
-          **Kassier**
-
-          0160/97644727
-      - image_small: /img/default_person.png
-        title: Thomas Hennig
-        body: |-
           **Schriftführer**
 
-          0179/4158611
-
-          [](tel:+491704548539)[](hennig-zorneding@t-online.de)
+          0160/97644727
 ---
