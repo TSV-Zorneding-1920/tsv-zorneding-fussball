@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/img_1589.jpg
+      - image_small: /img/img_1752.jpg
         title: Mark Grusz
         body: |-
           **1. Abteilungsleiter**
@@ -20,7 +20,7 @@ sections:
           0172/7225799
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/img_1688.jpg
+      - image_small: /img/img_1718.jpg
         title: Clemens Holzmann
         body: |-
           **2. Abteilungsleiter**
@@ -38,7 +38,7 @@ sections:
 
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
-      - image_small: /img/img_1215.jpg
+      - image_small: /img/img_1751.jpg
         title: Christian Kraus
         body: |-
           **Technischer Leiter**
