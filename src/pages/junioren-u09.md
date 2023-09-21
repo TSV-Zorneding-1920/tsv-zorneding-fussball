@@ -15,9 +15,7 @@ sections:
         body: |-
           **Trainer**
 
-
-
-          [](mailto:U9-FBJ@tsv-zorneding.de)
+          [](mailto:U9-FBJ@tsv-zorneding.de)0157/74237481
       - image_small: /img/img_1714.jpg
         title: Janek Kaiser
         body: "**Co-Trainer**"
