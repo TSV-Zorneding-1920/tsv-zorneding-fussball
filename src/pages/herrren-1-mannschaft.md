@@ -9,7 +9,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1676.jpg
+      - image_small: /img/img_1703.jpg
         title: Sascha Bergmann
         body: |-
           **Trainer**
