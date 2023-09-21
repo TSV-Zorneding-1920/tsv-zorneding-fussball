@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1352.jpg
+      - image_small: /img/img_1701.jpg
         title: Mirko Pietrzak
         body: |-
           **Trainer**
