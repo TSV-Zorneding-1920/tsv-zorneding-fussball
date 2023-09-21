@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1684.jpg
+      - image_small: /img/img_1711.jpg
         title: Julian Ullrich
         body: |-
           **Trainer**
