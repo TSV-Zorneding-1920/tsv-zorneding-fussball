@@ -34,7 +34,7 @@ sections:
           Trainer-C-Lizenz Kinder u. Jugend
 
           0176/22262681
-      - image_small: /img/img_7294.jpg
+      - image_small: /img/koppitz-andreas.jpg
         title: Andreas Koppitz
         body: |-
           **Trainer**
