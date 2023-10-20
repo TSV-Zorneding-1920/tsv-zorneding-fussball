@@ -16,16 +16,19 @@ sections:
           **Trainerin**
 
           0176/52116163
+      - image_small: /img/default_person.png
+        title: Sebastian Leinhos
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
       **Montag**
 
-      16:30 - 18:00 Uhr
+      17:00 - 18:30 Uhr
 
       **Donnerstag**
 
-      16:30 - 18:00 Uhr
+      17:00 - 18:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
