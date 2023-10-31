@@ -5,7 +5,7 @@ slug: /
 showTitle: false
 sections:
   - type: image
-    image_large: /img/sportpark_haupttribune.jpeg
+    image_large: /img/titelbild-1_komp.jpg
     caption: ""
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
   - type: file_list
