@@ -11,6 +11,10 @@ sections:
   - type: file_list
     title: Stadionheft TSV Echo
     element:
+      - title: Ausgabe 2023/24-07-10.03.2024
+        file: /img/stadionheft_2023-2024_07_10.03.2024.pdf
+      - title: Ausgabe 2023/24-06-05.11.2023
+        file: /img/stadionheft_2023-2024_06_05.11.2023.pdf
       - title: Ausgabe 2023/24-05-22.10.2023
         file: /img/stadionheft_2023-2024_05_22.10.2023.pdf
       - title: Ausgabe 2023/24-04-08.10.2023
