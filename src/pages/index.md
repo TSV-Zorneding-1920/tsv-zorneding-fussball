@@ -13,18 +13,6 @@ sections:
     element:
       - title: Ausgabe 2023/24-07-10.03.2024
         file: /img/stadionheft_2023-2024_07_10.03.2024.pdf
-      - title: Ausgabe 2023/24-06-05.11.2023
-        file: /img/stadionheft_2023-2024_06_05.11.2023.pdf
-      - title: Ausgabe 2023/24-05-22.10.2023
-        file: /img/stadionheft_2023-2024_05_22.10.2023.pdf
-      - title: Ausgabe 2023/24-04-08.10.2023
-        file: /img/stadionheft_2023-2024_04_08.10.2023.pdf
-      - title: Ausgabe 2023/24-03-24.09.2023
-        file: /img/stadionheft_2023-2024_03_24.09.2023.pdf
-      - title: Ausgabe 2023/24-02-10.09.2023
-        file: /img/stadionheft_2023-2024_02_10.09.2023.pdf
-      - title: Ausgabe 2023/24-01-27.08.2023
-        file: /img/stadionheft_2023-2024_01_27.08.2023.pdf
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
