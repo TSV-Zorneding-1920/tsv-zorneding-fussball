@@ -50,8 +50,8 @@ sections:
         title: DECOSIGN
       - image: /img/gartendesign-wittmann.png
         title: Gartendesgin Wittmann
-      - image: /img/logo-gmbh-gm-jpg.jpg
-        title: GM GebäudeManagement Czekalla GmbH
+      - image: /img/gm-czekalla.jpeg
+        title: GM Czekalla GmbH
       - image: /img/malermeisterbetrieb-calcagnile_1.png
         title: Malermeisterbetrieb Calcagnile
       - image: /img/logo_lsm-fleet-service-gmbh.jpg
