@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/23_24_u17.jpg
-    title: Jahrgänge 2007/2008 u. jünger
+    title: Jahrgänge 2008/2009 u. jünger
   - type: image_text_small
     title: Trainer
     info:
