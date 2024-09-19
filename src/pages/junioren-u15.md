@@ -18,8 +18,6 @@ sections:
           Trainer-C-Lizenz Kinder u. Jugend
 
           0176/43907075
-
-          [U17-FBJ@tsv-zorneding.de](mailto:U17-FBJ@tsv-zorneding.de)
       - image_small: /img/img_3751-2.jpeg
         title: Marcus Nagle
         body: >-
@@ -39,13 +37,13 @@ sections:
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
-      18:00 - 19:30 Uhr
+      19:00 - 20:30 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
-      18:00 - 19:30 Uhr
+      19:00  - 20:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
