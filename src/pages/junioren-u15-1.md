@@ -6,34 +6,36 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgänge 2009/2010
+    title: Jahrgänge 2010/2011
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Erwin Hartman-Hilter
+        title: Yazar Taskin
         body: |-
           **Trainer**
 
-          0171/8543212
+          0178/1633470
 
-          [hartmanhilter@outlook.de](<mailto: hartmanhilter@outlook.de>)
+          [](<mailto: hartmanhilter@outlook.de>)
       - image_small: /img/default_person.png
-        title: Klaus Gärtner
+        title: Dennis Delges
         body: |-
           **Co-Trainer**
 
-          0176/83384095
+          0151/27578356
+
+          dennis.delges@t-online.de
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
-      17:30 - 19:00 Uhr
+      17:45 - 19:15 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
-      17:30 - 19:00 Uhr
+      17:45 - 19:15 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
