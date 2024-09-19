@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/23_24_u19.jpeg
-    title: Jahrgänge 2005/2006 u. jünger
+    title: Jahrgänge 2006/2007/2008 u. jünger
   - type: image_text_small
     title: Trainer
     info:
