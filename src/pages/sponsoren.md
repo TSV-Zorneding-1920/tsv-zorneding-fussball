@@ -34,9 +34,9 @@ sections:
         title: Kreissparkasse München Starnberg Ebersberg
       - image: /img/logo-rbz.webp
         title: Raiffeisenbank Zorneding eG
-      - image: /img/190913_tsv_100jahre_5x3m_logo-2.png
+      - image: /img/schreinerei-kriegenhofer_logo.png
         title: Schreinerei Kriegenhofer
-      - image: /img/190913_tsv_100jahre_5x3m_logo-2.png
+      - image: /img/qedcon.png
         title: qedcon GmbH
       - image: /img/sonnenschutz-lehmann.png
         title: "Lehmann Sonnenschutz "
