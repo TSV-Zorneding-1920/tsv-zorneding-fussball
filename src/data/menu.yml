@@ -33,6 +33,8 @@ menu_entry:
             title: U07 (G-Jugend)
           - title: U06 (G-Jugend)
             page: /mannschaften/junioren/u06
+          - title: U12 (D-Jugend)
+            page: /mannschaften/junioren/u12
       - title: Senioren
         menu_entry:
           - page: /mannschaften/senioren/SeniorenA
