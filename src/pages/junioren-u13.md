@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgänge 2011/2012
+    title: Jahrgang 2012
   - type: image_text_small
     title: Trainer
     info:
