@@ -8,19 +8,6 @@ sections:
     image_large: /img/kreisliga-meister.jpg
     caption: KREISLIGA-MEISTER 2023/2024
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
-  - type: file_list
-    title: Stadionheft TSV Echo
-    element:
-      - title: Ausgabe 2023/24-11-12.05.2024
-        file: /img/stadionheft_2023-2024_11_12.05.2024.pdf
-      - title: Ausgabe 2023/24-10-05.05.2024
-        file: /img/stadionheft_2023-2024_10_05.05.2024.pdf
-      - title: Ausgabe 2023/24-09-21.04.2024
-        file: /img/stadionheft_2023-2024_09_21.04.2024.pdf
-      - title: Ausgabe 2023/24-08-24.03.2024
-        file: /img/stadionheft_2023-2024_08_24.03.2024.pdf
-      - title: Ausgabe 2023/24-07-10.03.2024
-        file: /img/stadionheft_2023-2024_07_10.03.2024.pdf
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
     html: >-
