@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u17
 showTitle: true
 sections:
   - type: image
-    image_large: /img/platzhalter_team1.jpg
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
     title: Jahrgänge 2008/2009 u. jünger
   - type: image_text_small
     title: Trainer
