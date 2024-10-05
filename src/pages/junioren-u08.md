@@ -16,6 +16,8 @@ sections:
           **Trainer**
 
           0160/94833291
+
+          [Mail](<mailto: sebastian@ooyoo.de>)
       - image_small: /img/default_person.png
         title: Christian Lindenthal
         body: "**Trainer**"
