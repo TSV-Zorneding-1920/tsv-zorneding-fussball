@@ -25,6 +25,9 @@ sections:
           0157/72536460
 
           [and.ullrich@yahoo.de](mailto:%20and.ullrich@yahoo.de)
+      - image_small: /img/default_person.png
+        title: Florian von Stein
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
