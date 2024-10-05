@@ -7,35 +7,37 @@ sections:
   - type: image
     image_large: /img/banner_vielen-dank.jpg
   - type: image
+    image_large: /img/logo_wohry_2017.jpg
+    title: Trikotsponsor 1. Herren-Mannschaft
+  - type: image
     image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
+    title: Premium-Sponsoren
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image
     image_large: /img/inovis.jpg
-  - type: image
-    image_large: /img/logo_wohry_2017.jpg
-    title: Trikotsponsor 1. Herren-Mannschaft
   - type: image_text
     nodes:
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
-      - image: /img/logo_wohry_2017.jpg
-        title: Michael Wöhry Immobilien
       - image: /img/rebound-logo-on-white.png
         title: Rebound Electronics
+    title: Sponsoren
   - type: image_text
     title: ""
     nodes:
       - image: /img/hoermann-logo-gruppe_rgb.png
         title: Hörmann Gruppe
-      - image: /img/kreditbegleiter-koppitz.jpg
-        title: Kreditbegleiter Koppitz
-      - image: /img/logo-rbz.webp
-        title: Raiffeisenbank Zorneding eG
-      - image: /img/logo-ksk.webp
-        title: Kreissparkasse München Starnberg Ebersberg
       - image: /img/logo_neuwirt_ahr.jpg
         title: Gasthof Hotel Neuwirt
+      - image: /img/logo-ksk.webp
+        title: Kreissparkasse München Starnberg Ebersberg
+      - image: /img/logo-rbz.webp
+        title: Raiffeisenbank Zorneding eG
+      - image: /img/190913_tsv_100jahre_5x3m_logo-2.png
+        title: Schreinerei Kriegenhofer
+      - image: /img/190913_tsv_100jahre_5x3m_logo-2.png
+        title: qedcon GmbH
       - image: /img/sonnenschutz-lehmann.png
         title: "Lehmann Sonnenschutz "
       - image: /img/noble-optic_logo.jpg
