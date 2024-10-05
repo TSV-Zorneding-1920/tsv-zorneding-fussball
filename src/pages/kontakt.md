@@ -92,7 +92,7 @@ sections:
 
           0170/7984856
 
-          [john.dite@mailbox.org](mailto:john.dite@mailbox.org)
+          [](mailto:john.dite@mailbox.org)
         title: John Dite
       - image_small: /img/default_person.png
         title: Alexander Ospelkaus
@@ -105,11 +105,9 @@ sections:
       - image_small: /img/ulrich-andre.jpeg
         title: André Ullrich
         body: |-
-          **Spieltagsbetreuung**
+          **Leiter des Ordnungsdienstes**
 
           0157/72536460
-
-          [and.ullrich@yahoo.de](mailto:and.ullrich@yahoo.de)
       - image_small: /img/linnemann-yvonne.jpeg
         title: Yvonne Linnemann
         body: |-
@@ -117,7 +115,7 @@ sections:
 
           0162/9290354
 
-          [yvonne.linnemann@web.de](mailto:yvonne.linnemann@web.de)
+          [](mailto:yvonne.linnemann@web.de)
       - image_small: /img/sitte-tom.jpeg
         title: Thomas Sitte
         body: |-
@@ -125,7 +123,7 @@ sections:
 
           0177/6010335
 
-          [fam.sitte@t-online.de](mailto:fam.sitte@t-online.de)
+          [](mailto:fam.sitte@t-online.de)
       - image_small: /img/zenthofer-rene.jpeg
         title: René Zenthöfer
         body: Stadionsprecher
