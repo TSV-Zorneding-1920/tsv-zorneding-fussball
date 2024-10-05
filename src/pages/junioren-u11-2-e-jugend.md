@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Junioren - U11/2 (E-Jugend)
-slug: mannschaften/u11-2
+slug: mannschaften/junioren/u11-2
 showTitle: true
 sections:
   - type: image
