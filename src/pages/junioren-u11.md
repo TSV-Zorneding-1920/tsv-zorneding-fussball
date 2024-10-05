@@ -11,12 +11,14 @@ sections:
     info:
       - image_small: /img/default_person-1.png
         title: Christoph Hartinger
-        body: |-
+        body: >-
           **Trainer**
+
 
           0173 / 8486069
 
-          [](mailto:%20chartinger713@gmail.com)
+
+          [](mailto:%20chartinger713@gmail.com)[Mail](<mailto: chartinger713@gmail.com>)
       - image_small: /img/default_person.png
         title: Christian Gollwitzer
         body: |-
