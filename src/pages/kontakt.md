@@ -77,7 +77,7 @@ sections:
 
           0176/30133393
 
-          [werner.eichner@gmx.net](mailto:werner.eichner@gmx.net)
+          [](mailto:werner.eichner@gmx.net)
       - image_small: /img/default_person.png
         title: Thomas Hennig
         body: |-
