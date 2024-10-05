@@ -22,6 +22,9 @@ sections:
           **Trainer**
 
           0177/3383651
+      - image_small: /img/default_person.png
+        title: Raphael Nagle-Schneider
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
