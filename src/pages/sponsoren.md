@@ -11,23 +11,21 @@ sections:
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image
-    image_large: /img/rebound-logo-on-white.png
-    title: ""
-  - type: image
     image_large: /img/inovis.jpg
+  - type: image
+    image_large: /img/logo_wohry_2017.jpg
+    title: Trikotsponsor 1. Herren-Mannschaft
   - type: image_text
     nodes:
       - image: /img/saurer-wolf_bandenwerbung.jpg
         title: Saurer & Wolf GmbH
       - image: /img/logo_wohry_2017.jpg
         title: Michael Wöhry Immobilien
-      - image: /img/dnp-fermentation_blau.png
-        title: Dr. Niedermaier Pharma
+      - image: /img/rebound-logo-on-white.png
+        title: Rebound Electronics
   - type: image_text
     title: ""
     nodes:
-      - image: /img/image-fussball_continentale_ernst-stegmeier-gmbh_klein.png
-        title: Continentale Ernst Stegmeier
       - image: /img/hoermann-logo-gruppe_rgb.png
         title: Hörmann Gruppe
       - image: /img/kreditbegleiter-koppitz.jpg
@@ -48,8 +46,6 @@ sections:
         title: Zahnheilkunde Birkenhof
       - image: /img/decosgin.png
         title: DECOSIGN
-      - image: /img/gartendesign-wittmann.png
-        title: Gartendesgin Wittmann
       - image: /img/gm-czekalla.jpeg
         title: GM Czekalla GmbH
       - image: /img/malermeisterbetrieb-calcagnile_1.png
