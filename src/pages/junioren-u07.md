@@ -17,7 +17,7 @@ sections:
 
           0162/8570306
 
-          [M](<mailto: benedikt.foerster@aol.com>)ail
+          [Mail](<mailto: benedikt.foerster@aol.com>)
   - type: body
     title: Trainingszeiten
     body: |-
