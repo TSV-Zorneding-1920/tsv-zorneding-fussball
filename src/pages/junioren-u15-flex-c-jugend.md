@@ -26,16 +26,12 @@ sections:
           [Mail](<mailto: dennis.delges@t-online.de>)
   - type: body
     body: |-
-      <!--StartFragment-->
-
       **Dienstag**
 
-      17:45 - 19:15 Uhr
+      17:30 - 19:00 Uhr
 
       **Donnerstag**
 
-      17:45 - 19:15 Uhr
-
-      <!--EndFragment-->
+      17:30 - 19:00 Uhr
     title: Trainingszeiten
 ---
