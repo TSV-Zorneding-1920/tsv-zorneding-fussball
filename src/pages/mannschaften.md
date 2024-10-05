@@ -6,7 +6,7 @@ showTitle: true
 sections:
   - type: body
     title: ""
-    body: "# **Saison 2022/2023**"
+    body: "# **Saison 2024/2025**"
   - type: image_text
     title: Herren
     nodes:
