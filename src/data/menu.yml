@@ -28,9 +28,9 @@ menu_entry:
           - page: /mannschaften/junioren/u10
             title: U10 (E-Jugend)
           - page: /mannschaften/junioren/u09
-            title: U09 (F-Jugend)
-          - page: /mannschaften/junioren/u08
-            title: U08 (F-Jugend)
+            title: U09/1 (F-Jugend)
+          - page: /mannschaften/junioren/u09-2
+            title: U09/2 (F-Jugend)
           - page: /mannschaften/junioren/u07
             title: U07 (G-Jugend)
           - title: U06 (G-Jugend)
