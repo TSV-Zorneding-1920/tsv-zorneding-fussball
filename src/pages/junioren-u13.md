@@ -18,16 +18,22 @@ sections:
           0157/72536636
 
           [](mailto:U13-FBJ@tsv-zorneding.de)
+      - image_small: /img/img_1701.jpg
+        title: Mirko Pietrzak
+        body: |-
+          **Trainer**
+
+          0157/39338511
   - type: body
     title: Trainingszeiten
     body: |-
       **Dienstag**
 
-      17:30 - 19:00 Uhr
+      17:45 - 19:15 Uhr
 
       **Donnerstag**
 
-      17:30 - 19:00 Uhr
+      17:45 - 19:15 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
