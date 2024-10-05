@@ -10,6 +10,12 @@ sections:
     image_large: /img/logo_wohry_2017.jpg
     title: Trikotsponsor 1. Herren-Mannschaft
   - type: image
+    image_large: /img/kreditbegleiter-koppitz.jpg
+    title: Trikotsponsor 2. Herren-Mannschaft
+  - type: image
+    image_large: /img/logo_fahrrad_hemrich_schild_flach_negativ.webp
+    title: Trikotsponsor 3. Herren-Mannschaft
+  - type: image
     image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
     title: Premium-Sponsoren
   - type: image
