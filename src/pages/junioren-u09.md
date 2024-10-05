@@ -5,20 +5,23 @@ slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2015
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    title: Jahrgänge 2016/2017
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Wojciech Kuropatwinski-Kaiser
+        title: Sebastian Leinhos
         body: |-
           **Trainer**
 
-          [](mailto:U9-FBJ@tsv-zorneding.de)0157/74237481
-      - image_small: /img/img_1714.jpg
-        title: Janek Kaiser
-        body: "**Co-Trainer**"
+          0160/94833291
+      - image_small: /img/default_person.png
+        title: Christian Lindenthal
+        body: "**Trainer**"
+      - image_small: /img/default_person.png
+        title: Robert Starringer
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
@@ -26,7 +29,7 @@ sections:
 
       17:00 - 18:30 Uhr
 
-      **Mittwoch**
+      **Donnerstag**
 
       17:00 - 18:30 Uhr
   - type: iframe
