@@ -45,7 +45,7 @@ sections:
 
           0176/60904912
 
-          [christian.kraus@galeria.de](<mailto: christian.kraus@galeria.de>)
+          [](<mailto: christian.kraus@galeria.de>)
       - image_small: /img/default_person.png
         title: Robert Höger
         body: |-
