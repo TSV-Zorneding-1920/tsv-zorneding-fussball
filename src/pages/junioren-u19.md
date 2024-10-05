@@ -5,7 +5,7 @@ slug: mannschaften/herren/3.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/23_24_dritte.jpg
+    image_large: /img/3.mannschaft_2024-25.jpg
   - type: image_text_small
     info:
       - image_small: /img/img_1710.jpg
