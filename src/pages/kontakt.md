@@ -85,7 +85,7 @@ sections:
 
           0179/4158611
 
-          [hennig-zorneding@t-online.de](mailto:hennig-zorneding@t-online.de)
+          [](mailto:hennig-zorneding@t-online.de)
       - image_small: /img/default_person.png
         body: |-
           **2. Kassier**
