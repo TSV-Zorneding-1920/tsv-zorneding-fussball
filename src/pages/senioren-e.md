@@ -5,7 +5,7 @@ slug: mannschaften/senioren/SeniorenE
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
     title: ""
   - type: image_text_small
     title: Betreuer
