@@ -5,7 +5,7 @@ slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/23_24_zweite.jpeg
+    image_large: /img/2.mannschaft_2024-25.jpg
   - type: image_text_small
     info:
       - image_small: /img/riedl-rudi.jpeg
