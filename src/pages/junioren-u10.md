@@ -5,35 +5,33 @@ slug: mannschaften/junioren/u10
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2014
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    title: Jahrgang 2015
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1705.jpg
-        title: Christoph Hartinger
-        body: |-
-          **Trainer**
-
-          0173 / 8486069
-
-          [M](<mailto: chartinger713@gmail.com>)ail
       - image_small: /img/default_person.png
-        title: Christian Gollwitzer
+        title: Daniel Hüller
         body: |-
           **Trainer**
 
-          0179/4991509
+          0151/42601980
+      - image_small: /img/default_person.png
+        title: Andreas Weck
+        body: |-
+          **Trainer**
+
+          0177/3383651
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
-      17:00- 18:30 Uhr
+      17:00 - 18:30 Uhr
 
-      **Freitag**
+      **Mittwoch**
 
-      17:00- 18:30 Uhr
+      17:00 - 18:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
