@@ -8,9 +8,8 @@
 <url> <loc>https://fussball.tsv-zorneding.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u09-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u09</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u11-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u11-3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u12</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,6 +24,7 @@
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/senioren/SeniorenA</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/mannschaften/senioren/SeniorenE</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/Sponsoren</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fussball.tsv-zorneding.de/mannschaften/junioren/u11-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/Sportstaetten</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fussball.tsv-zorneding.de/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
