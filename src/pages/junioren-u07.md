@@ -5,19 +5,19 @@ slug: mannschaften/junioren/u07
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2017
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    title: Jahrgänge 2018 u. jünger
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person-1.png
-        title: Christian Lindenthal
+        title: Benedikt Förster
         body: |-
           **Trainer**
 
-          0170/4780646
+          0162/8570306
 
-          [Bambini7@tsv-zorneding.de](mailto:Bambini7@tsv-zorneding.de)
+          [M](<mailto: benedikt.foerster@aol.com>)ail
   - type: body
     title: Trainingszeiten
     body: |-
