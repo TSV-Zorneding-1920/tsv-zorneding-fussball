@@ -21,6 +21,8 @@ menu_entry:
             title: U13/1 (D-Jugend)
           - title: U13/2 (D-Jugend)
             page: /mannschaften/junioren/u13-2
+          - title: U12 (D-Jugend)
+            page: /mannschaften/junioren/u12
           - page: /mannschaften/junioren/u11
             title: U11 (E-Jugend)
           - page: /mannschaften/junioren/u10
@@ -33,8 +35,6 @@ menu_entry:
             title: U07 (G-Jugend)
           - title: U06 (G-Jugend)
             page: /mannschaften/junioren/u06
-          - title: U12 (D-Jugend)
-            page: /mannschaften/junioren/u12
       - title: Senioren
         menu_entry:
           - page: /mannschaften/senioren/SeniorenA
