@@ -28,6 +28,7 @@ sections:
       - image_small: /img/default_person.png
         title: Florian von Stein
         body: "**Co-Trainer**"
+    title: Trainer
   - type: body
     title: Trainingszeiten
     body: |-
