@@ -19,7 +19,7 @@ sections:
 
           0172 / 7225799
 
-          [mark@grusz.de](<mailto: mark@grusz.de>)
+          [](<mailto: mark@grusz.de>)[Mail](<mailto: mark@grusz.de>)
       - image_small: /img/img_7247.jpeg
         title: Mustafa Bayrak
         body: |-
