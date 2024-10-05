@@ -5,37 +5,39 @@ slug: mannschaften/junioren/u11
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2013
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    title: Jahrgang 2014
   - type: image_text_small
     info:
       - image_small: /img/default_person-1.png
-        title: Robert von Stein
+        title: Christoph Hartinger
         body: |-
           **Trainer**
 
-          0151/12567075
+          0173 / 8486069
 
-          [robert.vonstein@gmx.de](<mailto: robert.vonstein@gmx.de>)
+          [](mailto:%20chartinger713@gmail.com)
       - image_small: /img/default_person.png
-        title: André Ullrich
+        title: Christian Gollwitzer
         body: |-
           **Trainer**
 
-          0157/72536460
-
-          [and.ullrich@yahoo.de](<mailto: and.ullrich@yahoo.de>)
+          0179/4991509
     title: Trainer
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
       17:00 - 18:30 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
       17:00 - 18:30 Uhr
+
+      **Freitag**
+
+      18:00 - 19:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
