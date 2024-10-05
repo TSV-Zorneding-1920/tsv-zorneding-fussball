@@ -5,7 +5,7 @@ slug: /
 showTitle: false
 sections:
   - type: image
-    image_large: /img/kreisliga-meister.jpg
+    image_large: /img/triplemeister_tribune.jpg
     caption: KREISLIGA-MEISTER 2023/2024
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
   - type: iframe
