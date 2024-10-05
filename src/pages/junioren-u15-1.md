@@ -21,11 +21,11 @@ sections:
       - image_small: /img/default_person.png
         title: Dennis Delges
         body: |-
-          **Co-Trainer**
+          **Trainer**
 
           0151/27578356
 
-          dennis.delges@t-online.de
+          [Mail](<mailto: dennis.delges@t-online.de>)
   - type: body
     title: Trainingszeiten
     body: |-
