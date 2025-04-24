@@ -29,7 +29,7 @@ sections:
           [florian.heppert@web.de](mailto:florian.heppert@web.de)
       - image_small: /img/blau-jens.jpeg
         title: Jens Blau
-        body: "**Fitnesstrainer**"
+        body: "**Betreuer**"
   - type: body
     title: Trainingszeiten
     body: |-
