@@ -62,10 +62,6 @@ sections:
         title: LSM Fleet Service GmbH
       - image: /img/auto-hiller-kg-opel.jpg
         title: OPEL Hiller Zorneding
-      - image: /img/fiat.png
-        title: Autohaus Niebler Eglharting
-      - image: /img/erdinger.png
-        title: Erdinger Weissbräu
       - image: /img/auto_berger1.jpg
         title: Auto Berger
       - image: /img/logo_web.jpg
@@ -78,10 +74,6 @@ sections:
         title: Gasthaus Schlammerl
       - image: /img/buch-wein.png
         title: "Buch & Wein "
-      - image: /img/skeide-coaching.png
-        title: Skeide Coaching
-      - image: /img/taxi-zorneding.jpg
-        title: TAXI Zorneding
       - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
         title: VHS Vaterstetten
 ---
