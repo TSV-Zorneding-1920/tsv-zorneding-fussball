@@ -4,9 +4,6 @@ title: Senioren E
 slug: mannschaften/senioren/SeniorenE
 showTitle: true
 sections:
-  - type: image
-    image_large: /img/e-senioren_mannschaftsfoto_2025.jpg
-    title: ""
   - type: image_text_small
     title: Betreuer
     info:
