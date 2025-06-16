@@ -28,6 +28,14 @@ sections:
           0162/8570306
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
+      - image_small: /img/riedl-rudi.jpeg
+        title: Rudolf Riedl
+        body: |-
+          **Sportlicher Leiter Herren**
+
+          0151/23060710
+
+          [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
         body: >-
