@@ -20,12 +20,12 @@ sections:
           0172/7225799
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/img_1718.jpg
-        title: Clemens Holzmann
+      - image_small: /img/default_person.png
+        title: Benedikt Förster
         body: |-
           **2. Abteilungsleiter**
 
-          0177/4230998
+          0162/8570306
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/nagle-marcus.jpeg
