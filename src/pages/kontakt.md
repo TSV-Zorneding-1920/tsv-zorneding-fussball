@@ -49,7 +49,7 @@ sections:
       - image_small: /img/img_1751.jpg
         title: Christian Kraus
         body: |-
-          **Technischer Leiter**
+          **Teammanager Herren**
 
           0176/60904912
 
