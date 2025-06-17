@@ -28,7 +28,7 @@ sections:
           0162/8570306
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/riedl-rudi.jpeg
+      - image_small: /img/default_person.png
         title: Rudolf Riedl
         body: |-
           **Sportlicher Leiter Herren**
