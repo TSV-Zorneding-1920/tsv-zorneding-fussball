@@ -5,8 +5,8 @@ slug: /
 showTitle: false
 sections:
   - type: image
-    image_large: /img/triplemeister_tribune.jpg
-    caption: TRIPLE-MEISTER 2023/2024
+    image_large: /img/startbild_tsv-zorneding.png
+    caption: ""
     title: Willkommen bei der Fußballabteilung des TSV Zorneding
   - type: iframe
     title: Aktueller Spielplan und Ergebnisse
