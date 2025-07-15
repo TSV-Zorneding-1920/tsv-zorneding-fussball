@@ -27,6 +27,12 @@ sections:
           0160/94801019
 
           [florian.heppert@web.de](mailto:florian.heppert@web.de)
+      - image_small: /img/default_person.png
+        body: |-
+          **Sportlicher Leiter**
+
+          0151/23060710
+        title: Rudolf Riedl
       - image_small: /img/blau-jens.jpeg
         title: Jens Blau
         body: "**Betreuer**"
