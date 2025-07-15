@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/img_1752.jpg
+      - image_small: /img/grusz-mark_seitlich.jpeg
         title: Mark Grusz
         body: |-
           **1. Abteilungsleiter**
@@ -38,14 +38,12 @@ sections:
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
-        body: >-
+        body: |-
           **Jugendleiter**
-
 
           0172/7483253
 
-
-          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
+          fb-jugendleitung@tsv-zorneding.de
       - image_small: /img/img_1751.jpg
         title: Christian Kraus
         body: |-
@@ -98,7 +96,7 @@ sections:
         body: |-
           **2. Kassier**
 
-          0170/7984856
+
 
           [](mailto:john.dite@mailbox.org)
         title: John Dite
@@ -121,7 +119,7 @@ sections:
         body: |-
           **Ordner / Live-Ticker**
 
-          0162/9290354
+
 
           [](mailto:yvonne.linnemann@web.de)
       - image_small: /img/sitte-tom.jpeg
@@ -129,7 +127,7 @@ sections:
         body: |-
           **Ordner / Live-Ticker**
 
-          0177/6010335
+
 
           [](mailto:fam.sitte@t-online.de)
       - image_small: /img/zenthofer-rene.jpeg
