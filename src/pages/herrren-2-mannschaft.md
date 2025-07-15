@@ -8,20 +8,24 @@ sections:
     image_large: /img/2.mannschaft_2024-25.jpg
   - type: image_text_small
     info:
-      - image_small: /img/riedl-rudi.jpeg
-        title: Rudolf Riedl
+      - image_small: /img/default_person.png
+        title: Michael Franz
         body: |-
           **Trainer**
 
-          0151/23060710
-
-          [e1log@t-online.de](mailto:e1log@t-online.de)
+          0162/9011266
       - image_small: /img/kapfelsperger-maximilian.jpeg
         title: Maximilian Kapfelsperger
         body: |-
           **Co-Trainer**
 
           0175/9747254
+      - image_small: /img/default_person.png
+        title: Rudolf Riedl
+        body: |-
+          **Sportlicher Leiter**
+
+          0151/23060710
     title: Trainer
   - type: body
     body: |-
