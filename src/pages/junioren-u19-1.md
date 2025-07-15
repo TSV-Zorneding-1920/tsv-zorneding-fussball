@@ -10,42 +10,30 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1752.jpg
-        title: Mark Grusz
-        body: |-
-          **Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0172 / 7225799
-
-          [](<mailto: mark@grusz.de>)[Mail](<mailto: mark@grusz.de>)
-      - image_small: /img/img_7247.jpeg
-        title: Mustafa Bayrak
-        body: |-
-          **Co-Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
-
-          0176/22262681
       - image_small: /img/ostner-alex.jpeg
         title: Alexander Ostner
         body: |-
-          **Co-Trainer**
-
-          Trainer-C-Lizenz Kinder u. Jugend
+          **Trainer**
 
           0176/43907075
+      - image_small: /img/nagle-marcus.jpeg
+        title: Marcus Nagle
+        body: |-
+          **Co-Trainer**
+
+          0172/7483253
+
+          Mail: fb-jugendleitung@tsv-zorneding.de
   - type: body
     title: Trainingszeiten
     body: |-
       **Montag**
 
-      19:00 - 20:30 Uhr
+      19:15 - 20:45 Uhr
 
       **Mittwoch**
 
-      19:00  - 20:30 Uhr
+      19:15  - 20:45 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
