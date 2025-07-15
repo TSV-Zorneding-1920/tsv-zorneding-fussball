@@ -13,8 +13,6 @@ menu_entry:
         menu_entry:
           - page: /mannschaften/junioren/u19
             title: U19 (A-Jugend)
-          - page: /mannschaften/junioren/u17
-            title: U17 (B-Jugend)
           - page: /mannschaften/junioren/u15
             title: U15 (C-Jugend)
           - title: U15 Flex (C-Jugend)
