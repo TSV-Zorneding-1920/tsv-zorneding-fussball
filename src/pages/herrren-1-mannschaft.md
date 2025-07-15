@@ -9,7 +9,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1703.jpg
+      - image_small: /img/bergmann-sascha_seitlich.jpeg
         title: Sascha Bergmann
         body: |-
           **Trainer**
@@ -19,7 +19,7 @@ sections:
           0176/32881471
 
           [bergmannsascha@gmx.de](mailto:bergmannsascha@gmx.de)
-      - image_small: /img/heppert-florian.jpeg
+      - image_small: /img/heppert-flo_seitlich.jpeg
         title: Florian Heppert
         body: |-
           **Co-Trainer**
