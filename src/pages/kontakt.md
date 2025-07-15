@@ -38,12 +38,14 @@ sections:
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
-        body: |-
+        body: >-
           **Jugendleiter**
+
 
           0172/7483253
 
-          fb-jugendleitung@tsv-zorneding.de
+
+          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/img_1751.jpg
         title: Christian Kraus
         body: |-
