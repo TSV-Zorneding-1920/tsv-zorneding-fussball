@@ -14,7 +14,7 @@ sections:
           **Trainer**
 
           0162/9011266
-      - image_small: /img/kapfelsperger-maximilian.jpeg
+      - image_small: /img/default_person.png
         title: Maximilian Kapfelsperger
         body: |-
           **Co-Trainer**
