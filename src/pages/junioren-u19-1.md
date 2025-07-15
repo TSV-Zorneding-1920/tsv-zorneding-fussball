@@ -18,12 +18,14 @@ sections:
           0176/43907075
       - image_small: /img/nagle-marcus.jpeg
         title: Marcus Nagle
-        body: |-
+        body: >-
           **Co-Trainer**
+
 
           0172/7483253
 
-          Mail: fb-jugendleitung@tsv-zorneding.de
+
+          [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
   - type: body
     title: Trainingszeiten
     body: |-
