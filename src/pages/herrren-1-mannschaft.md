@@ -9,7 +9,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/bergmann-sascha_seitlich.jpeg
+      - image_small: /img/bergmann-sascha_seitlich_transparent_marmor-wappen-fupa.jpeg
         title: Sascha Bergmann
         body: |-
           **Trainer**
@@ -19,7 +19,7 @@ sections:
           0176/32881471
 
           [bergmannsascha@gmx.de](mailto:bergmannsascha@gmx.de)
-      - image_small: /img/heppert-flo_seitlich.jpeg
+      - image_small: /img/heppert-flo_seitlich_transparent_marmor-wappen-fupa.jpeg
         title: Florian Heppert
         body: |-
           **Co-Trainer**
@@ -33,7 +33,7 @@ sections:
 
           0151/23060710
         title: Rudolf Riedl
-      - image_small: /img/img_8421.jpeg
+      - image_small: /img/img_0003_transparent_marmor-wappen-fupa.jpeg
         title: Christian Kraus
         body: "**Teammanager**"
       - image_small: /img/img_9777_marmor-wappen.jpeg
