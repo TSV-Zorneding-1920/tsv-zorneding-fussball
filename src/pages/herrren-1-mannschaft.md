@@ -5,7 +5,7 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/1.mannschaft_2024-25.jpg
+    image_large: /img/teamfoto_v1_12.07.2025.jpg
   - type: image_text_small
     title: Trainer
     info:
