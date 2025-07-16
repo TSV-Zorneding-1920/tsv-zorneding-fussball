@@ -20,12 +20,18 @@ sections:
           **Co-Trainer**
 
           0175/9747254
-      - image_small: /img/default_person.png
+      - image_small: /img/img_9451_marmor-wappen.jpeg
         title: Rudolf Riedl
         body: |-
           **Sportlicher Leiter**
 
           0151/23060710
+      - image_small: /img/img_9777_marmor-wappen.jpeg
+        title: Boris Šibila
+        body: "**Torwarttrainer**"
+      - image_small: /img/img_9982_marmor-wappen.jpeg
+        title: Josef Bayer
+        body: "**Torwarttrainer**"
     title: Trainer
   - type: body
     body: |-
