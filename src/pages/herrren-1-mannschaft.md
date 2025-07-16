@@ -27,12 +27,21 @@ sections:
           0160/94801019
 
           [florian.heppert@web.de](mailto:florian.heppert@web.de)
-      - image_small: /img/default_person.png
+      - image_small: /img/img_9451_marmor-wappen.jpeg
         body: |-
           **Sportlicher Leiter**
 
           0151/23060710
         title: Rudolf Riedl
+      - image_small: /img/img_8421.jpeg
+        title: Christian Kraus
+        body: "**Teammanager**"
+      - image_small: /img/img_9777_marmor-wappen.jpeg
+        title: Boris Šibila
+        body: "**Torwarttrainer**"
+      - image_small: /img/img_9982_marmor-wappen.jpeg
+        title: Josef Bayer
+        body: "**Torwarttrainer**"
       - image_small: /img/blau-jens.jpeg
         title: Jens Blau
         body: "**Betreuer**"
