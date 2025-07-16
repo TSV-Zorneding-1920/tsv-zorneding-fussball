@@ -32,7 +32,7 @@ sections:
   - type: image_text_small
     title: Ihre Ansprechpartner
     info:
-      - image_small: /img/img_1752.jpg
+      - image_small: /img/img_9432_marmor-wappen.jpeg
         title: Mark Grusz
         body: >-
           **1.Vorsitzender**
@@ -50,7 +50,7 @@ sections:
           0177/2316361
 
           [](tel:+491704548539)[](hennig-zorneding@t-online.de)
-      - image_small: /img/koppitz-andreas.jpg
+      - image_small: /img/default_person.png
         title: Andreas Koppitz
         body: |-
           **Schriftführer**
