@@ -38,8 +38,8 @@ sections:
         title: Gasthof Hotel Neuwirt
       - image: /img/logo-ksk.webp
         title: Kreissparkasse München Starnberg Ebersberg
-      - image: /img/logo-rbz.webp
-        title: Raiffeisenbank Zorneding eG
+      - image: /img/raiffeisen.jpg
+        title: Raiffeisen-Volksbank Ebersberg eG
       - image: /img/schreinerei-kriegenhofer_logo.png
         title: Schreinerei Kriegenhofer
       - image: /img/qedcon.png
