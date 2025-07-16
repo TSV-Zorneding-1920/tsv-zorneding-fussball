@@ -20,7 +20,7 @@ sections:
           0172/7225799
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/default_person.png
+      - image_small: /img/img_9692_marmor-wappen.jpeg
         title: Benedikt Förster
         body: |-
           **2. Abteilungsleiter**
