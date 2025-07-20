@@ -18,6 +18,12 @@ sections:
           0162/8570306
 
           [Mail](<mailto: benedikt.foerster@aol.com>)
+      - image_small: /img/default_person.png
+        title: Fabian Nickel
+        body: |-
+          **Trainer**
+
+          0179/2253132
   - type: body
     title: Trainingszeiten
     body: |-
