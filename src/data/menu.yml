@@ -19,14 +19,14 @@ menu_entry:
             title: U13 (D-Jugend)
           - title: U12/1 (D-Jugend)
             page: /mannschaften/junioren/u12-1
-          - page: /mannschaften/junioren/u11
-            title: U11 (E-Jugend)
-          - title: U11/2 (E-Jugend)
-            page: /mannschaften/junioren/u11-2
-          - page: /mannschaften/junioren/u11-3
-            title: U11/3 (E-Jugend)
+          - title: U12/2 (D-Jugend)
+            page: /mannschaften/junioren/u12-2
+          - page: /mannschaften/junioren/u12-3
+            title: U12/3 (D-Jugend)
           - page: /mannschaften/junioren/u10
             title: U10 (E-Jugend)
+          - title: U8 (F-Jugend)
+            page: /mannschaften/junioren/u08
           - page: /mannschaften/junioren/u07
             title: U07 (G-Jugend)
       - title: Senioren
