@@ -17,8 +17,8 @@ menu_entry:
             title: U15 (C-Jugend)
           - page: /mannschaften/junioren/u13
             title: U13 (D-Jugend)
-          - title: U12 (D-Jugend)
-            page: /mannschaften/junioren/u12
+          - title: U12/1 (D-Jugend)
+            page: /mannschaften/junioren/u12-1
           - page: /mannschaften/junioren/u11
             title: U11 (E-Jugend)
           - title: U11/2 (E-Jugend)
