@@ -6,18 +6,10 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
-    title: Jahrgänge 2018 u. jünger
+    title: Jahrgänge 2019 u. jünger
   - type: image_text_small
     title: Trainer
-    info:
-      - image_small: /img/default_person-1.png
-        title: Benedikt Förster
-        body: |-
-          **Trainer**
-
-          0162/8570306
-
-          [Mail](<mailto: benedikt.foerster@aol.com>)
+    info: []
   - type: body
     title: Trainingszeiten
     body: |-
