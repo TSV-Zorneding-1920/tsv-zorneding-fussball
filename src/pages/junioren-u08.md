@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U09/2 (F-Jugend)
-slug: mannschaften/junioren/u09-2
+title: Junioren - U10/2 (E-Jugend)
+slug: mannschaften/junioren/u10-2
 showTitle: true
 sections:
   - type: image
