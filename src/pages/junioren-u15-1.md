@@ -29,11 +29,11 @@ sections:
     body: |-
       **Dienstag**
 
-      17:30 - 19:00 Uhr
+      17:15 - 18:45 Uhr
 
       **Donnerstag**
 
-      17:30 - 19:00 Uhr
+      17:15 - 18:45 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
