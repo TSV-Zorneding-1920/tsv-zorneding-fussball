@@ -6,26 +6,24 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
-    title: Jahrgänge 2010/2011
+    title: Jahrgänge 2011/2012
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Yazar Taskin
+        title: Julian Ullrich
         body: |-
           **Trainer**
 
-          0178/1633470
+          0157/72536636
 
           [](<mailto: hartmanhilter@outlook.de>)
       - image_small: /img/default_person.png
-        title: Dennis Delges
+        title: Mirko Pietrzak
         body: |-
           **Trainer**
 
-          0151/27578356
-
-          [Mail](<mailto: dennis.delges@t-online.de>)
+          0157/3933851
   - type: body
     title: Trainingszeiten
     body: |-
