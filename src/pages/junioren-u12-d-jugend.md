@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U12 (D-Jugend)
-slug: mannschaften/junioren/u12
+title: Junioren - U12/1 (D-Jugend)
+slug: mannschaften/junioren/u12-1
 showTitle: true
 sections:
   - type: image
