@@ -9,7 +9,25 @@ sections:
     title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
-    info: []
+    info:
+      - image_small: /img/default_person.png
+        title: Dejan Varcakovic
+        body: |-
+          **Trainer**
+
+          0151/28521002
+      - image_small: /img/default_person.png
+        title: Eduard Ospelkaus
+        body: |-
+          **Trainer**
+
+          0152/27289313
+      - image_small: /img/default_person.png
+        title: Yvonne Wiszowaty
+        body: |-
+          **Trainer**
+
+          0171/2878301
   - type: body
     title: Trainingszeiten
     body: |-
