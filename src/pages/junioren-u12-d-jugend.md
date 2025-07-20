@@ -6,32 +6,21 @@ showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
-    title: Jahrgang 2013
+    title: Jahrgang 2014
   - type: image_text_small
     info:
       - image_small: /img/default_person.png
-        title: Robert von Stein
-        body: >-
+        title: Christian Gollwitzer
+        body: |-
           **Trainer**
 
-
-          0151/12567075
-
-
-          [](mailto:%20robert.vonstein@gmx.de)[Mail](<mailto: robert.vonstein@gmx.de>)
+          0179/4991509
       - image_small: /img/default_person.png
-        title: André Ullrich
-        body: >-
+        title: Antonio Volarevic
+        body: |-
           **Trainer**
 
-
-          0157/72536460
-
-
-          [](mailto:%20and.ullrich@yahoo.de)[Mail](<mailto: and.ullrich@yahoo.de>)
-      - image_small: /img/default_person.png
-        title: Florian von Stein
-        body: "**Co-Trainer**"
+          0157/52795059
     title: Trainer
   - type: body
     title: Trainingszeiten
