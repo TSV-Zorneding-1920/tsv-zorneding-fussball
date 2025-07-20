@@ -5,35 +5,40 @@ slug: mannschaften/junioren/u13
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo-text.jpg
-    title: Jahrgang 2012
+    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    title: Jahrgang 2013
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/img_1711.jpg
-        title: Julian Ullrich
+      - image_small: /img/default_person.png
+        title: Robert von Stein
         body: |-
           **Trainer**
 
-          0157/72536636
+          0151/12567075
+
+          [robert.vonstein@gmx.de](<mailto: robert.vonstein@gmx.de>)
 
           [](mailto:U13-FBJ@tsv-zorneding.de)
-      - image_small: /img/img_1701.jpg
-        title: Mirko Pietrzak
+      - image_small: /img/default_person.png
+        title: André Ullrich
         body: |-
           **Trainer**
 
-          0157/39338511
+          0157/72536460
+      - image_small: /img/default_person.png
+        title: Florian von Stein
+        body: "**Co-Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
-      **Dienstag**
+      **Montag**
 
-      17:45 - 19:15 Uhr
+      17:00 - 18:30 Uhr
 
       **Donnerstag**
 
-      17:45 - 19:15 Uhr
+      17:00 - 18:30 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
