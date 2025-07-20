@@ -15,12 +15,8 @@ menu_entry:
             title: U19 (A-Jugend)
           - page: /mannschaften/junioren/u15
             title: U15 (C-Jugend)
-          - title: U15 Flex (C-Jugend)
-            page: /mannschaften/junioren/u15flex
           - page: /mannschaften/junioren/u13
             title: U13 (D-Jugend)
-          - title: U13/2 (D-Jugend)
-            page: /mannschaften/junioren/u13-2
           - title: U12 (D-Jugend)
             page: /mannschaften/junioren/u12
           - page: /mannschaften/junioren/u11
@@ -31,10 +27,6 @@ menu_entry:
             title: U11/3 (E-Jugend)
           - page: /mannschaften/junioren/u10
             title: U10 (E-Jugend)
-          - page: /mannschaften/junioren/u09
-            title: U09/1 (F-Jugend)
-          - page: /mannschaften/junioren/u09-2
-            title: U09/2 (F-Jugend)
           - page: /mannschaften/junioren/u07
             title: U07 (G-Jugend)
       - title: Senioren
