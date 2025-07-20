@@ -23,8 +23,10 @@ menu_entry:
             page: /mannschaften/junioren/u12-2
           - page: /mannschaften/junioren/u12-3
             title: U12/3 (D-Jugend)
-          - page: /mannschaften/junioren/u10
-            title: U10 (E-Jugend)
+          - page: /mannschaften/junioren/u10-1
+            title: U10/1 (E-Jugend)
+          - title: U10/2 (E-Jugend)
+            page: /mannschaften/junioren/u10-2
           - title: U8 (F-Jugend)
             page: /mannschaften/junioren/u08
           - page: /mannschaften/junioren/u07
