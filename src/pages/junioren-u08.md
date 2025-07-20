@@ -20,9 +20,15 @@ sections:
           [Mail](<mailto: sebastian@ooyoo.de>)
       - image_small: /img/default_person.png
         title: Christian Lindenthal
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0170/4780646
       - image_small: /img/default_person.png
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0172/7766956
         title: Robert Starringer
   - type: body
     title: Trainingszeiten
