@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U11/2 (E-Jugend)
-slug: mannschaften/junioren/u11-2
+title: Junioren - U12/2 (D-Jugend)
+slug: mannschaften/junioren/u12-2
 showTitle: true
 sections:
   - type: image
@@ -9,25 +9,13 @@ sections:
     title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
-    info:
-      - image_small: /img/default_person.png
-        body: |-
-          **Trainer**
-
-          0157/52795059
-        title: Antonio Volarevic
-      - image_small: /img/default_person.png
-        title: Georg Kerschdorfer
-        body: |-
-          **Trainer**
-
-          0159/03899428
+    info: []
   - type: body
     title: Trainingszeiten
     body: |-
       **Dienstag**
 
-      17:00 - 18:30 Uhr
+      17:30 - 19:00 Uhr
 
       **Freitag**
 
