@@ -27,9 +27,9 @@ sections:
     body: |-
       **Montag**
 
-      17:00 - 18:30 Uhr
+      17:30 - 19:00 Uhr
 
       **Mittwoch**
 
-      17:00 - 18:30 Uhr
+      17:30 - 19:00 Uhr
 ---
