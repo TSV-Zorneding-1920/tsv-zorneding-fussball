@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u12-2
 showTitle: true
 sections:
   - type: image
-    image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
+    image_large: /img/tsv-zorneding-u12_2025-26.jpg
     title: Jahrgang 2014
   - type: image_text_small
     title: Trainer
