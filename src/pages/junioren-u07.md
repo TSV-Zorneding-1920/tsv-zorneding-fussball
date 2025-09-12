@@ -9,7 +9,15 @@ sections:
     title: Jahrgänge 2019 u. jünger
   - type: image_text_small
     title: Trainer
-    info: []
+    info:
+      - image_small: /img/default_person-1.png
+        title: Alexander Bezold
+        body: |-
+          **Trainer**
+
+          0177/7825989
+
+          [Mail](<mailto: bezold.alexander@googlemail.com>)
   - type: body
     title: Trainingszeiten
     body: |-
