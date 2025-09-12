@@ -18,6 +18,12 @@ sections:
           0177/7825989
 
           [Mail](<mailto: bezold.alexander@googlemail.com>)
+      - image_small: /img/default_person-1.png
+        title: Michele De Zorzi
+        body: "**Trainer**"
+      - image_small: /img/default_person.png
+        title: Vahdet Ciftcibas
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
