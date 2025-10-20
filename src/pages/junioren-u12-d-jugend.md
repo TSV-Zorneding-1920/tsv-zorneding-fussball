@@ -29,7 +29,7 @@ sections:
 
       17:30 - 19:00 Uhr
 
-      **Donnerstag**
+      **Mittwoch**
 
       17:30 - 19:00 Uhr
 
