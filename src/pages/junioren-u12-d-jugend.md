@@ -9,13 +9,13 @@ sections:
     title: Jahrgang 2014
   - type: image_text_small
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/gollwitzer-christian2.jpg
         title: Christian Gollwitzer
         body: |-
           **Trainer**
 
           0179/4991509
-      - image_small: /img/default_person.png
+      - image_small: /img/volarevic-antonio.jpg
         title: Antonio Volarevic
         body: |-
           **Trainer**
