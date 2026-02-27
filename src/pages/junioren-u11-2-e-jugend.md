@@ -10,6 +10,12 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
+      - image_small: /img/default_person-1.png
+        title: Daniel Hüller
+        body: |-
+          **Trainer**
+
+          0151/42601980
       - image_small: /img/default_person.png
         title: Dejan Varcakovic
         body: |-
