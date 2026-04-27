@@ -9,24 +9,6 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/bergmann-sascha_seitlich_transparent_marmor-wappen-fupa.jpeg
-        title: Sascha Bergmann
-        body: |-
-          **Trainer**
-
-          Trainer-B-Lizenz
-
-          0176/32881471
-
-          [bergmannsascha@gmx.de](mailto:bergmannsascha@gmx.de)
-      - image_small: /img/heppert-flo_seitlich_transparent_marmor-wappen-fupa.jpeg
-        title: Florian Heppert
-        body: |-
-          **Co-Trainer**
-
-          0160/94801019
-
-          [florian.heppert@web.de](mailto:florian.heppert@web.de)
       - image_small: /img/img_9451_marmor-wappen.jpeg
         body: |-
           **Sportlicher Leiter**
