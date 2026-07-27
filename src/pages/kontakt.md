@@ -46,7 +46,7 @@ sections:
 
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
-      - image_small: /img/img_8421.jpeg
+      - image_small: /img/default_person.png
         title: Christian Kraus
         body: |-
           **Teammanager Herren**
