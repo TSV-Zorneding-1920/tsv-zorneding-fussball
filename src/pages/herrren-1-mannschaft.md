@@ -9,7 +9,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/bergmann-sascha_seitlich_transparent_marmor-wappen-fupa.jpeg
+      - image_small: /img/img_4557_transparent_paint-splash-wappen-fupa.jpeg
         title: Sascha Bergmann
         body: |-
           **Trainer**
