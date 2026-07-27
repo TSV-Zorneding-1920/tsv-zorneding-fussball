@@ -8,7 +8,7 @@ sections:
     image_large: /img/3.mannschaft_2024-25.jpg
   - type: image_text_small
     info:
-      - image_small: /img/img_8472_transparent_marmor-wappen-fupa.jpeg
+      - image_small: /img/img_5215_transparent_paint-splash-wappen-fupa.jpeg
         title: Markus Bayer
         body: 0174/9475789
     title: Trainer/Betreuer
