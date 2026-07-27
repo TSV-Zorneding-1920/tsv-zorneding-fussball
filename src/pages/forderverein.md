@@ -32,7 +32,7 @@ sections:
   - type: image_text_small
     title: Ihre Ansprechpartner
     info:
-      - image_small: /img/img_9432_marmor-wappen.jpeg
+      - image_small: /img/img_4891_transparent_paint-splash-wappen-fupa.jpeg
         title: Mark Grusz
         body: >-
           **1.Vorsitzender**
