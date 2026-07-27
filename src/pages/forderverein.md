@@ -42,7 +42,7 @@ sections:
 
 
           [fussballfoerderverein-zorneding@gmx.de](mailto:fussballfoerderverein-zorneding@gmx.de)
-      - image_small: /img/img_4148-2.jpeg
+      - image_small: /img/default_person.png
         title: René Zenthöfer
         body: |-
           **Schatzmeister/Kassier**
