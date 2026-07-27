@@ -12,7 +12,7 @@ sections:
     title: ""
   - type: image_text_small
     info:
-      - image_small: /img/img_9432_marmor-wappen.jpeg
+      - image_small: /img/img_4891_transparent_paint-splash-wappen-fupa.jpeg
         title: Mark Grusz
         body: |-
           **1. Abteilungsleiter**
@@ -20,7 +20,7 @@ sections:
           0172/7225799
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/img_9692_marmor-wappen.jpeg
+      - image_small: /img/img_4542_transparent_paint-splash-wappen-fupa.jpeg
         title: Benedikt Förster
         body: |-
           **2. Abteilungsleiter**
@@ -28,7 +28,7 @@ sections:
           0162/8570306
 
           [fussball@tsv-zorneding.de](<mailto: fussball@tsv-zorneding.de>)
-      - image_small: /img/img_9451_marmor-wappen.jpeg
+      - image_small: /img/img_5358_transparent_paint-splash-wappen-fupa.jpeg
         title: Rudolf Riedl
         body: |-
           **Sportlicher Leiter Herren**
@@ -78,7 +78,7 @@ sections:
           0157/85978993
 
           [](mailto:man.hauser@t-online.de)
-      - image_small: /img/eichner-werner.jpeg
+      - image_small: /img/default_person.png
         title: Werner Eichner
         body: |-
           **Zeugwart**
@@ -110,13 +110,13 @@ sections:
           0175/2057128
 
           [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
-      - image_small: /img/ulrich-andre.jpeg
+      - image_small: /img/default_person.png
         title: André Ullrich
         body: |-
           **Leiter des Ordnungsdienstes**
 
           0157/72536460
-      - image_small: /img/linnemann-yvonne.jpeg
+      - image_small: /img/default_person.png
         title: Yvonne Linnemann
         body: |-
           **Ordner / Live-Ticker**
@@ -124,7 +124,7 @@ sections:
 
 
           [](mailto:yvonne.linnemann@web.de)
-      - image_small: /img/sitte-tom.jpeg
+      - image_small: /img/default_person.png
         title: Thomas Sitte
         body: |-
           **Ordner / Live-Ticker**
@@ -132,7 +132,7 @@ sections:
 
 
           [](mailto:fam.sitte@t-online.de)
-      - image_small: /img/zenthofer-rene.jpeg
+      - image_small: /img/default_person.png
         title: René Zenthöfer
         body: Stadionsprecher
     title: Ansprechpartner Fußballabteilung
