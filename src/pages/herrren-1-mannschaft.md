@@ -15,13 +15,13 @@ sections:
           **Trainer**
 
           0176/32881471
-      - image_small: /img/heppert-flo_seitlich_transparent_marmor-wappen-fupa.jpeg
+      - image_small: /img/img_4614_transparent_paint-splash-wappen-fupa.jpeg
         title: Florian Heppert
         body: |-
           **Co-Trainer**
 
           0160/94801019
-      - image_small: /img/img_9451_marmor-wappen.jpeg
+      - image_small: /img/img_5358_transparent_paint-splash-wappen-fupa.jpeg
         body: |-
           **Sportlicher Leiter**
 
@@ -30,12 +30,15 @@ sections:
       - image_small: /img/img_0003_transparent_marmor-wappen-fupa.jpeg
         title: Christian Kraus
         body: "**Teammanager**"
-      - image_small: /img/img_9777_marmor-wappen.jpeg
+      - image_small: /img/img_4933_transparent_paint-splash-wappen-fupa.jpeg
         title: Boris Šibila
         body: "**Torwarttrainer**"
-      - image_small: /img/blau-jens.jpeg
+      - image_small: /img/img_5247_transparent_paint-splash-wappen-fupa.jpeg
         title: Jens Blau
         body: "**Betreuer**"
+      - image_small: /img/img_0593_transparent_paint-splash-wappen-fupa.jpeg
+        title: Kevin Pino Tellez
+        body: "**Physiotherapeut**"
   - type: body
     title: Trainingszeiten
     body: |-
