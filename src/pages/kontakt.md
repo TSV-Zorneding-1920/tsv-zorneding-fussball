@@ -47,14 +47,6 @@ sections:
 
           [fb-jugendleitung@tsv-zorneding.de](mailto:fb-jugendleitung@tsv-zorneding.de)
       - image_small: /img/default_person.png
-        title: Christian Kraus
-        body: |-
-          **Teammanager Herren**
-
-          0176/60904912
-
-          [](<mailto: christian.kraus@galeria.de>)
-      - image_small: /img/default_person.png
         title: Robert Höger
         body: |-
           **Seniorenleiter**
@@ -63,6 +55,14 @@ sections:
 
           [hoegerrobert@gmail.com](<mailto: hoegerrobert@gmail.com>)
       - image_small: /img/default_person.png
+        title: Alexander Ospelkaus
+        body: |-
+          **Schiedsrichterobmann**
+
+          0175/2057128
+
+          [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
+      - image_small: /img/default_person.png
         body: |-
           **Pressewart/Schriftführer**
 
@@ -70,6 +70,14 @@ sections:
 
           [chris.dite@gmx.net](mailto:chris.dite@gmx.net)
         title: Christopher Dite
+      - image_small: /img/default_person.png
+        title: Christian Kraus
+        body: |-
+          **Teammanager Herren**
+
+          0176/60904912
+
+          [](<mailto: christian.kraus@galeria.de>)
       - image_small: /img/default_person.png
         title: Manfred Hauser
         body: |-
@@ -103,19 +111,14 @@ sections:
           [](mailto:john.dite@mailbox.org)
         title: John Dite
       - image_small: /img/default_person.png
-        title: Alexander Ospelkaus
-        body: |-
-          **Schiedsrichterobmann**
-
-          0175/2057128
-
-          [a.ospelkaus@gmx.de](<mailto: a.ospelkaus@gmx.de>)
-      - image_small: /img/default_person.png
         title: André Ullrich
         body: |-
           **Leiter des Ordnungsdienstes**
 
           0157/72536460
+      - image_small: /img/default_person.png
+        title: René Zenthöfer
+        body: Stadionsprecher
       - image_small: /img/default_person.png
         title: Yvonne Linnemann
         body: |-
@@ -132,8 +135,5 @@ sections:
 
 
           [](mailto:fam.sitte@t-online.de)
-      - image_small: /img/default_person.png
-        title: René Zenthöfer
-        body: Stadionsprecher
     title: Ansprechpartner Fußballabteilung
 ---
