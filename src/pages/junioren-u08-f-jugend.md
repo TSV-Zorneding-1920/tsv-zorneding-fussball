@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person-1.png
+      - image_small: /img/img_4542_transparent_paint-splash-wappen-fupa.jpeg
         title: Benedikt Förster
         body: |-
           **Trainer**
