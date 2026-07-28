@@ -27,7 +27,7 @@ sections:
 
           0151/23060710
         title: Rudolf Riedl
-      - image_small: /img/img_0003_transparent_marmor-wappen-fupa.jpeg
+      - image_small: /img/img_0003_transparent_paint-splash-wappen-fupa.jpeg
         title: Christian Kraus
         body: "**Teammanager**"
       - image_small: /img/img_4933_transparent_paint-splash-wappen-fupa.jpeg
