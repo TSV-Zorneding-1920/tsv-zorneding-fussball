@@ -8,13 +8,13 @@ sections:
     image_large: /img/2.mannschaft_2024-25.jpg
   - type: image_text_small
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/img_5809_transparent_paint-splash-wappen-fupa.jpeg
         title: Michael Franz
         body: |-
           **Trainer**
 
           0162/9011266
-      - image_small: /img/default_person.png
+      - image_small: /img/img_5565_transparent_paint-splash-wappen-fupa.jpeg
         title: Maximilian Kapfelsperger
         body: |-
           **Co-Trainer**
