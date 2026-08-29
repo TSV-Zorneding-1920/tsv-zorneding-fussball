@@ -26,7 +26,10 @@ sections:
           0176/8486870
       - image_small: /img/default_person.png
         title: Vahdet Ciftcibas
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0176/88147008
   - type: body
     title: Trainingszeiten
     body: |-
