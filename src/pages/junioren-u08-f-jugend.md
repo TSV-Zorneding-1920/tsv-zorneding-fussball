@@ -26,7 +26,10 @@ sections:
           0179/2253132
       - image_small: /img/default_person.png
         title: Florian von Stein
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0163/2882260
   - type: body
     title: Trainingszeiten
     body: |-
