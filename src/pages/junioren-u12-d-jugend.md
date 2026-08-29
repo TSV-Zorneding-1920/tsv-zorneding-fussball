@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U12/1 (D-Jugend)
-slug: mannschaften/junioren/u12-1
+title: Junioren - U13/1 (D-Jugend)
+slug: mannschaften/junioren/u13-1
 showTitle: true
 sections:
   - type: image
@@ -15,12 +15,12 @@ sections:
           **Trainer**
 
           0179/4991509
-      - image_small: /img/volarevic-antonio.jpg
-        title: Antonio Volarevic
+      - image_small: /img/img_4997_transparent_paint-splash-wappen-fupa.jpeg
+        title: Eduard Ospelkaus
         body: |-
           **Trainer**
 
-          0157/52795059
+          0152/27289313
     title: Trainer
   - type: body
     title: Trainingszeiten
