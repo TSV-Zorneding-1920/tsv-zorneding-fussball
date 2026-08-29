@@ -20,7 +20,10 @@ sections:
           [Mail](<mailto: bezold.alexander@googlemail.com>)
       - image_small: /img/default_person-1.png
         title: Michele De Zorzi
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0176/8486870
       - image_small: /img/default_person.png
         title: Vahdet Ciftcibas
         body: "**Trainer**"
