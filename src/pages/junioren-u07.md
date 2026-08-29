@@ -1,12 +1,12 @@
 ---
 templateKey: static-page
-title: Junioren - U07 (G-Jugend)
-slug: mannschaften/junioren/u07
+title: Junioren - U08 (F-Jugend)
+slug: mannschaften/junioren/u08
 showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
-    title: Jahrgänge 2019 u. jünger
+    title: Jahrgänge 2019
   - type: image_text_small
     title: Trainer
     info:
@@ -27,7 +27,11 @@ sections:
   - type: body
     title: Trainingszeiten
     body: |-
+      **Dienstag**
+
+      17:00-18:30 Uhr
+
       **Donnerstag**
 
-      17:00-18:00 Uhr
+      17:00-18:30 Uhr
 ---
