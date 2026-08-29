@@ -5,7 +5,7 @@ slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
   - type: image
-    image_large: /img/2.mannschaft_2024-25.jpg
+    image_large: /img/tsv_zorneding_zweite_mannschaft_mit-werbebanner.jpg
   - type: image_text_small
     info:
       - image_small: /img/img_5809_transparent_paint-splash-wappen-fupa.jpeg
