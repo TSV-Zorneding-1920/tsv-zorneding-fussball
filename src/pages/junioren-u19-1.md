@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/ostner-alex.jpeg
+      - image_small: /img/img_8945_transparent_marmor-wappen-fupa.jpeg
         title: Alexander Ostner
         body: |-
           **Trainer**
