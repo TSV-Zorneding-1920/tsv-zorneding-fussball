@@ -25,15 +25,10 @@ sections:
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image
     image_large: /img/inovis.jpg
+  - type: image
+    image_large: /img/saurer-wolf_bandenwerbung.jpg
   - type: image_text
-    nodes:
-      - image: /img/saurer-wolf_bandenwerbung.jpg
-        title: Saurer & Wolf GmbH
-      - image: /img/rebound-logo-on-white.png
-        title: Rebound Electronics
     title: Sponsoren
-  - type: image_text
-    title: ""
     nodes:
       - image: /img/hoermann-logo-gruppe_rgb.png
         title: Hörmann Gruppe
