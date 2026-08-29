@@ -12,7 +12,10 @@ sections:
     info:
       - image_small: /img/default_person.png
         title: Benjamin Hintze
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          01520/4862791
   - type: body
     title: Trainingszeiten
     body: |-
