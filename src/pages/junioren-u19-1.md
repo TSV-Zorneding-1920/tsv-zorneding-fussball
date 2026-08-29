@@ -16,9 +16,12 @@ sections:
           **Trainer**
 
           0176/43907075
-      - image_small: /img/default_person.png
+      - image_small: /img/img_5147_transparent_paint-splash-wappen-fupa.jpeg
         title: Raphael Nagle-Schneider
-        body: "**Co-Trainer**"
+        body: |-
+          **Co-Trainer**
+
+          0174/1747391
   - type: body
     title: Trainingszeiten
     body: |-
