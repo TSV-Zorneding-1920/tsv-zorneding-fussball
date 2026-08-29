@@ -11,10 +11,10 @@ menu_entry:
             page: /mannschaften/herren/3.Mannschaft
       - title: Junioren
         menu_entry:
-          - page: /mannschaften/junioren/u15
-            title: U15 (C-Jugend)
           - page: /mannschaften/junioren/u17
             title: U17 (B-Jugend)
+          - page: /mannschaften/junioren/u15
+            title: U15 (C-Jugend)
           - page: /mannschaften/junioren/u13
             title: U13 (D-Jugend)
           - title: U12/1 (D-Jugend)
