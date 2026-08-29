@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U10/1 (E-Jugend)
-slug: mannschaften/junioren/u10-1
+title: Junioren - U11/1 (E-Jugend)
+slug: mannschaften/junioren/u11-1
 showTitle: true
 sections:
   - type: image
@@ -30,6 +30,9 @@ sections:
           **Trainer**
 
           0172/7766956
+      - image_small: /img/default_person.png
+        title: Stefan Kainrath
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
