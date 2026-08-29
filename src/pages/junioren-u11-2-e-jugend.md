@@ -16,7 +16,7 @@ sections:
           **Trainer**
 
           0151/42601980
-      - image_small: /img/default_person.png
+      - image_small: /img/img_0289_transparent_paint-splash-wappen-fupa.jpeg
         title: Dejan Varcakovic
         body: |-
           **Trainer**
