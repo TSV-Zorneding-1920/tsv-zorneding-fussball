@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U08 (F-Jugend)
-slug: mannschaften/junioren/u08
+title: Junioren - U09 (F-Jugend)
+slug: mannschaften/junioren/u09
 showTitle: true
 sections:
   - type: image
@@ -24,6 +24,9 @@ sections:
           **Trainer**
 
           0179/2253132
+      - image_small: /img/default_person.png
+        title: Florian von Stein
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
