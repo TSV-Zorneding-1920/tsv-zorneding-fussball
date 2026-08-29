@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U10/2 (E-Jugend)
-slug: mannschaften/junioren/u10-2
+title: Junioren - U11/2 (E-Jugend)
+slug: mannschaften/junioren/u11-2
 showTitle: true
 sections:
   - type: image
@@ -30,6 +30,9 @@ sections:
 
           0172/7766956
         title: Robert Starringer
+      - image_small: /img/default_person.png
+        title: Stefan Kainrath
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
