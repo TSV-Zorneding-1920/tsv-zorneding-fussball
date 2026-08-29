@@ -32,7 +32,10 @@ sections:
         title: Robert Starringer
       - image_small: /img/default_person.png
         title: Stefan Kainrath
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0177/6099101
   - type: body
     title: Trainingszeiten
     body: |-
