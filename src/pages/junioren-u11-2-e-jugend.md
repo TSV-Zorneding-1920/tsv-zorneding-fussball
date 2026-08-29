@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
-title: Junioren - U12/2 (D-Jugend)
-slug: mannschaften/junioren/u12-2
+title: Junioren - U13/2 (D-Jugend)
+slug: mannschaften/junioren/u13-2
 showTitle: true
 sections:
   - type: image
@@ -22,21 +22,13 @@ sections:
           **Trainer**
 
           0151/28521002
-      - image_small: /img/default_person.png
-        title: Eduard Ospelkaus
-        body: |-
-          **Trainer**
-
-          0152/27289313
-      - image_small: /img/default_person.png
-        title: Yvonne Wiszowaty
-        body: |-
-          **Trainer**
-
-          0171/2878301
   - type: body
     title: Trainingszeiten
     body: |-
+      **Montag**
+
+      17:30 - 19:00 Uhr
+
       **Dienstag**
 
       17:30 - 19:00 Uhr
