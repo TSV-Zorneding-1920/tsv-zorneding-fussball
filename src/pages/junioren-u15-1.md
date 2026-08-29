@@ -10,7 +10,7 @@ sections:
   - type: image_text_small
     title: Trainer
     info:
-      - image_small: /img/default_person.png
+      - image_small: /img/img_4974_transparent_paint-splash-wappen-fupa.jpeg
         title: Julian Ullrich
         body: |-
           **Trainer**
