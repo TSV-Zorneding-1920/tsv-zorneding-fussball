@@ -1,38 +1,22 @@
 ---
 templateKey: static-page
-title: Junioren - U10 (E-Jugend)
-slug: mannschaften/junioren/u10
+title: Junioren - U07 (G-Jugend)
+slug: mannschaften/junioren/u07
 showTitle: true
 sections:
   - type: image
     image_large: /img/mannschaftsfoto-platzhalter_mit-tsv-logo.jpg
-    title: Jahrgang 2015
+    title: Jahrgang 2020 u. jünger
   - type: image_text_small
     title: Trainer
     info:
       - image_small: /img/default_person.png
-        title: Daniel Hüller
-        body: |-
-          **Trainer**
-
-          0151/42601980
-      - image_small: /img/default_person.png
-        title: Andreas Weck
-        body: |-
-          **Trainer**
-
-          0177/3383651
-      - image_small: /img/default_person.png
-        title: Raphael Nagle-Schneider
-        body: "**Co-Trainer**"
+        title: Benjamin Hintze
+        body: "**Trainer**"
   - type: body
     title: Trainingszeiten
     body: |-
-      **Montag**
+      **Dienstag**
 
-      17:00 - 18:30 Uhr
-
-      **Mittwoch**
-
-      17:00 - 18:30 Uhr
+      17:00 - 18:00 Uhr
 ---
