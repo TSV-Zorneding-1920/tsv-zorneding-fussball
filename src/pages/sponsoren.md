@@ -16,8 +16,11 @@ sections:
     image_large: /img/logo_fahrrad_hemrich_schild_flach_negativ.webp
     title: Trikotsponsor 3. Herren-Mannschaft
   - type: image
-    image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
+    image_large: /img/swagelok-munchen-logo-blau-ohne-hintergrund.png
     title: Premium-Sponsoren
+  - type: image
+    image_large: /img/ebe_banner_302x72m_fussballplatz_fin-x3.jpg
+    title: ""
   - type: image
     image_large: /img/gartnerei-schutz_logo.jpg
   - type: image
