@@ -5,13 +5,23 @@ slug: mannschaften/herren/1.Mannschaft
 showTitle: true
 sections:
   - type: iframe
-    title: Kader
+    title: Kader 2026/2027
     html: >-
       <div id="fp-widget_root-3Ip6Q1mrL0OaNBuZGnzLAQnumAo"><a
       href="https://www.fupa.net/club/tsv-zorneding" target="_blank"
       rel="noopener">TSV Zorneding auf FuPa</a></div>
 
       <script src="https://widget-api.fupa.net/vendor/widget.js?v1"></script>
+  - type: body
+    title: Trainingszeiten
+    body: |-
+      **Dienstag**
+
+      19:15 bis 21:00 Uhr
+
+      **Donnerstag**
+
+      19:15 bis 21:00 Uhr
   - type: iframe
     title: Aktueller Spielplan, Ergebnisse und Tabelle
     html: >-
@@ -25,49 +35,4 @@ sections:
       BFVWidget.HTML5.zeigeMannschaftKomplett("016PC82MDG000000VV0AG80NVV8OQVTB", "bfv1630938185441", { height: "800", width: "350", selectedTab:BFVWidget.HTML5.mannschaftTabs.spiele, colorResults: "undefined" , colorNav: "undefined" , colorClubName : "undefined" , backgroundNav: "undefined"});
 
       </script>
-  - type: body
-    title: Trainingszeiten
-    body: |-
-      **Dienstag**
-
-      19:15 bis 21:00 Uhr
-
-      **Donnerstag**
-
-      19:15 bis 21:00 Uhr
-  - type: image
-    image_large: /img/tsv_zorneding_erste_mannschaft_mit-werbebanner.jpg
-  - type: image_text_small
-    title: Trainer
-    info:
-      - image_small: /img/img_4557_transparent_paint-splash-wappen-fupa.jpeg
-        title: Sascha Bergmann
-        body: |-
-          **Trainer**
-
-          0176/32881471
-      - image_small: /img/img_4614_transparent_paint-splash-wappen-fupa.jpeg
-        title: Florian Heppert
-        body: |-
-          **Co-Trainer**
-
-          0160/94801019
-      - image_small: /img/img_5358_transparent_paint-splash-wappen-fupa.jpeg
-        body: |-
-          **Sportlicher Leiter**
-
-          0151/23060710
-        title: Rudolf Riedl
-      - image_small: /img/img_0003_transparent_paint-splash-wappen-fupa.jpeg
-        title: Christian Kraus
-        body: "**Teammanager**"
-      - image_small: /img/img_4933_transparent_paint-splash-wappen-fupa.jpeg
-        title: Boris Šibila
-        body: "**Torwarttrainer**"
-      - image_small: /img/img_5247_transparent_paint-splash-wappen-fupa.jpeg
-        title: Jens Blau
-        body: "**Betreuer**"
-      - image_small: /img/img_0593_transparent_paint-splash-wappen-fupa.jpeg
-        title: Kevin Pino Tellez
-        body: "**Physiotherapeut**"
 ---
