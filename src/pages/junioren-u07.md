@@ -25,7 +25,7 @@ sections:
 
           0176/8486870
       - image_small: /img/default_person.png
-        title: Vahdet Ciftcibas
+        title: Vahdet Ciftcibasi
         body: |-
           **Trainer**
 
