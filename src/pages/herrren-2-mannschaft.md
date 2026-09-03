@@ -4,32 +4,14 @@ title: Herren - 2. Mannschaft
 slug: mannschaften/herren/2.Mannschaft
 showTitle: true
 sections:
-  - type: image
-    image_large: /img/tsv_zorneding_zweite_mannschaft_mit-werbebanner.jpg
-  - type: image_text_small
-    info:
-      - image_small: /img/img_5809_transparent_paint-splash-wappen-fupa.jpeg
-        title: Michael Franz
-        body: |-
-          **Trainer**
+  - type: iframe
+    title: Kader 2026/2027
+    html: >-
+      <div id="fp-widget_root-3Ip7fKtyMpAG5vlVHaRDWVA19Mi"><a
+      href="https://www.fupa.net/club/tsv-zorneding" target="_blank"
+      rel="noopener">TSV Zorneding auf FuPa</a></div>
 
-          0162/9011266
-      - image_small: /img/img_5565_transparent_paint-splash-wappen-fupa.jpeg
-        title: Maximilian Kapfelsperger
-        body: |-
-          **Co-Trainer**
-
-          0175/9747254
-      - image_small: /img/img_5358_transparent_paint-splash-wappen-fupa.jpeg
-        title: Rudolf Riedl
-        body: |-
-          **Sportlicher Leiter**
-
-          0151/23060710
-      - image_small: /img/img_4933_transparent_paint-splash-wappen-fupa.jpeg
-        title: Boris Šibila
-        body: "**Torwarttrainer**"
-    title: Trainer
+      <script src="https://widget-api.fupa.net/vendor/widget.js?v1"></script>
   - type: body
     body: |-
       **Dienstag**
