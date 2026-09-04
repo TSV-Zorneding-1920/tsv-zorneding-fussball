@@ -70,8 +70,8 @@ sections:
         title: Schreinerei Markl
       - image: /img/logo_schlammerl.jpg
         title: Gasthaus Schlammerl
-      - image: /img/buch-wein.png
+      - image: /img/buch-wein_klein.png
         title: "Buch & Wein "
-      - image: /img/logo_vhs-vaterstetten_50_jahre_2.jpg
+      - image: /img/vhs_logo_klein.jpg
         title: VHS Vaterstetten
 ---
