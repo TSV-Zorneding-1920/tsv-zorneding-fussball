@@ -32,7 +32,7 @@ sections:
     nodes:
       - image: /img/logo_group.png
         title: Hörmann Gruppe
-      - image: /img/logo_neuwirt_ahr.jpg
+      - image: /img/logo_neuwirt_klein.jpg
         title: Gasthof Hotel Neuwirt
       - image: /img/logo-ksk.webp
         title: Kreissparkasse München Starnberg Ebersberg
