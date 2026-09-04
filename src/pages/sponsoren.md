@@ -44,13 +44,13 @@ sections:
         title: qedcon GmbH
       - image: /img/sonnenschutz-lehmann.png
         title: "Lehmann Sonnenschutz "
-      - image: /img/noble-optic_logo.jpg
+      - image: /img/noble-optic_logo_klein.jpg
         title: Noble Optic
       - image: /img/soccergolf-logo.jpg
         title: Soccergolf München
       - image: /img/zib-logo280.png
         title: Zahnheilkunde Birkenhof
-      - image: /img/decosgin.png
+      - image: /img/decosgin_klein.png
         title: DECOSIGN
       - image: /img/gm-czekalla-gmbh.jpeg
         title: GM Czekalla GmbH
