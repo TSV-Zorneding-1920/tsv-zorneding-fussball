@@ -42,7 +42,7 @@ sections:
         title: Schreinerei Kriegenhofer
       - image: /img/qedcon.png
         title: qedcon GmbH
-      - image: /img/sonnenschutz-lehmann.png
+      - image: /img/sonnenschutz-lehmann_klein.png
         title: "Lehmann Sonnenschutz "
       - image: /img/noble-optic_logo_klein.jpg
         title: Noble Optic
@@ -54,17 +54,17 @@ sections:
         title: DECOSIGN
       - image: /img/gm-czekalla-gmbh.jpeg
         title: GM Czekalla GmbH
-      - image: /img/malermeisterbetrieb-calcagnile_1.png
+      - image: /img/malermeisterbetrieb-calcagnile_klein.png
         title: Malermeisterbetrieb Calcagnile
-      - image: /img/logo_lsm-fleet-service-gmbh.jpg
+      - image: /img/logo_lsm-fleet-service-gmbh_klein.jpg
         title: LSM Fleet Service GmbH
-      - image: /img/auto-hiller-kg-opel.jpg
+      - image: /img/auto-hiller_logo_klein.jpg
         title: OPEL Hiller Zorneding
       - image: /img/auto_berger1.jpg
         title: Auto Berger
       - image: /img/logo_web.jpg
         title: food artists
-      - image: /img/ludwig_marc.png
+      - image: /img/ludwig_marc_klein.png
         title: Kfz Sachverständigenbüro Ludwig-Marc
       - image: /img/schreinerei_markl.png
         title: Schreinerei Markl
