@@ -30,7 +30,7 @@ sections:
   - type: image_text
     title: Sponsoren
     nodes:
-      - image: /img/hoermann-logo-gruppe_rgb.png
+      - image: /img/logo_group.png
         title: Hörmann Gruppe
       - image: /img/logo_neuwirt_ahr.jpg
         title: Gasthof Hotel Neuwirt
@@ -52,7 +52,7 @@ sections:
         title: Zahnheilkunde Birkenhof
       - image: /img/decosgin.png
         title: DECOSIGN
-      - image: /img/gm-czekalla.jpeg
+      - image: /img/gm-czekalla-gmbh.jpeg
         title: GM Czekalla GmbH
       - image: /img/malermeisterbetrieb-calcagnile_1.png
         title: Malermeisterbetrieb Calcagnile
