@@ -19,6 +19,8 @@ menu_entry:
             title: U13/1 (D-Jugend)
           - title: U13/2 (D-Jugend)
             page: /mannschaften/junioren/u13-2
+          - page: /mannschaften/junioren/u13-3
+            title: U13/3 flex (D-Jugend)
           - page: /mannschaften/junioren/u11-1
             title: U11/1 (E-Jugend)
           - title: U11/2 (E-Jugend)
