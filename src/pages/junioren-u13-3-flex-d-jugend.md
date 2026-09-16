@@ -12,7 +12,10 @@ sections:
     info:
       - image_small: /img/default_person-1.png
         title: Marc Pohlan
-        body: "**Trainer**"
+        body: |-
+          **Trainer**
+
+          0174/2091999
   - type: body
     title: Trainingszeiten
     body: |-
