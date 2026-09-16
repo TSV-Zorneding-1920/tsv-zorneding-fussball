@@ -5,7 +5,7 @@ slug: mannschaften/junioren/u13-1
 showTitle: true
 sections:
   - type: image
-    image_large: /img/tsv-zorneding-u12_2025-26.jpg
+    image_large: /img/mannschaftsfoto_u13-1.jpeg
     title: Jahrgang 2014
   - type: image_text_small
     info:
